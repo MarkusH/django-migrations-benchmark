@@ -13,6 +13,7 @@ class Djbbtxk(models.Model):
 
 class Ufrkff(models.Model):
     wdarprrrnm = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
+    wxfwt = models.ForeignKey('geemkrwi.Mxvmqmhku', null=True, related_name='+')
     pass
 
 
@@ -33,4 +34,5 @@ class Qotakup(models.Model):
 
 class Estwpd(models.Model):
     kbqdngbtb = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
+    abdlqrp = models.IntegerField(default=0)
     pass

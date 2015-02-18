@@ -15,7 +15,6 @@ class Wilsmoea(models.Model):
 
 
 class Mxvtxbqsa(models.Model):
-    ipxqzrwy = models.ForeignKey('zsskgviadw.Hcetattb', null=True, related_name='+')
     vlarip = models.CharField(default='', max_length=198)
     pass
 
@@ -36,5 +35,10 @@ class Uqqgcprwn(models.Model):
 
 
 class Hxkigetost(models.Model):
-    ycqitjgln = models.ForeignKey('qclaxc.Yswziiulyl', null=True, related_name='+')
+    egtpieu = models.CharField(default='', max_length=50)
+    pass
+
+
+class Knrrd(models.Model):
+    tgykwsrkc = models.ForeignKey('avwpufexob.Fvlkcjd', null=True, related_name='+')
     pass

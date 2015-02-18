@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Livljpedso(models.Model):
-    ceudc = models.IntegerField(default=0)
+    dbrjj = models.CharField(default='', max_length=89)
     pass
 
 

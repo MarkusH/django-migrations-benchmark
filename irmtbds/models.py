@@ -6,11 +6,6 @@ class Rqikftw(models.Model):
     pass
 
 
-class Bemqls(models.Model):
-    hqyqlzp = models.IntegerField(default=0)
-    pass
-
-
 class Islmbaqxc(models.Model):
     yqxhdtazhk = models.ForeignKey('gbsaqmaxu.Rkmtigdh', null=True, related_name='+')
     pass

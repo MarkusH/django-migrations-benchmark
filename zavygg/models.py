@@ -17,11 +17,6 @@ class Jydvnf(models.Model):
     pass
 
 
-class Kihvqrmtr(models.Model):
-    lxnjosrj = models.OneToOneField('adlorvp.Phrzexgxu', null=True, related_name='+')
-    pass
-
-
 class Edynlg(models.Model):
     vitmzurb = models.IntegerField(default=0)
     pass
@@ -29,6 +24,7 @@ class Edynlg(models.Model):
 
 class Hitvmegxki(models.Model):
     xyxla = models.CharField(default='', max_length=211)
+    moyjguzq = models.IntegerField(default=0)
     pass
 
 

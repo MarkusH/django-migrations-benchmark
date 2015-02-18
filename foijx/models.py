@@ -15,7 +15,6 @@ class Qrwsj(models.Model):
 
 class Flwuyjdlel(models.Model):
     vvuquay = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
-    zfvwyfj = models.IntegerField(default=0)
     pass
 
 
@@ -27,7 +26,6 @@ class Qqktwujdfq(models.Model):
 
 
 class Cnkdojs(models.Model):
-    sgtwhfdeig = models.CharField(default='', max_length=170)
     hetxikomrw = models.CharField(default='', max_length=200)
     pass
 

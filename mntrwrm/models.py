@@ -14,6 +14,7 @@ class Xevahddk(models.Model):
 
 class Ysslx(models.Model):
     tbfohcrt = models.IntegerField(default=0)
+    aimldngfu = models.CharField(default='', max_length=241)
     pass
 
 

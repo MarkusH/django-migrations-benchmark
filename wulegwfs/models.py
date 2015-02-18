@@ -1,11 +1,11 @@
 from django.db import models
 
 
-class Yxsnty(models.Model):
-    hytuumyfek = models.CharField(default='', max_length=33)
+class Txgqxz(models.Model):
+    mhptuwb = models.CharField(default='', max_length=201)
     pass
 
 
-class Txgqxz(models.Model):
-    mhptuwb = models.CharField(default='', max_length=201)
+class Wseerbko(models.Model):
+    prcqiis = models.OneToOneField('esznwrr.Kgrzxxm', null=True, related_name='+')
     pass

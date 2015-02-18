@@ -8,7 +8,6 @@ class Nrmckl(models.Model):
 
 class Xivomw(models.Model):
     hdxup = models.CharField(default='', max_length=202)
-    kjnag = models.OneToOneField('kfapsax.Kmwzcb', null=True, related_name='+')
     lramz = models.IntegerField(default=0)
     pass
 
@@ -26,7 +25,6 @@ class Ndmxpw(models.Model):
 
 class Scfuekgkl(models.Model):
     rhgqd = models.OneToOneField('joavhqi.Rdhhdq', null=True, related_name='+')
-    fwxxkt = models.CharField(default='', max_length=56)
     pass
 
 

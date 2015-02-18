@@ -1,14 +1,8 @@
 from django.db import models
 
 
-class Hcetattb(models.Model):
-    dhmzbwvcg = models.CharField(default='', max_length=152)
-    lcdqnzq = models.IntegerField(default=0)
-    pass
-
-
 class Ltlsozji(models.Model):
-    djyxf = models.OneToOneField('ygnakzgjxu.Xdwhlpqgw', null=True, related_name='+')
+    dxeigdb = models.IntegerField(default=0)
     pass
 
 

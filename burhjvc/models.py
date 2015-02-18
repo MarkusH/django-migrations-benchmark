@@ -20,7 +20,7 @@ class Pdzdhpq(models.Model):
 
 class Qbuqivoko(models.Model):
     orrjz = models.IntegerField(default=0)
-    vupdohnyr = models.IntegerField(default=0)
+    kddwhakvpm = models.CharField(default='', max_length=231)
     pass
 
 

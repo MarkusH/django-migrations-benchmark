@@ -9,18 +9,13 @@ class Edugsywcj(models.Model):
 class Curcmm(models.Model):
     uluefwvd = models.CharField(default='', max_length=100)
     gasoypwn = models.CharField(default='', max_length=121)
+    ekuemci = models.OneToOneField('avwpufexob.Vxucuqwa', null=True, related_name='+')
     pass
 
 
 class Gedwra(models.Model):
     hkdujm = models.CharField(default='', max_length=110)
     samswfwyn = models.ForeignKey('gtfgy.Rqjyygz', null=True, related_name='+')
-    pass
-
-
-class Xglneni(models.Model):
-    sgxtarae = models.CharField(default='', max_length=156)
-    ltnmc = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass
 
 
@@ -43,4 +38,9 @@ class Tmgvpztce(models.Model):
 
 class Ovbcnxcwyr(models.Model):
     usxwgvyiz = models.ForeignKey('wyxbcga.Rsaiyadejv', null=True, related_name='+')
+    pass
+
+
+class Fvzjaq(models.Model):
+    rlycrvp = models.OneToOneField('zngxahi.Qahkfonewx', null=True, related_name='+')
     pass

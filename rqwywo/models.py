@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Uxpep(models.Model):
-    orgsmbx = models.ForeignKey('zsskgviadw.Hcetattb', null=True, related_name='+')
     pass
 
 
@@ -38,4 +37,9 @@ class Jsvynw(models.Model):
 
 class Rrojp(models.Model):
     saknhbe = models.ForeignKey('kfapsax.Zvpuolsnx', null=True, related_name='+')
+    pass
+
+
+class Trhinrdlr(models.Model):
+    zqfgtvrg = models.IntegerField(default=0)
     pass

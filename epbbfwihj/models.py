@@ -1,17 +1,13 @@
 from django.db import models
 
 
-class Uzdthbetj(models.Model):
-    pass
-
-
 class Zfpgchkbaz(models.Model):
     jlias = models.OneToOneField('irmtbds.Rqikftw', null=True, related_name='+')
     pass
 
 
 class Uwaayy(models.Model):
-    jtpsyn = models.OneToOneField('qclaxc.Yiifw', null=True, related_name='+')
+    wojspu = models.IntegerField(default=0)
     pass
 
 

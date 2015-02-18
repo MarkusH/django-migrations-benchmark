@@ -37,6 +37,7 @@ class Zyjgcrtsvt(models.Model):
 
 class Xmvhvzui(models.Model):
     iwugg = models.CharField(default='', max_length=3)
+    tffnbk = models.ForeignKey('uivaguf.Zwjgfcdi', null=True, related_name='+')
     pass
 
 
@@ -46,15 +47,15 @@ class Zaganduq(models.Model):
 
 
 class Krbaxhjpkp(models.Model):
-    jqqic = models.ForeignKey('self', null=True, related_name='+')
+    rzllxxpr = models.CharField(default='', max_length=20)
     pass
 
 
 class Lemzs(models.Model):
-    nvjgsjcee = models.ForeignKey('epbbfwihj.Zfpgchkbaz', null=True, related_name='+')
+    csflnkvdne = models.IntegerField(default=0)
     pass
 
 
 class Mqnavvvb(models.Model):
-    cvopda = models.IntegerField(default=0)
+    qguzrxggsd = models.IntegerField(default=0)
     pass

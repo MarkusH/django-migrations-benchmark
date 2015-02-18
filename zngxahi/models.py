@@ -4,7 +4,6 @@ from django.db import models
 class Hiqedajgiu(models.Model):
     tpbwjagjg = models.CharField(default='', max_length=253)
     yfdbtklxb = models.IntegerField(default=0)
-    pvjgvt = models.CharField(default='', max_length=50)
     pass
 
 
@@ -78,7 +77,6 @@ class Dhynhe(models.Model):
 
 class Vnoruiao(models.Model):
     gtrfnedgq = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
-    filiupvrkr = models.ForeignKey('epbbfwihj.Uzdthbetj', null=True, related_name='+')
     pass
 
 

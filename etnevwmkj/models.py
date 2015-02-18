@@ -21,3 +21,8 @@ class Noxqha(models.Model):
 class Hubxq(models.Model):
     ujnabnx = models.ForeignKey('qqpppzas.Igtbspg', null=True, related_name='+')
     pass
+
+
+class Mbkkuilliw(models.Model):
+    zyjdjydlj = models.ForeignKey('glcmkwkzv.Unnork', null=True, related_name='+')
+    pass

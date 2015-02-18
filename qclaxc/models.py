@@ -22,7 +22,6 @@ class Yswziiulyl(models.Model):
 
 
 class Ooecads(models.Model):
-    nflopwecc = models.ForeignKey('kfapsax.Kmwzcb', null=True, related_name='+')
     azjnmckmok = models.OneToOneField('joavhqi.Nizqeesp', null=True, related_name='+')
     pass
 
@@ -39,10 +38,14 @@ class Hlpgeaqix(models.Model):
 
 class Ggafntnbq(models.Model):
     pqukuovutp = models.IntegerField(default=0)
-    ergswy = models.IntegerField(default=0)
     pass
 
 
 class Pjboumq(models.Model):
     lkywyq = models.IntegerField(default=0)
+    pass
+
+
+class Ilngaq(models.Model):
+    rhjodfszjd = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass

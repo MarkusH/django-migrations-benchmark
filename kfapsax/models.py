@@ -1,11 +1,11 @@
 from django.db import models
 
 
-class Kmwzcb(models.Model):
-    zahlcf = models.IntegerField(default=0)
+class Zvpuolsnx(models.Model):
+    lduvs = models.CharField(default='', max_length=238)
     pass
 
 
-class Zvpuolsnx(models.Model):
-    lduvs = models.CharField(default='', max_length=238)
+class Fxnrayf(models.Model):
+    shhzjagag = models.CharField(default='', max_length=228)
     pass

@@ -16,8 +16,3 @@ class Onmti(models.Model):
 class Bqjxljlwq(models.Model):
     veqvxofwt = models.ForeignKey('mjdxvqk.Edugsywcj', null=True, related_name='+')
     pass
-
-
-class Blekqwd(models.Model):
-    kcyvgyu = models.ForeignKey('kfapsax.Kmwzcb', null=True, related_name='+')
-    pass

@@ -8,7 +8,6 @@ class Eezxvbbvmn(models.Model):
 
 class Rsaiyadejv(models.Model):
     yhkfpy = models.IntegerField(default=0)
-    aabsvd = models.OneToOneField('glcmkwkzv.Idmamodyjp', null=True, related_name='+')
     pass
 
 
@@ -43,5 +42,5 @@ class Gmclwtufhi(models.Model):
 
 
 class Oblwdacdf(models.Model):
-    ohjnftmzh = models.IntegerField(default=0)
+    eezewl = models.ForeignKey('rqwywo.Huqprglqp', null=True, related_name='+')
     pass

@@ -18,6 +18,7 @@ class Knqau(models.Model):
 class Nhlpe(models.Model):
     vcwskrliy = models.CharField(default='', max_length=139)
     imicowhnou = models.CharField(default='', max_length=209)
+    afpyhakre = models.CharField(default='', max_length=204)
     pass
 
 

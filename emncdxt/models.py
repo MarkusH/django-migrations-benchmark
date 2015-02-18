@@ -14,3 +14,8 @@ class Mioxdvg(models.Model):
 class Shgjep(models.Model):
     lxxaql = models.OneToOneField('ruvaymw.Hhnwphllci', null=True, related_name='+')
     pass
+
+
+class Gnxmv(models.Model):
+    ofvcqqtajl = models.IntegerField(default=0)
+    pass

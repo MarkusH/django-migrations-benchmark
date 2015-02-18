@@ -50,3 +50,8 @@ class Rywmfrbmil(models.Model):
 class Rnddmd(models.Model):
     ofhma = models.OneToOneField('rrmdjc.Ddzxkrvtfd', null=True, related_name='+')
     pass
+
+
+class Mkihzu(models.Model):
+    ihxzv = models.CharField(default='', max_length=208)
+    pass

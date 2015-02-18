@@ -25,6 +25,7 @@ class Cfjtqbcmjd(models.Model):
 
 class Heehdxfqyb(models.Model):
     jdhsuwxapo = models.OneToOneField('qqpppzas.Ybcxw', null=True, related_name='+')
+    xobdnqb = models.CharField(default='', max_length=236)
     pass
 
 
@@ -45,6 +46,7 @@ class Jrppdzds(models.Model):
 
 class Fkazepju(models.Model):
     ocsozfc = models.ForeignKey('gbsaqmaxu.Knqau', null=True, related_name='+')
+    hwxuvu = models.OneToOneField('geemkrwi.Uqqgcprwn', null=True, related_name='+')
     pass
 
 

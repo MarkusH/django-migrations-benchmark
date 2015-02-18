@@ -7,12 +7,6 @@ class Frzvg(models.Model):
     pass
 
 
-class Kzrfnfxko(models.Model):
-    conaco = models.OneToOneField('pkfudme.Ewxxluebq', null=True, related_name='+')
-    uhhdmtehjg = models.CharField(default='', max_length=177)
-    pass
-
-
 class Bauxko(models.Model):
     mjgvx = models.ForeignKey('kakry.Xgsseizbpr', null=True, related_name='+')
     pass

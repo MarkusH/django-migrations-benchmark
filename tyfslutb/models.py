@@ -25,6 +25,7 @@ class Ynbpgqn(models.Model):
 
 class Qhzppcqwku(models.Model):
     nzmchjwxlf = models.CharField(default='', max_length=38)
+    ikycuom = models.IntegerField(default=0)
     pass
 
 
@@ -49,7 +50,7 @@ class Ckvpx(models.Model):
 
 
 class Rfdhb(models.Model):
-    jhuhmbj = models.ForeignKey('wyxbcga.Begquxerkm', null=True, related_name='+')
+    pcnnq = models.IntegerField(default=0)
     pass
 
 

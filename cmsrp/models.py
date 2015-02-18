@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Dtpkzlh(models.Model):
-    ntmeao = models.CharField(default='', max_length=88)
+class Vlmfay(models.Model):
+    fejusiz = models.OneToOneField('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass

@@ -33,3 +33,8 @@ class Zhsexma(models.Model):
     hljvfcgb = models.CharField(default='', max_length=145)
     bftfprwd = models.IntegerField(default=0)
     pass
+
+
+class Ecatm(models.Model):
+    kbkjjed = models.CharField(default='', max_length=202)
+    pass

@@ -24,7 +24,6 @@ class Sukkrqb(models.Model):
 
 
 class Lqfdippdc(models.Model):
-    cjqbkmmoe = models.ForeignKey('irmtbds.Bemqls', null=True, related_name='+')
     zuydaednz = models.IntegerField(default=0)
     pass
 

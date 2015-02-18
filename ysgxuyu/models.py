@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Bmovnbnmed(models.Model):
-    zczgojzvsb = models.OneToOneField('pkfudme.Mnvmeraq', null=True, related_name='+')
+    dstfkls = models.CharField(default='', max_length=77)
     pass
 
 
