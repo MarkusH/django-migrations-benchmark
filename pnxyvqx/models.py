@@ -8,6 +8,7 @@ class Rwrraj(models.Model):
 
 class Aehywz(models.Model):
     hqjnudya = models.IntegerField(default=0)
+    yehjk = models.CharField(default='', max_length=62)
     pass
 
 

@@ -21,12 +21,6 @@ class Ladoumxyr(models.Model):
     pass
 
 
-class Qindcumiy(models.Model):
-    rwtwpy = models.ForeignKey('tyfslutb.Qhzppcqwku', null=True, related_name='+')
-    trmhcwqv = models.IntegerField(default=0)
-    pass
-
-
 class Yswziiulyl(models.Model):
     vliqzzx = models.IntegerField(default=0)
     mzpaepi = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')

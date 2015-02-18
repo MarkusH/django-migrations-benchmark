@@ -23,6 +23,7 @@ class Mmfrlqqf(models.Model):
 
 class Apnbivckq(models.Model):
     vnybzdktbi = models.CharField(default='', max_length=51)
+    xcnfodzv = models.CharField(default='', max_length=50)
     pass
 
 

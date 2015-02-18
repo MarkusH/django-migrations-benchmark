@@ -27,3 +27,8 @@ class Kmygwyorsi(models.Model):
     albva = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     qtozzpel = models.CharField(default='', max_length=135)
     pass
+
+
+class Phrzexgxu(models.Model):
+    tmlwb = models.IntegerField(default=0)
+    pass

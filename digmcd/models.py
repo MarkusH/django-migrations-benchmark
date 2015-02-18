@@ -24,11 +24,6 @@ class Untgafvod(models.Model):
     pass
 
 
-class Arqcdv(models.Model):
-    cffdghbzam = models.ForeignKey('zxxavsovs.Fiellmltob', null=True, related_name='+')
-    pass
-
-
 class Gtekbplhr(models.Model):
     pdxvfhs = models.OneToOneField('zhavbmq.Vzhhl', null=True, related_name='+')
     pass
@@ -43,6 +38,7 @@ class Rdfrrg(models.Model):
 
 class Zyjgcrtsvt(models.Model):
     mszzimuh = models.IntegerField(default=0)
+    pwgdlxtg = models.IntegerField(default=0)
     pass
 
 

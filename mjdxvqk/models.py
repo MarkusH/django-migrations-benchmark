@@ -14,6 +14,7 @@ class Curcmm(models.Model):
 
 class Gedwra(models.Model):
     utpyfgmizz = models.IntegerField(default=0)
+    hkdujm = models.CharField(default='', max_length=110)
     pass
 
 
@@ -50,6 +51,5 @@ class Tmgvpztce(models.Model):
 
 
 class Ovbcnxcwyr(models.Model):
-    hkbdwaggb = models.ForeignKey('tyfslutb.Ihswfvupi', null=True, related_name='+')
     usxwgvyiz = models.ForeignKey('wyxbcga.Rsaiyadejv', null=True, related_name='+')
     pass

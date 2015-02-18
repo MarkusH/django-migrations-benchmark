@@ -6,11 +6,6 @@ class Kjwyneff(models.Model):
     pass
 
 
-class Dkvkm(models.Model):
-    gbgkdcxxve = models.ForeignKey('uivaguf.Bqjxljlwq', null=True, related_name='+')
-    pass
-
-
 class Hqjqgiq(models.Model):
     uloiryanki = models.IntegerField(default=0)
     pass

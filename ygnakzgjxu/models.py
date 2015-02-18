@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Xdwhlpqgw(models.Model):
-    cepyeeaw = models.OneToOneField('apbqku.Ssgsglh', null=True, related_name='+')
+    potlucvgl = models.IntegerField(default=0)
     pass
 
 

@@ -13,6 +13,7 @@ class Sonmvoj(models.Model):
 
 class Qpuji(models.Model):
     saiuw = models.CharField(default='', max_length=84)
+    pozefnkorz = models.OneToOneField('digmcd.Gxovs', null=True, related_name='+')
     pass
 
 
@@ -25,10 +26,4 @@ class Crzqih(models.Model):
 
 class Ecgjvad(models.Model):
     zxnnutgo = models.IntegerField(default=0)
-    pass
-
-
-class Jrgrccoxvv(models.Model):
-    gjcirtejy = models.ForeignKey('zngxahi.Hiqedajgiu', null=True, related_name='+')
-    mimxt = models.IntegerField(default=0)
     pass

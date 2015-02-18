@@ -28,6 +28,7 @@ class Xqjugixefj(models.Model):
 
 class Jkjvvohe(models.Model):
     nezwu = models.IntegerField(default=0)
+    kjeun = models.CharField(default='', max_length=64)
     pass
 
 
@@ -43,4 +44,9 @@ class Ojshxdt(models.Model):
 
 class Begquxerkm(models.Model):
     hyfisaxclk = models.CharField(default='', max_length=15)
+    pass
+
+
+class Gmclwtufhi(models.Model):
+    qjfhzntzm = models.OneToOneField('kakry.Aefqhqkmm', null=True, related_name='+')
     pass

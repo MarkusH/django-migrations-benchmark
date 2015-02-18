@@ -25,15 +25,21 @@ class Howsauugrt(models.Model):
 
 
 class Mxvmqmhku(models.Model):
-    lumaqoyepr = models.OneToOneField('bniworfy.Dkvkm', null=True, related_name='+')
+    ioauv = models.CharField(default='', max_length=102)
     pass
 
 
 class Egvtran(models.Model):
     iaywdnrfj = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
+    tcqukiomh = models.IntegerField(default=0)
     pass
 
 
 class Uqqgcprwn(models.Model):
     mciutq = models.OneToOneField('wawqcpvrz.Xivomw', null=True, related_name='+')
+    pass
+
+
+class Hxkigetost(models.Model):
+    vixlvfvme = models.IntegerField(default=0)
     pass

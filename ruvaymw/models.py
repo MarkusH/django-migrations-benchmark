@@ -52,6 +52,7 @@ class Fxsiyvw(models.Model):
 
 class Hhnwphllci(models.Model):
     lgfcdtfmmh = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
+    wmriml = models.OneToOneField('tyfslutb.Copkdxcnlp', null=True, related_name='+')
     pass
 
 
@@ -63,4 +64,9 @@ class Zpubci(models.Model):
 
 class Hkbvwjilj(models.Model):
     ymymzn = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
+    pass
+
+
+class Yckccoccsv(models.Model):
+    jmdxrunl = models.IntegerField(default=0)
     pass

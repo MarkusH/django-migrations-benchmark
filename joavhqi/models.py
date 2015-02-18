@@ -27,7 +27,6 @@ class Lfssmpr(models.Model):
 
 
 class Uodtjnez(models.Model):
-    rasnn = models.OneToOneField('bniworfy.Dkvkm', null=True, related_name='+')
     pass
 
 

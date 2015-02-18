@@ -47,7 +47,7 @@ class Hmaopvcufb(models.Model):
 
 
 class Murrsbmz(models.Model):
-    lsdctjp = models.OneToOneField('emncdxt.Mioxdvg', null=True, related_name='+')
+    guuexjxd = models.IntegerField(default=0)
     pass
 
 

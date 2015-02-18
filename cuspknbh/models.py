@@ -12,7 +12,7 @@ class Djbbtxk(models.Model):
 
 
 class Ufrkff(models.Model):
-    ascfvvbtko = models.IntegerField(default=0)
+    wdarprrrnm = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
     pass
 
 

@@ -11,6 +11,7 @@ class Gsdqrijpp(models.Model):
 class Qrwsj(models.Model):
     holofste = models.IntegerField(default=0)
     zdvvjpppsi = models.OneToOneField('burhjvc.Ydprem', null=True, related_name='+')
+    tbcua = models.ForeignKey('foijx.Wrafoshzom', null=True, related_name='+')
     pass
 
 
@@ -29,6 +30,7 @@ class Flwuyjdlel(models.Model):
 class Qqktwujdfq(models.Model):
     uvyuhhx = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
     uecimvq = models.ForeignKey('pnxyvqx.Nrnexasxp', null=True, related_name='+')
+    drdrumut = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     pass
 
 

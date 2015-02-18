@@ -7,7 +7,7 @@ class Uxpep(models.Model):
 
 
 class Lxcurbmhu(models.Model):
-    oncyszdy = models.CharField(default='', max_length=183)
+    ecotjsdibe = models.OneToOneField('ftcfrcnas.Cukzic', null=True, related_name='+')
     pass
 
 
@@ -17,7 +17,7 @@ class Gkiwtx(models.Model):
 
 
 class Xaszfxobvf(models.Model):
-    syoyminf = models.OneToOneField('qclaxc.Jvoopceqsv', null=True, related_name='+')
+    iamarlmq = models.CharField(default='', max_length=124)
     pass
 
 

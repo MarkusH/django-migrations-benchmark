@@ -3,6 +3,7 @@ from django.db import models
 
 class Ryfwmkefy(models.Model):
     bradgz = models.CharField(default='', max_length=159)
+    ncboylifgw = models.IntegerField(default=0)
     pass
 
 

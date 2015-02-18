@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Xunyyu(models.Model):
-    haaxfgcmii = models.OneToOneField('ysgxuyu.Omtmse', null=True, related_name='+')
+class Kgopo(models.Model):
+    xjvmy = models.CharField(default='', max_length=209)
     pass

@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Nrmckl(models.Model):
-    esgced = models.CharField(default='', max_length=207)
+    ktoflmfxp = models.OneToOneField('ftcfrcnas.Qrwqtj', null=True, related_name='+')
     pass
 
 

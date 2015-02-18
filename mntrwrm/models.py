@@ -14,4 +14,10 @@ class Xevahddk(models.Model):
 
 
 class Eaeehqi(models.Model):
+    tauahpur = models.CharField(default='', max_length=14)
+    pass
+
+
+class Ysslx(models.Model):
+    znehtaygp = models.IntegerField(default=0)
     pass

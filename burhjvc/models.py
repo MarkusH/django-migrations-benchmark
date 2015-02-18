@@ -9,6 +9,7 @@ class Bewsptdyqv(models.Model):
 class Aziftfctf(models.Model):
     fhxldzom = models.ForeignKey('zavygg.Jydvnf', null=True, related_name='+')
     xnuiavwiwo = models.OneToOneField('zxxavsovs.Iyfiu', null=True, related_name='+')
+    splbqgxm = models.IntegerField(default=0)
     pass
 
 

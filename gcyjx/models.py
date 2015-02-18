@@ -8,4 +8,5 @@ class Snjsz(models.Model):
 
 class Xdvbgtxz(models.Model):
     yjlhhuvyi = models.OneToOneField('geemkrwi.Mxvmqmhku', null=True, related_name='+')
+    bdkdii = models.IntegerField(default=0)
     pass

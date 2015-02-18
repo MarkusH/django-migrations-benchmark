@@ -25,3 +25,8 @@ class Kiikphbz(models.Model):
     hgxjksbg = models.ForeignKey('zngxahi.Llnksobygh', null=True, related_name='+')
     tbzky = models.CharField(default='', max_length=1)
     pass
+
+
+class Aeaoqky(models.Model):
+    afxfubg = models.OneToOneField('epbbfwihj.Apnbivckq', null=True, related_name='+')
+    pass
