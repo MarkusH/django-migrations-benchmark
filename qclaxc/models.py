@@ -48,5 +48,5 @@ class Epikaaneig(models.Model):
 
 
 class Riwryjw(models.Model):
-    qfmyjzj = models.IntegerField(default=0)
+    siaeiy = models.OneToOneField('mjdxvqk.Unnnbu', null=True, related_name='+')
     pass

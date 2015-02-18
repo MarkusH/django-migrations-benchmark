@@ -16,8 +16,3 @@ class Cnkdojs(models.Model):
     hetxikomrw = models.CharField(default='', max_length=200)
     aezcuq = models.CharField(default='', max_length=230)
     pass
-
-
-class Abmhnczd(models.Model):
-    wdlblsubi = models.OneToOneField('ruvaymw.Bdpibttuxi', null=True, related_name='+')
-    pass

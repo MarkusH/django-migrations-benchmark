@@ -21,7 +21,7 @@ class Qibygpddzw(models.Model):
 
 
 class Sukkrqb(models.Model):
-    lbyzkekw = models.ForeignKey('emncdxt.Ggnqplqy', null=True, related_name='+')
+    slilak = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
     pass
 
 
@@ -58,4 +58,9 @@ class Zcanykbqv(models.Model):
 
 class Fmzwd(models.Model):
     anrkionx = models.ForeignKey('qclaxc.Hlpgeaqix', null=True, related_name='+')
+    pass
+
+
+class Mblprepscx(models.Model):
+    lovkg = models.ForeignKey('zavygg.Jydvnf', null=True, related_name='+')
     pass

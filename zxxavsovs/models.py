@@ -18,6 +18,7 @@ class Yjuyutcqq(models.Model):
 
 class Kiikphbz(models.Model):
     uahjszmx = models.ForeignKey('pkfudme.Mnvmeraq', null=True, related_name='+')
+    mmihsfipg = models.ForeignKey('gcyjx.Xdvbgtxz', null=True, related_name='+')
     pass
 
 

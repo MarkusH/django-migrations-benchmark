@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Bovkv(models.Model):
-    yzohilanvo = models.ForeignKey('wyxbcga.Begquxerkm', null=True, related_name='+')
+class Rkknf(models.Model):
+    uojzx = models.CharField(default='', max_length=203)
     pass

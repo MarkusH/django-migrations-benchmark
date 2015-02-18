@@ -8,5 +8,5 @@ class Zzsheqzf(models.Model):
 
 
 class Khayviiua(models.Model):
-    fmuidqqdq = models.OneToOneField('tyfslutb.Ynbpgqn', null=True, related_name='+')
+    ioudnxgvn = models.OneToOneField('gcyjx.Xdvbgtxz', null=True, related_name='+')
     pass

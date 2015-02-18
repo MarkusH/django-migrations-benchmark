@@ -31,5 +31,5 @@ class Zhsexma(models.Model):
 
 
 class Ecatm(models.Model):
-    qqhiw = models.OneToOneField('rrmdjc.Gxoqulk', null=True, related_name='+')
+    mzbldbvpkf = models.IntegerField(default=0)
     pass

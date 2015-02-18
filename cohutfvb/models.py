@@ -12,5 +12,10 @@ class Qpuji(models.Model):
 
 
 class Ecgjvad(models.Model):
-    xoyasniyf = models.OneToOneField('kakry.Xgsseizbpr', null=True, related_name='+')
+    mkqcu = models.IntegerField(default=0)
+    pass
+
+
+class Ckree(models.Model):
+    yqfsn = models.OneToOneField('glcmkwkzv.Fbytmhf', null=True, related_name='+')
     pass

@@ -29,4 +29,5 @@ class Hitvmegxki(models.Model):
 
 class Gbmslrhm(models.Model):
     ezrgxhh = models.IntegerField(default=0)
+    flkhez = models.ForeignKey('khwbgr.Ibuazau', null=True, related_name='+')
     pass

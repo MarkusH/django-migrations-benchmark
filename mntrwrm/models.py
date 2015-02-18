@@ -10,3 +10,8 @@ class Ysslx(models.Model):
 class Kmvkehkum(models.Model):
     zibfm = models.CharField(default='', max_length=228)
     pass
+
+
+class Jlwaw(models.Model):
+    mqhumi = models.CharField(default='', max_length=69)
+    pass

@@ -22,12 +22,12 @@ class Qqpfvbjbpk(models.Model):
 
 
 class Ojshxdt(models.Model):
-    xnslxqkne = models.IntegerField(default=0)
+    rrwiqo = models.IntegerField(default=0)
     pass
 
 
 class Begquxerkm(models.Model):
-    uxdnq = models.OneToOneField('irmtbds.Rqikftw', null=True, related_name='+')
+    sgwqndjc = models.OneToOneField('wyxbcga.Rsaiyadejv', null=True, related_name='+')
     pass
 
 

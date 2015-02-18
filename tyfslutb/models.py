@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Copkdxcnlp(models.Model):
-    fejjfwfzs = models.CharField(default='', max_length=128)
+    dxxrlkeigl = models.ForeignKey('joavhqi.Oyjnlgzy', null=True, related_name='+')
     pass
 
 

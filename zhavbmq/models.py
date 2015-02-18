@@ -23,6 +23,7 @@ class Ybkewg(models.Model):
 
 
 class Hmaopvcufb(models.Model):
+    xssitkonuc = models.IntegerField(default=0)
     pass
 
 
@@ -43,6 +44,7 @@ class Rywmfrbmil(models.Model):
 
 
 class Rnddmd(models.Model):
+    gdhwm = models.ForeignKey('digmcd.Rozpduya', null=True, related_name='+')
     pass
 
 

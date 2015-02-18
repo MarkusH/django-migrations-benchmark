@@ -4,11 +4,12 @@ from django.db import models
 class Yejdqycpmg(models.Model):
     znlynydhet = models.OneToOneField('gcyjx.Nmbztrlh', null=True, related_name='+')
     grygcsjy = models.CharField(default='', max_length=254)
+    oyjbjizqf = models.OneToOneField('joavhqi.Sabdmpl', null=True, related_name='+')
     pass
 
 
 class Nhpkrhkql(models.Model):
-    qilej = models.IntegerField(default=0)
+    vbzqbnyrme = models.CharField(default='', max_length=39)
     pass
 
 

@@ -13,7 +13,7 @@ class Iowgy(models.Model):
 
 
 class Oyjnlgzy(models.Model):
-    qmfhtty = models.CharField(default='', max_length=216)
+    jgdrzj = models.ForeignKey('uivaguf.Zwjgfcdi', null=True, related_name='+')
     pass
 
 
@@ -23,13 +23,7 @@ class Yusanbjmh(models.Model):
 
 
 class Lfssmpr(models.Model):
-    rxrepc = models.CharField(default='', max_length=2)
-    pass
-
-
-class Uodtjnez(models.Model):
-    qacrcmfud = models.ForeignKey('geemkrwi.Mxvmqmhku', null=True, related_name='+')
-    rrnhlhw = models.CharField(default='', max_length=103)
+    kighcjrg = models.IntegerField(default=0)
     pass
 
 

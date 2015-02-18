@@ -12,6 +12,7 @@ class Lxcurbmhu(models.Model):
 
 
 class Gkiwtx(models.Model):
+    akbmd = models.ForeignKey('apbqku.Ztmubrfn', null=True, related_name='+')
     pass
 
 
@@ -38,9 +39,4 @@ class Rrojp(models.Model):
 class Trhinrdlr(models.Model):
     zqfgtvrg = models.IntegerField(default=0)
     mcuktvuoy = models.ForeignKey('zngxahi.Hiqedajgiu', null=True, related_name='+')
-    pass
-
-
-class Wmvmz(models.Model):
-    cakit = models.CharField(default='', max_length=20)
     pass

@@ -38,3 +38,8 @@ class Knrrd(models.Model):
     tgykwsrkc = models.ForeignKey('avwpufexob.Fvlkcjd', null=True, related_name='+')
     hwqsq = models.OneToOneField('kakry.Wnbhmzvze', null=True, related_name='+')
     pass
+
+
+class Dscegsanff(models.Model):
+    rykwjim = models.CharField(default='', max_length=146)
+    pass

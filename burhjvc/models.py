@@ -9,6 +9,7 @@ class Bewsptdyqv(models.Model):
 class Aziftfctf(models.Model):
     fhxldzom = models.ForeignKey('zavygg.Jydvnf', null=True, related_name='+')
     splbqgxm = models.IntegerField(default=0)
+    abznn = models.ForeignKey('ygnakzgjxu.Xdwhlpqgw', null=True, related_name='+')
     pass
 
 
@@ -22,6 +23,7 @@ class Ubeubsuez(models.Model):
     jyjwhl = models.OneToOneField('cuspknbh.Ufrkff', null=True, related_name='+')
     jowmt = models.CharField(default='', max_length=9)
     fnkolibgw = models.IntegerField(default=0)
+    ncyvf = models.IntegerField(default=0)
     pass
 
 

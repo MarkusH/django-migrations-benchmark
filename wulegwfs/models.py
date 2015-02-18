@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Txgqxz(models.Model):
-    mhptuwb = models.CharField(default='', max_length=201)
+    kcqlpb = models.IntegerField(default=0)
     pass
 
 

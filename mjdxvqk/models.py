@@ -5,6 +5,7 @@ class Curcmm(models.Model):
     uluefwvd = models.CharField(default='', max_length=100)
     gasoypwn = models.CharField(default='', max_length=121)
     ekuemci = models.OneToOneField('avwpufexob.Vxucuqwa', null=True, related_name='+')
+    ccutgjohf = models.OneToOneField('gbsaqmaxu.Rkmtigdh', null=True, related_name='+')
     pass
 
 

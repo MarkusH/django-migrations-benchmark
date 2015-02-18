@@ -38,3 +38,8 @@ class Estwpd(models.Model):
     abdlqrp = models.IntegerField(default=0)
     fjcmnwx = models.OneToOneField('zsskgviadw.Ylpjiaq', null=True, related_name='+')
     pass
+
+
+class Wxhfgo(models.Model):
+    adgkwj = models.CharField(default='', max_length=67)
+    pass

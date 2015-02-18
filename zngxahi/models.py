@@ -73,3 +73,8 @@ class Vnoruiao(models.Model):
 class Kdfltvrrbx(models.Model):
     pixyrsm = models.CharField(default='', max_length=36)
     pass
+
+
+class Cvzddbqplb(models.Model):
+    lekkecrsu = models.ForeignKey('gbsaqmaxu.Knqau', null=True, related_name='+')
+    pass

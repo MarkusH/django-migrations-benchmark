@@ -9,3 +9,8 @@ class Kgrzxxm(models.Model):
 class Tbxjbiqnck(models.Model):
     zmrxh = models.CharField(default='', max_length=111)
     pass
+
+
+class Wgtirf(models.Model):
+    ulpzex = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
+    pass

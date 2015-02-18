@@ -17,6 +17,7 @@ class Wpkevitz(models.Model):
 class Noxqha(models.Model):
     zfjpb = models.IntegerField(default=0)
     gakin = models.IntegerField(default=0)
+    rwbzlshdc = models.CharField(default='', max_length=38)
     pass
 
 

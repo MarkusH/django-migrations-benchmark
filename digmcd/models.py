@@ -54,6 +54,7 @@ class Krbaxhjpkp(models.Model):
 
 class Lemzs(models.Model):
     csflnkvdne = models.IntegerField(default=0)
+    qaull = models.OneToOneField('zsskgviadw.Ylpjiaq', null=True, related_name='+')
     pass
 
 

@@ -22,7 +22,6 @@ class Phrzexgxu(models.Model):
 
 
 class Ehcuyeglmi(models.Model):
-    yfcgjm = models.OneToOneField('ysgxuyu.Eppkc', null=True, related_name='+')
     pvhsiqtxc = models.IntegerField(default=0)
     pass
 

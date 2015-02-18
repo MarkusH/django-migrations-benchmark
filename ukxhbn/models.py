@@ -17,5 +17,5 @@ class Qujmudiaaa(models.Model):
 
 
 class Aciaff(models.Model):
-    atqvcg = models.OneToOneField('digmcd.Zaganduq', null=True, related_name='+')
+    dztjqxsufg = models.ForeignKey('rqwywo.Trhinrdlr', null=True, related_name='+')
     pass

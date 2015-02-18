@@ -2,12 +2,13 @@ from django.db import models
 
 
 class Ofvsocf(models.Model):
-    dahouzw = models.OneToOneField('wawqcpvrz.Ydfkef', null=True, related_name='+')
+    xlxvm = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
     pass
 
 
 class Ylhrvymeyk(models.Model):
     zadqslz = models.CharField(default='', max_length=240)
+    qsxlpvu = models.OneToOneField('adlorvp.Kmygwyorsi', null=True, related_name='+')
     pass
 
 
@@ -45,7 +46,7 @@ class Hkbvwjilj(models.Model):
 
 
 class Yckccoccsv(models.Model):
-    bhxiqpohj = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
+    dwnni = models.CharField(default='', max_length=87)
     pass
 
 
