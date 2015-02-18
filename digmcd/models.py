@@ -19,7 +19,6 @@ class Gxovs(models.Model):
 
 
 class Untgafvod(models.Model):
-    upmuq = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
 
@@ -37,6 +36,7 @@ class Rdfrrg(models.Model):
     yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
     lihyfbg = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     anylxapd = models.ForeignKey('ftcfrcnas.Lqfdippdc', null=True, related_name='+')
+    nkkfvqupui = models.CharField(default='', max_length=180)
     pass
 
 
@@ -62,4 +62,5 @@ class Krbaxhjpkp(models.Model):
 
 class Lemzs(models.Model):
     jaozjpsixx = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
+    nvjgsjcee = models.ForeignKey('epbbfwihj.Zfpgchkbaz', null=True, related_name='+')
     pass

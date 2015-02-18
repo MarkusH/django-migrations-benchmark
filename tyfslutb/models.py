@@ -18,7 +18,7 @@ class Ihswfvupi(models.Model):
 
 
 class Ynbpgqn(models.Model):
-    pgbxqxfrn = models.CharField(default='', max_length=66)
+    rtmpcyteit = models.ForeignKey('kakry.Aefqhqkmm', null=True, related_name='+')
     pass
 
 
@@ -29,11 +29,6 @@ class Qhzppcqwku(models.Model):
 
 class Qcwbo(models.Model):
     dokqdbprt = models.OneToOneField('digmcd.Arqcdv', null=True, related_name='+')
-    pass
-
-
-class Vzqlh(models.Model):
-    rdeaj = models.ForeignKey('joavhqi.Iowgy', null=True, related_name='+')
     pass
 
 

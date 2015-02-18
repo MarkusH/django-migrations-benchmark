@@ -8,13 +8,11 @@ class Uzdthbetj(models.Model):
 
 class Zfpgchkbaz(models.Model):
     yttrt = models.ForeignKey('ukxhbn.Dcphul', null=True, related_name='+')
-    zgdobd = models.IntegerField(default=0)
     pass
 
 
 class Uwaayy(models.Model):
     jtpsyn = models.OneToOneField('qclaxc.Yiifw', null=True, related_name='+')
-    ymklbmt = models.OneToOneField('uivaguf.Vqykzihlmk', null=True, related_name='+')
     pass
 
 
@@ -28,11 +26,11 @@ class Apnbivckq(models.Model):
     pass
 
 
-class Pbnaktpzhs(models.Model):
-    vxycehzcf = models.ForeignKey('khwbgr.Ywojvtbwa', null=True, related_name='+')
+class Gejrsf(models.Model):
+    hjtbpctd = models.CharField(default='', max_length=209)
     pass
 
 
-class Gejrsf(models.Model):
-    hjtbpctd = models.CharField(default='', max_length=209)
+class Wcklq(models.Model):
+    pgnrf = models.ForeignKey('geemkrwi.Uqqgcprwn', null=True, related_name='+')
     pass

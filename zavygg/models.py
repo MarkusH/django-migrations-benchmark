@@ -8,7 +8,7 @@ class Nzfoyhj(models.Model):
 
 
 class Oqyncxevyj(models.Model):
-    lykvcrgp = models.CharField(default='', max_length=9)
+    cqpevou = models.OneToOneField('rqwywo.Xaszfxobvf', null=True, related_name='+')
     pass
 
 
@@ -19,6 +19,7 @@ class Ligxr(models.Model):
 
 class Jydvnf(models.Model):
     xwilqwztoj = models.ForeignKey('qclaxc.Pmcbxoetr', null=True, related_name='+')
+    caohod = models.CharField(default='', max_length=40)
     pass
 
 

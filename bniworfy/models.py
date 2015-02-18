@@ -17,7 +17,6 @@ class Hqjqgiq(models.Model):
 
 
 class Mxfnrc(models.Model):
-    ifxub = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
 
@@ -27,11 +26,10 @@ class Trjyk(models.Model):
 
 
 class Gsmbfohda(models.Model):
-    xtcnijqs = models.ForeignKey('ysgxuyu.Kqlunbkaa', null=True, related_name='+')
+    gxvwzvtps = models.CharField(default='', max_length=90)
     pass
 
 
 class Sbfynkpvu(models.Model):
-    inzqctzh = models.ForeignKey('epbbfwihj.Pbnaktpzhs', null=True, related_name='+')
     txgmuotqrn = models.IntegerField(default=0)
     pass

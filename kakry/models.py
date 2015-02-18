@@ -12,11 +12,6 @@ class Ajbkovws(models.Model):
     pass
 
 
-class Aivqb(models.Model):
-    riluwjo = models.IntegerField(default=0)
-    pass
-
-
 class Wnbhmzvze(models.Model):
     lmtij = models.IntegerField(default=0)
     pass

@@ -12,7 +12,7 @@ class Ylhrvymeyk(models.Model):
 
 
 class Faqagt(models.Model):
-    vtnbt = models.ForeignKey('esznwrr.Vppjpa', null=True, related_name='+')
+    kasjcjsp = models.ForeignKey('emncdxt.Yvgnpangr', null=True, related_name='+')
     pass
 
 
@@ -50,7 +50,7 @@ class Fxsiyvw(models.Model):
 
 
 class Hhnwphllci(models.Model):
-    akuhjv = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    lgfcdtfmmh = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
     pass
 
 

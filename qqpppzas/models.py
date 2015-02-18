@@ -50,3 +50,8 @@ class Shtlozkm(models.Model):
 class Tqlaa(models.Model):
     vcapzn = models.ForeignKey('burhjvc.Qbuqivoko', null=True, related_name='+')
     pass
+
+
+class Fngqkhhe(models.Model):
+    bsvigtdmwm = models.ForeignKey('apbqku.Tjpxiu', null=True, related_name='+')
+    pass

@@ -31,7 +31,7 @@ class Mxvmqmhku(models.Model):
 
 
 class Egvtran(models.Model):
-    mhnvmmxnvf = models.CharField(default='', max_length=72)
+    iaywdnrfj = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
     pass
 
 

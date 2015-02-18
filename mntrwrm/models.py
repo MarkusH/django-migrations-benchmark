@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Rbhubw(models.Model):
-    wcetzzr = models.IntegerField(default=0)
     zuxeqs = models.IntegerField(default=0)
     pass
 
@@ -14,4 +13,5 @@ class Xzicjkogl(models.Model):
 
 class Xevahddk(models.Model):
     vxckqc = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
+    aheutab = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
     pass

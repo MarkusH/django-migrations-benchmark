@@ -32,7 +32,7 @@ class Kbgdzldxz(models.Model):
 
 
 class Bdontoyqti(models.Model):
-    nmctlsx = models.ForeignKey('ruvaymw.Swanlanqxn', null=True, related_name='+')
+    wjquqibaq = models.ForeignKey('zxxavsovs.Fiellmltob', null=True, related_name='+')
     pass
 
 
@@ -40,6 +40,7 @@ class Nnkqr(models.Model):
     xgosa = models.IntegerField(default=0)
     kdstxhvuz = models.CharField(default='', max_length=132)
     tecbgms = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
+    wcytnskou = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     pass
 
 

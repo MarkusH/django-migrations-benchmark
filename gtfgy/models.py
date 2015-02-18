@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Rqjyygz(models.Model):
-    phklt = models.IntegerField(default=0)
     syyrsnfru = models.CharField(default='', max_length=35)
     pass
 
@@ -24,6 +23,7 @@ class Zbbwyog(models.Model):
 
 class Xlaxaa(models.Model):
     etvtohrz = models.OneToOneField('rrmdjc.Gxoqulk', null=True, related_name='+')
+    wlgetunnt = models.OneToOneField('foijx.Abmhnczd', null=True, related_name='+')
     pass
 
 

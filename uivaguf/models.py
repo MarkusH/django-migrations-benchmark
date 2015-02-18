@@ -20,6 +20,7 @@ class Zwjgfcdi(models.Model):
 class Onmti(models.Model):
     vcevpdll = models.OneToOneField('apbqku.Ssgsglh', null=True, related_name='+')
     ijunupwh = models.ForeignKey('wawqcpvrz.Ndmxpw', null=True, related_name='+')
+    emaio = models.CharField(default='', max_length=172)
     pass
 
 

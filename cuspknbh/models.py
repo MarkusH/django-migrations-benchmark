@@ -19,3 +19,8 @@ class Ufrkff(models.Model):
 class Kekzfmudvr(models.Model):
     qbvjzs = models.IntegerField(default=0)
     pass
+
+
+class Yicalotegs(models.Model):
+    yhkzxndlz = models.IntegerField(default=0)
+    pass

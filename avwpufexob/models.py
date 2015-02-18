@@ -3,6 +3,7 @@ from django.db import models
 
 class Yejdqycpmg(models.Model):
     cloggb = models.CharField(default='', max_length=95)
+    daqjy = models.ForeignKey('qqpppzas.Shtlozkm', null=True, related_name='+')
     pass
 
 

@@ -22,7 +22,6 @@ class Rsaiyadejv(models.Model):
 
 
 class Xqjugixefj(models.Model):
-    xvbpvsvwrw = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
 

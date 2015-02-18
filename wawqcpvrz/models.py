@@ -9,6 +9,7 @@ class Nrmckl(models.Model):
 class Xivomw(models.Model):
     hdxup = models.CharField(default='', max_length=202)
     kjnag = models.OneToOneField('kfapsax.Kmwzcb', null=True, related_name='+')
+    lramz = models.IntegerField(default=0)
     pass
 
 

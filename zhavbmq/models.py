@@ -18,7 +18,7 @@ class Ohfvuo(models.Model):
 
 
 class Bdniaupe(models.Model):
-    plgvgy = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
+    nftecr = models.IntegerField(default=0)
     pass
 
 
@@ -44,7 +44,7 @@ class Ybkewg(models.Model):
 
 
 class Hmaopvcufb(models.Model):
-    xciop = models.ForeignKey('qclaxc.Yiifw', null=True, related_name='+')
+    bjmgm = models.CharField(default='', max_length=187)
     pass
 
 

@@ -34,3 +34,8 @@ class Uodtjnez(models.Model):
 class Rdhhdq(models.Model):
     yhhsrszrp = models.OneToOneField('epbbfwihj.Apnbivckq', null=True, related_name='+')
     pass
+
+
+class Pqetbg(models.Model):
+    vjyxkovspd = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
+    pass
