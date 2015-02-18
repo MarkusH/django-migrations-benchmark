@@ -13,6 +13,7 @@ class Ylhrvymeyk(models.Model):
 
 class Faqagt(models.Model):
     kasjcjsp = models.ForeignKey('emncdxt.Yvgnpangr', null=True, related_name='+')
+    whygf = models.OneToOneField('yiupu.Zzsheqzf', null=True, related_name='+')
     pass
 
 
@@ -61,5 +62,5 @@ class Hkbvwjilj(models.Model):
 
 
 class Yckccoccsv(models.Model):
-    jmdxrunl = models.IntegerField(default=0)
+    bhxiqpohj = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
     pass

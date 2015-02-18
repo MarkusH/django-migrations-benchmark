@@ -7,7 +7,7 @@ class Mwigq(models.Model):
 
 
 class Djbbtxk(models.Model):
-    szwaxyb = models.CharField(default='', max_length=178)
+    nafoj = models.IntegerField(default=0)
     pass
 
 

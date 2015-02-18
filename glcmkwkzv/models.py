@@ -7,9 +7,5 @@ class Idmamodyjp(models.Model):
 
 
 class Unnork(models.Model):
-    pass
-
-
-class Iwzqe(models.Model):
-    udpsgi = models.IntegerField(default=0)
+    jmyiryrwbl = models.IntegerField(default=0)
     pass

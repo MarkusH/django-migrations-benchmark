@@ -29,3 +29,8 @@ class Huqprglqp(models.Model):
 class Mahcgzunnb(models.Model):
     jytvvd = models.ForeignKey('digmcd.Untgafvod', null=True, related_name='+')
     pass
+
+
+class Jsvynw(models.Model):
+    crogp = models.IntegerField(default=0)
+    pass

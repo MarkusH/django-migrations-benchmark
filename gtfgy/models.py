@@ -19,12 +19,14 @@ class Rykamine(models.Model):
 class Xlaxaa(models.Model):
     etvtohrz = models.OneToOneField('rrmdjc.Gxoqulk', null=True, related_name='+')
     wlgetunnt = models.OneToOneField('foijx.Abmhnczd', null=True, related_name='+')
+    jihubfhawn = models.IntegerField(default=0)
     pass
 
 
 class Wnhvelxdeb(models.Model):
     wzjxuchvek = models.CharField(default='', max_length=16)
     pmnxtsvlq = models.ForeignKey('cohutfvb.Livljpedso', null=True, related_name='+')
+    zhuhn = models.OneToOneField('mjdxvqk.Unnnbu', null=True, related_name='+')
     pass
 
 
@@ -55,4 +57,5 @@ class Ftwph(models.Model):
 
 class Symqs(models.Model):
     cdcocpyto = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
+    cuean = models.ForeignKey('zxxavsovs.Aeaoqky', null=True, related_name='+')
     pass

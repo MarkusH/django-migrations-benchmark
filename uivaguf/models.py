@@ -13,12 +13,6 @@ class Onmti(models.Model):
     pass
 
 
-class Ubuhm(models.Model):
-    qbjla = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
-    lnfxbtie = models.IntegerField(default=0)
-    pass
-
-
 class Bqjxljlwq(models.Model):
     veqvxofwt = models.ForeignKey('mjdxvqk.Edugsywcj', null=True, related_name='+')
     pass

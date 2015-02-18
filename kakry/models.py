@@ -17,11 +17,6 @@ class Wnbhmzvze(models.Model):
     pass
 
 
-class Aefqhqkmm(models.Model):
-    yupnznks = models.OneToOneField('gcyjx.Snjsz', null=True, related_name='+')
-    pass
-
-
 class Kiurw(models.Model):
     fjzlxklz = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
     pass
@@ -29,13 +24,11 @@ class Kiurw(models.Model):
 
 class Lmxjryphro(models.Model):
     kkqmbqbmvt = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
-    nlxhwbmf = models.CharField(default='', max_length=114)
     qsochd = models.ForeignKey('ruvaymw.Wmifd', null=True, related_name='+')
     opnuy = models.CharField(default='', max_length=76)
     pass
 
 
 class Xgsseizbpr(models.Model):
-    ylttnfe = models.ForeignKey('adlorvp.Frzvg', null=True, related_name='+')
     fvqktro = models.CharField(default='', max_length=141)
     pass

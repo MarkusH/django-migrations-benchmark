@@ -14,5 +14,5 @@ class Omtmse(models.Model):
 
 
 class Njigbqwuqa(models.Model):
-    kdfqlfnegc = models.ForeignKey('avwpufexob.Nhpkrhkql', null=True, related_name='+')
+    izuayspxyd = models.IntegerField(default=0)
     pass

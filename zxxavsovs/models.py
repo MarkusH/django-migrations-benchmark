@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Fiellmltob(models.Model):
-    xpmob = models.IntegerField(default=0)
+    cgcyzsjw = models.OneToOneField('apbqku.Tjpxiu', null=True, related_name='+')
     pass
 
 

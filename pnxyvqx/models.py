@@ -29,6 +29,7 @@ class Nenfvguk(models.Model):
 
 class Fmrensoxi(models.Model):
     kdnkbk = models.ForeignKey('zngxahi.Eauslyif', null=True, related_name='+')
+    gserouu = models.IntegerField(default=0)
     pass
 
 

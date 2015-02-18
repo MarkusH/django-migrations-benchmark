@@ -8,10 +8,15 @@ class Hcetattb(models.Model):
 
 
 class Ltlsozji(models.Model):
-    nhiafkfonb = models.CharField(default='', max_length=86)
+    adcqd = models.ForeignKey('gbsaqmaxu.Lshmrghvzw', null=True, related_name='+')
     pass
 
 
 class Ylpjiaq(models.Model):
     yxrkt = models.IntegerField(default=0)
+    pass
+
+
+class Cgsmhniqqe(models.Model):
+    rqkbhz = models.OneToOneField('pkfudme.Cfjtqbcmjd', null=True, related_name='+')
     pass

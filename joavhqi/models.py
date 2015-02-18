@@ -23,7 +23,7 @@ class Yusanbjmh(models.Model):
 
 
 class Lfssmpr(models.Model):
-    qweppfqt = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
+    xlfkpk = models.CharField(default='', max_length=52)
     pass
 
 
@@ -34,9 +34,4 @@ class Uodtjnez(models.Model):
 
 class Rdhhdq(models.Model):
     xxngkrby = models.CharField(default='', max_length=248)
-    pass
-
-
-class Pqetbg(models.Model):
-    jhildfk = models.OneToOneField('qqpppzas.Jchddfi', null=True, related_name='+')
     pass

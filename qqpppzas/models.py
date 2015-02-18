@@ -6,11 +6,6 @@ class Vdscpy(models.Model):
     pass
 
 
-class Xcuutwsyfn(models.Model):
-    hcidp = models.IntegerField(default=0)
-    pass
-
-
 class Lrqwbz(models.Model):
     gqbcodrudr = models.OneToOneField('kfapsax.Sehvi', null=True, related_name='+')
     pass
@@ -22,7 +17,6 @@ class Igtbspg(models.Model):
 
 
 class Ybcxw(models.Model):
-    vkqhycup = models.ForeignKey('gcyjx.Snjsz', null=True, related_name='+')
     pass
 
 

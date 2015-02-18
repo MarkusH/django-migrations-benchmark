@@ -20,6 +20,7 @@ class Schqt(models.Model):
 
 class Ndmxpw(models.Model):
     njspsh = models.IntegerField(default=0)
+    pqkjya = models.CharField(default='', max_length=71)
     pass
 
 

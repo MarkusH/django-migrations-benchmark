@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Sehvi(models.Model):
-    ywngrzbcq = models.CharField(default='', max_length=168)
+    zjrwgrgp = models.OneToOneField('emncdxt.Mioxdvg', null=True, related_name='+')
     pass
 
 

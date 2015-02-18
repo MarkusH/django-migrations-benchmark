@@ -7,7 +7,6 @@ class Oqyncxevyj(models.Model):
 
 
 class Ligxr(models.Model):
-    kfznkinf = models.OneToOneField('uivaguf.Ubuhm', null=True, related_name='+')
     bbftsvxk = models.IntegerField(default=0)
     pass
 

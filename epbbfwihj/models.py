@@ -8,6 +8,7 @@ class Uzdthbetj(models.Model):
 
 class Zfpgchkbaz(models.Model):
     ersxh = models.ForeignKey('ukxhbn.Xqerjvxatp', null=True, related_name='+')
+    jlias = models.OneToOneField('irmtbds.Rqikftw', null=True, related_name='+')
     pass
 
 
@@ -20,11 +21,6 @@ class Apnbivckq(models.Model):
     vnybzdktbi = models.CharField(default='', max_length=51)
     xcnfodzv = models.CharField(default='', max_length=50)
     ghjmssxs = models.CharField(default='', max_length=58)
-    pass
-
-
-class Wcklq(models.Model):
-    pgnrf = models.ForeignKey('geemkrwi.Uqqgcprwn', null=True, related_name='+')
     pass
 
 

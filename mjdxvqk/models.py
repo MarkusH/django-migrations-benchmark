@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Edugsywcj(models.Model):
-    piqojyx = models.ForeignKey('wulegwfs.Yxsnty', null=True, related_name='+')
+    oseje = models.OneToOneField('zxxavsovs.Fiellmltob', null=True, related_name='+')
     pass
 
 
@@ -20,16 +20,12 @@ class Gedwra(models.Model):
 
 class Xglneni(models.Model):
     sgxtarae = models.CharField(default='', max_length=156)
+    ltnmc = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass
 
 
 class Unnnbu(models.Model):
     zwaqruep = models.CharField(default='', max_length=61)
-    pass
-
-
-class Ehopcsp(models.Model):
-    iqdszhdr = models.CharField(default='', max_length=172)
     pass
 
 

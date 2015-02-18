@@ -18,12 +18,11 @@ class Bauxko(models.Model):
 
 
 class Afyxxcmzds(models.Model):
-    wobjqpykka = models.ForeignKey('mjdxvqk.Gedwra', null=True, related_name='+')
+    webvuzv = models.CharField(default='', max_length=20)
     pass
 
 
 class Kmygwyorsi(models.Model):
-    albva = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     qtozzpel = models.CharField(default='', max_length=135)
     pass
 

@@ -46,5 +46,4 @@ class Jnyynhgbb(models.Model):
 
 class Qwtnucajp(models.Model):
     kdyln = models.CharField(default='', max_length=103)
-    efhmvghs = models.OneToOneField('epbbfwihj.Wcklq', null=True, related_name='+')
     pass

@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Meymafbbi(models.Model):
-    lovxtxvw = models.CharField(default='', max_length=180)
     nrttrq = models.CharField(default='', max_length=24)
     pass
 
@@ -16,6 +15,7 @@ class Wilsmoea(models.Model):
 
 class Mxvtxbqsa(models.Model):
     ipxqzrwy = models.ForeignKey('zsskgviadw.Hcetattb', null=True, related_name='+')
+    vlarip = models.CharField(default='', max_length=198)
     pass
 
 
@@ -35,5 +35,5 @@ class Uqqgcprwn(models.Model):
 
 
 class Hxkigetost(models.Model):
-    wnrwf = models.ForeignKey('ftcfrcnas.Wjxepwd', null=True, related_name='+')
+    ycqitjgln = models.ForeignKey('qclaxc.Yswziiulyl', null=True, related_name='+')
     pass

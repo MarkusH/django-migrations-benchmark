@@ -12,11 +12,6 @@ class Xevahddk(models.Model):
     pass
 
 
-class Eaeehqi(models.Model):
-    stfgtnuej = models.OneToOneField('tyfslutb.Qcwbo', null=True, related_name='+')
-    pass
-
-
 class Ysslx(models.Model):
     tbfohcrt = models.IntegerField(default=0)
     pass

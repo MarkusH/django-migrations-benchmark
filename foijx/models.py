@@ -10,17 +10,20 @@ class Gsdqrijpp(models.Model):
 
 class Qrwsj(models.Model):
     zdvvjpppsi = models.OneToOneField('burhjvc.Ydprem', null=True, related_name='+')
+    adjwv = models.IntegerField(default=0)
     pass
 
 
 class Flwuyjdlel(models.Model):
     vvuquay = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    zfvwyfj = models.IntegerField(default=0)
     pass
 
 
 class Qqktwujdfq(models.Model):
     uvyuhhx = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
     uecimvq = models.ForeignKey('pnxyvqx.Nrnexasxp', null=True, related_name='+')
+    nivqwidgui = models.CharField(default='', max_length=211)
     pass
 
 

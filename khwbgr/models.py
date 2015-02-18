@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Bwshcnprcg(models.Model):
-    pxxuuwa = models.CharField(default='', max_length=93)
+class Ibuazau(models.Model):
+    uutjmgjxmy = models.OneToOneField('gcyjx.Nmbztrlh', null=True, related_name='+')
     pass

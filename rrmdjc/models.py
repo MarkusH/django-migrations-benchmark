@@ -19,7 +19,6 @@ class Guhhjm(models.Model):
 
 
 class Bwnmpizji(models.Model):
-    ryght = models.OneToOneField('gcyjx.Snjsz', null=True, related_name='+')
     pass
 
 

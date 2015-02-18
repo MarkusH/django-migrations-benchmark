@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Mnvmeraq(models.Model):
-    qmpes = models.IntegerField(default=0)
+    uxahumnfu = models.OneToOneField('foijx.Flwuyjdlel', null=True, related_name='+')
     pass
 
 

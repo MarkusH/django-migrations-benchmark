@@ -19,7 +19,6 @@ class Ihswfvupi(models.Model):
 
 
 class Ynbpgqn(models.Model):
-    rtmpcyteit = models.ForeignKey('kakry.Aefqhqkmm', null=True, related_name='+')
     pass
 
 
@@ -29,12 +28,11 @@ class Qhzppcqwku(models.Model):
 
 
 class Qcwbo(models.Model):
-    nevqtm = models.ForeignKey('cmsrp.Cpmqvzn', null=True, related_name='+')
     pass
 
 
 class Juemb(models.Model):
-    behscfzjv = models.ForeignKey('emncdxt.Yvgnpangr', null=True, related_name='+')
+    nwqygyqwxc = models.OneToOneField('burhjvc.Qbuqivoko', null=True, related_name='+')
     pass
 
 

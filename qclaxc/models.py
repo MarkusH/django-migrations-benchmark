@@ -7,7 +7,6 @@ class Pmcbxoetr(models.Model):
 
 
 class Yiifw(models.Model):
-    deekrnqng = models.OneToOneField('khwbgr.Bwshcnprcg', null=True, related_name='+')
     pass
 
 
@@ -17,6 +16,7 @@ class Uajrm(models.Model):
 
 
 class Ladoumxyr(models.Model):
+    hzaostqdr = models.IntegerField(default=0)
     pass
 
 
@@ -39,4 +39,9 @@ class Jvoopceqsv(models.Model):
 
 class Hlpgeaqix(models.Model):
     xrfgwsb = models.ForeignKey('ukxhbn.Qujmudiaaa', null=True, related_name='+')
+    pass
+
+
+class Ggafntnbq(models.Model):
+    pqukuovutp = models.IntegerField(default=0)
     pass

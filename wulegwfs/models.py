@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Yxsnty(models.Model):
-    orxnuylir = models.ForeignKey('khwbgr.Bwshcnprcg', null=True, related_name='+')
+    bcknzwc = models.CharField(default='', max_length=133)
     pass
 
 

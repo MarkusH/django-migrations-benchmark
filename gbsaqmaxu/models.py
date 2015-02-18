@@ -15,7 +15,7 @@ class Knqau(models.Model):
 
 
 class Nhlpe(models.Model):
-    mcctecfjs = models.OneToOneField('ygnakzgjxu.Ttzean', null=True, related_name='+')
+    vcwskrliy = models.CharField(default='', max_length=139)
     pass
 
 
