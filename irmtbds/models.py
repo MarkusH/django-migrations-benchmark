@@ -8,6 +8,7 @@ class Rqikftw(models.Model):
 
 class Rqzheruyb(models.Model):
     kplrvqptcm = models.IntegerField(default=0)
+    dzqlaunuix = models.IntegerField(default=0)
     pass
 
 

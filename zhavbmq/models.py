@@ -50,4 +50,5 @@ class Ybkewg(models.Model):
 
 class Hmaopvcufb(models.Model):
     infpgx = models.ForeignKey('avwpufexob.Ubpmj', null=True, related_name='+')
+    vabnk = models.ForeignKey('irmtbds.Rqzheruyb', null=True, related_name='+')
     pass

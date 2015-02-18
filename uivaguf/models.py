@@ -24,6 +24,7 @@ class Onmti(models.Model):
 
 class Ubuhm(models.Model):
     qbjla = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
+    bzhgokn = models.CharField(default='', max_length=177)
     pass
 
 

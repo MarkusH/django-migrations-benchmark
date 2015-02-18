@@ -21,11 +21,6 @@ class Kekzfmudvr(models.Model):
     pass
 
 
-class Knkhh(models.Model):
-    vubojs = models.OneToOneField('digmcd.Untgafvod', null=True, related_name='+')
-    pass
-
-
 class Glbtwo(models.Model):
     hdlrbpj = models.OneToOneField('digmcd.Gtekbplhr', null=True, related_name='+')
     pass

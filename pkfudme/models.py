@@ -26,13 +26,8 @@ class Heehdxfqyb(models.Model):
     pass
 
 
-class Hcblxrqme(models.Model):
-    ztqdo = models.ForeignKey('wyxbcga.Eezxvbbvmn', null=True, related_name='+')
-    pass
-
-
 class Osyzmgmbo(models.Model):
-    rzhpdh = models.CharField(default='', max_length=100)
+    tlzwts = models.IntegerField(default=0)
     pass
 
 
@@ -42,5 +37,5 @@ class Dbpile(models.Model):
 
 
 class Jrppdzds(models.Model):
-    ttzww = models.CharField(default='', max_length=153)
+    pwslpi = models.IntegerField(default=0)
     pass

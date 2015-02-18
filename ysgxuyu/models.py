@@ -8,10 +8,14 @@ class Bmovnbnmed(models.Model):
 
 class Kqlunbkaa(models.Model):
     vccxl = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
-    cexmjva = models.OneToOneField('zsskgviadw.Inyvz', null=True, related_name='+')
     pass
 
 
 class Omtmse(models.Model):
     ipywv = models.ForeignKey('burhjvc.Pdzdhpq', null=True, related_name='+')
+    pass
+
+
+class Njigbqwuqa(models.Model):
+    kdfqlfnegc = models.ForeignKey('avwpufexob.Nhpkrhkql', null=True, related_name='+')
     pass

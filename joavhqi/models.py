@@ -22,7 +22,7 @@ class Yusanbjmh(models.Model):
 
 
 class Lfssmpr(models.Model):
-    ulnuig = models.ForeignKey('qclaxc.Uajrm', null=True, related_name='+')
+    qweppfqt = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
     pass
 
 
@@ -33,5 +33,5 @@ class Uodtjnez(models.Model):
 
 
 class Rdhhdq(models.Model):
-    ztnjkzyby = models.OneToOneField('zavygg.Oqyncxevyj', null=True, related_name='+')
+    yhhsrszrp = models.OneToOneField('epbbfwihj.Apnbivckq', null=True, related_name='+')
     pass

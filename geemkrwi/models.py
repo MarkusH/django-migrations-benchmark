@@ -3,6 +3,7 @@ from django.db import models
 
 class Meymafbbi(models.Model):
     lovxtxvw = models.CharField(default='', max_length=180)
+    nrttrq = models.CharField(default='', max_length=24)
     pass
 
 

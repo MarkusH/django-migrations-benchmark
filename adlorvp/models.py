@@ -12,7 +12,7 @@ class Frzvg(models.Model):
 
 
 class Kzrfnfxko(models.Model):
-    rcqudvnf = models.IntegerField(default=0)
+    fmvbwiqgc = models.CharField(default='', max_length=52)
     pass
 
 
@@ -27,5 +27,5 @@ class Afyxxcmzds(models.Model):
 
 
 class Kmygwyorsi(models.Model):
-    shkjv = models.OneToOneField('khwbgr.Qsqcspjrgx', null=True, related_name='+')
+    zvqajqzsmi = models.IntegerField(default=0)
     pass

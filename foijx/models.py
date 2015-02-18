@@ -3,6 +3,7 @@ from django.db import models
 
 class Gsdqrijpp(models.Model):
     cmgipgvc = models.CharField(default='', max_length=39)
+    mzmegwgymf = models.IntegerField(default=0)
     pass
 
 
@@ -41,4 +42,5 @@ class Mvmwqukrbx(models.Model):
 
 class Abmhnczd(models.Model):
     wdlblsubi = models.OneToOneField('ruvaymw.Bdpibttuxi', null=True, related_name='+')
+    hekwccfc = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass

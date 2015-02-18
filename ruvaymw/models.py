@@ -33,6 +33,7 @@ class Bdpibttuxi(models.Model):
 
 class Ndhcup(models.Model):
     tqkbptpb = models.CharField(default='', max_length=139)
+    kvekefr = models.CharField(default='', max_length=90)
     pass
 
 
@@ -43,6 +44,7 @@ class Wmifd(models.Model):
 
 class Fxsiyvw(models.Model):
     hdhjlmfrsy = models.IntegerField(default=0)
+    bigwfusa = models.OneToOneField('gbsaqmaxu.Vvyni', null=True, related_name='+')
     pass
 
 

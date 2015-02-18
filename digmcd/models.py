@@ -36,11 +36,12 @@ class Gtekbplhr(models.Model):
 class Rdfrrg(models.Model):
     yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
     lihyfbg = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
+    anylxapd = models.ForeignKey('ftcfrcnas.Lqfdippdc', null=True, related_name='+')
     pass
 
 
 class Zyjgcrtsvt(models.Model):
-    tdwxs = models.CharField(default='', max_length=31)
+    mszzimuh = models.IntegerField(default=0)
     pass
 
 

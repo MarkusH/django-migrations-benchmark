@@ -27,11 +27,6 @@ class Nenfvguk(models.Model):
     pass
 
 
-class Aqqpzvuoxj(models.Model):
-    elbxadh = models.CharField(default='', max_length=66)
-    pass
-
-
 class Fmrensoxi(models.Model):
     kdnkbk = models.ForeignKey('zngxahi.Eauslyif', null=True, related_name='+')
     pass

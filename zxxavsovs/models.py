@@ -8,6 +8,7 @@ class Fiellmltob(models.Model):
 
 class Iyfiu(models.Model):
     druuyy = models.OneToOneField('mjdxvqk.Ovbcnxcwyr', null=True, related_name='+')
+    joxrnh = models.CharField(default='', max_length=184)
     pass
 
 
@@ -23,4 +24,5 @@ class Yjuyutcqq(models.Model):
 
 class Kiikphbz(models.Model):
     hgxjksbg = models.ForeignKey('zngxahi.Llnksobygh', null=True, related_name='+')
+    rjoxhxcvle = models.IntegerField(default=0)
     pass

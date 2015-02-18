@@ -33,10 +33,9 @@ class Apnbivckq(models.Model):
 
 
 class Pbnaktpzhs(models.Model):
-    ixryziwdzn = models.OneToOneField('qclaxc.Bfnecf', null=True, related_name='+')
     pass
 
 
 class Gejrsf(models.Model):
-    wnttrpau = models.OneToOneField('rrmdjc.Rtbkg', null=True, related_name='+')
+    hjtbpctd = models.CharField(default='', max_length=209)
     pass

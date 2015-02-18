@@ -18,10 +18,12 @@ class Pdzdhpq(models.Model):
 
 class Qbuqivoko(models.Model):
     mdvtre = models.OneToOneField('digmcd.Xmvhvzui', null=True, related_name='+')
+    xfdapna = models.OneToOneField('yiupu.Zzsheqzf', null=True, related_name='+')
     pass
 
 
 class Ydprem(models.Model):
+    wuxfyceg = models.IntegerField(default=0)
     pass
 
 

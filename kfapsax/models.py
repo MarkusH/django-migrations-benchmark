@@ -9,8 +9,3 @@ class Sehvi(models.Model):
 class Kmwzcb(models.Model):
     zahlcf = models.IntegerField(default=0)
     pass
-
-
-class Ktjsrtd(models.Model):
-    dauxp = models.ForeignKey('cohutfvb.Qpuji', null=True, related_name='+')
-    pass

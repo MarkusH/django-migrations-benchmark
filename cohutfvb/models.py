@@ -20,3 +20,8 @@ class Crzqih(models.Model):
     ttktcobp = models.CharField(default='', max_length=10)
     uanao = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
     pass
+
+
+class Ecgjvad(models.Model):
+    zxnnutgo = models.IntegerField(default=0)
+    pass

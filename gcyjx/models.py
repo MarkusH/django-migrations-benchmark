@@ -8,4 +8,5 @@ class Snjsz(models.Model):
 
 class Ivcsuscyb(models.Model):
     lypce = models.ForeignKey('cuspknbh.Kekzfmudvr', null=True, related_name='+')
+    zdkop = models.IntegerField(default=0)
     pass

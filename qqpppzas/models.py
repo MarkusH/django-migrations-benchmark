@@ -3,6 +3,7 @@ from django.db import models
 
 class Vdscpy(models.Model):
     efspwnch = models.OneToOneField('rqwywo.Huqprglqp', null=True, related_name='+')
+    mxjhvnbbqm = models.OneToOneField('cuspknbh.Glbtwo', null=True, related_name='+')
     pass
 
 
@@ -23,6 +24,7 @@ class Igtbspg(models.Model):
 
 class Fzhxya(models.Model):
     mvaeauil = models.OneToOneField('zxxavsovs.Fiellmltob', null=True, related_name='+')
+    szryc = models.OneToOneField('burhjvc.Pdzdhpq', null=True, related_name='+')
     pass
 
 
@@ -32,6 +34,7 @@ class Ybcxw(models.Model):
 
 
 class Mukbde(models.Model):
+    rmdjmdwewd = models.IntegerField(default=0)
     pass
 
 

@@ -3,11 +3,7 @@ from django.db import models
 
 class Hcetattb(models.Model):
     dhmzbwvcg = models.CharField(default='', max_length=152)
-    pass
-
-
-class Inyvz(models.Model):
-    nqrrfjy = models.ForeignKey('esznwrr.Cepov', null=True, related_name='+')
+    lcdqnzq = models.IntegerField(default=0)
     pass
 
 

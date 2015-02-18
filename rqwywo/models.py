@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Uxpep(models.Model):
-    wognfx = models.ForeignKey('zsskgviadw.Inyvz', null=True, related_name='+')
     pass
 
 
@@ -17,10 +16,9 @@ class Gkiwtx(models.Model):
 
 
 class Xaszfxobvf(models.Model):
-    iskdepqo = models.OneToOneField('ukxhbn.Xtmekz', null=True, related_name='+')
     pass
 
 
 class Huqprglqp(models.Model):
-    xumeqhx = models.IntegerField(default=0)
+    lknuczrw = models.ForeignKey('gtfgy.Wnhvelxdeb', null=True, related_name='+')
     pass

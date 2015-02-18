@@ -33,6 +33,7 @@ class Ehopcsp(models.Model):
 
 class Vmnilim(models.Model):
     vkvsbd = models.OneToOneField('zhavbmq.Ulvookvun', null=True, related_name='+')
+    rvflb = models.IntegerField(default=0)
     pass
 
 

@@ -3,6 +3,7 @@ from django.db import models
 
 class Rqjyygz(models.Model):
     phklt = models.IntegerField(default=0)
+    syyrsnfru = models.CharField(default='', max_length=35)
     pass
 
 
@@ -33,6 +34,7 @@ class Xlaxaa(models.Model):
 
 class Wnhvelxdeb(models.Model):
     wzjxuchvek = models.CharField(default='', max_length=16)
+    pmnxtsvlq = models.ForeignKey('cohutfvb.Livljpedso', null=True, related_name='+')
     pass
 
 

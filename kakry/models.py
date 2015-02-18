@@ -16,11 +16,6 @@ class Aivqb(models.Model):
     pass
 
 
-class Mfivvxhds(models.Model):
-    erclh = models.OneToOneField('uivaguf.Onmti', null=True, related_name='+')
-    pass
-
-
 class Wnbhmzvze(models.Model):
     mltbxn = models.IntegerField(default=0)
     pass
