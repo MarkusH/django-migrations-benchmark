@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Yiifw(models.Model):
-    ufrqn = models.OneToOneField('ysgxuyu.Njigbqwuqa', null=True, related_name='+')
-    pass
-
-
 class Uajrm(models.Model):
     cwxebhdr = models.IntegerField(default=0)
     pass
@@ -17,7 +12,7 @@ class Yswziiulyl(models.Model):
 
 
 class Ooecads(models.Model):
-    azjnmckmok = models.OneToOneField('joavhqi.Nizqeesp', null=True, related_name='+')
+    kjhiytbp = models.IntegerField(default=0)
     pass
 
 
@@ -42,7 +37,7 @@ class Pjboumq(models.Model):
 
 
 class Ilngaq(models.Model):
-    rhjodfszjd = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    arwhqp = models.ForeignKey('avwpufexob.Yejdqycpmg', null=True, related_name='+')
     pass
 
 

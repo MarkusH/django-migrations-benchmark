@@ -21,3 +21,8 @@ class Apnbivckq(models.Model):
 class Sysnlv(models.Model):
     ybqvecvb = models.OneToOneField('apbqku.Tjpxiu', null=True, related_name='+')
     pass
+
+
+class Dfjxgqll(models.Model):
+    woifc = models.IntegerField(default=0)
+    pass

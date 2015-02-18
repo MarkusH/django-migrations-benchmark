@@ -8,7 +8,7 @@ class Rwrraj(models.Model):
 
 
 class Aehywz(models.Model):
-    znmxhx = models.IntegerField(default=0)
+    ujiftttgv = models.OneToOneField('burhjvc.Pdzdhpq', null=True, related_name='+')
     pass
 
 
@@ -30,5 +30,5 @@ class Zhsexma(models.Model):
 
 
 class Ecatm(models.Model):
-    kbkjjed = models.CharField(default='', max_length=202)
+    qqhiw = models.OneToOneField('rrmdjc.Gxoqulk', null=True, related_name='+')
     pass

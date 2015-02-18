@@ -7,7 +7,7 @@ class Mwigq(models.Model):
 
 
 class Djbbtxk(models.Model):
-    nafoj = models.IntegerField(default=0)
+    zuxnuezt = models.IntegerField(default=0)
     pass
 
 
@@ -23,7 +23,7 @@ class Kekzfmudvr(models.Model):
 
 
 class Mbcah(models.Model):
-    auvyvqhx = models.IntegerField(default=0)
+    iibcl = models.CharField(default='', max_length=1)
     pass
 
 

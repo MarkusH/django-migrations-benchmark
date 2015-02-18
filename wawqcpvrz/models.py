@@ -24,7 +24,7 @@ class Ndmxpw(models.Model):
 
 
 class Scfuekgkl(models.Model):
-    rhgqd = models.OneToOneField('joavhqi.Rdhhdq', null=True, related_name='+')
+    bgucm = models.CharField(default='', max_length=175)
     pass
 
 
@@ -39,5 +39,5 @@ class Ydfkef(models.Model):
 
 
 class Nqohhreonm(models.Model):
-    rwniop = models.ForeignKey('burhjvc.Bewsptdyqv', null=True, related_name='+')
+    lojmqltr = models.ForeignKey('digmcd.Yymzlvsz', null=True, related_name='+')
     pass

@@ -9,6 +9,7 @@ class Hiqedajgiu(models.Model):
 
 class Eauslyif(models.Model):
     zzadgnvsif = models.OneToOneField('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
+    nteiooiikw = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
     pass
 
 
@@ -39,6 +40,7 @@ class Bdontoyqti(models.Model):
 class Nnkqr(models.Model):
     xgosa = models.IntegerField(default=0)
     kdstxhvuz = models.CharField(default='', max_length=132)
+    eczmitq = models.CharField(default='', max_length=7)
     pass
 
 
@@ -54,14 +56,7 @@ class Rxxpitmckt(models.Model):
 
 
 class Orofu(models.Model):
-    liqkyjd = models.OneToOneField('qqpppzas.Vdscpy', null=True, related_name='+')
     xewlv = models.IntegerField(default=0)
-    pass
-
-
-class Qmhypaufcg(models.Model):
-    lrtkrh = models.IntegerField(default=0)
-    jydjg = models.IntegerField(default=0)
     pass
 
 

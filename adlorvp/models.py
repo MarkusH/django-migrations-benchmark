@@ -1,12 +1,6 @@
 from django.db import models
 
 
-class Frzvg(models.Model):
-    zudzejdflx = models.IntegerField(default=0)
-    jlbhm = models.OneToOneField('burhjvc.Oilvk', null=True, related_name='+')
-    pass
-
-
 class Bauxko(models.Model):
     wmvyhrhbsm = models.IntegerField(default=0)
     pass
@@ -24,4 +18,9 @@ class Kmygwyorsi(models.Model):
 
 class Phrzexgxu(models.Model):
     tmlwb = models.IntegerField(default=0)
+    pass
+
+
+class Ehcuyeglmi(models.Model):
+    yfcgjm = models.OneToOneField('ysgxuyu.Eppkc', null=True, related_name='+')
     pass

@@ -28,5 +28,5 @@ class Hitvmegxki(models.Model):
 
 
 class Gbmslrhm(models.Model):
-    wftcam = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
+    ezrgxhh = models.IntegerField(default=0)
     pass

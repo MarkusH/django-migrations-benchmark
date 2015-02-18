@@ -8,6 +8,7 @@ class Rqjyygz(models.Model):
 
 class Lbhtyfzldr(models.Model):
     oqurkjppqv = models.ForeignKey('wawqcpvrz.Xivomw', null=True, related_name='+')
+    bqpchgui = models.CharField(default='', max_length=167)
     pass
 
 

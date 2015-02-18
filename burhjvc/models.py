@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Bewsptdyqv(models.Model):
-    xeqlaepw = models.IntegerField(default=0)
+    qwvtzko = models.IntegerField(default=0)
     pass
 
 
@@ -18,14 +18,9 @@ class Pdzdhpq(models.Model):
     pass
 
 
-class Qbuqivoko(models.Model):
-    orrjz = models.IntegerField(default=0)
-    kddwhakvpm = models.CharField(default='', max_length=231)
-    pass
-
-
 class Ubeubsuez(models.Model):
     jyjwhl = models.OneToOneField('cuspknbh.Ufrkff', null=True, related_name='+')
+    jowmt = models.CharField(default='', max_length=9)
     pass
 
 

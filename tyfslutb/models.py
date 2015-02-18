@@ -34,7 +34,6 @@ class Qcwbo(models.Model):
 
 
 class Juemb(models.Model):
-    nwqygyqwxc = models.OneToOneField('burhjvc.Qbuqivoko', null=True, related_name='+')
     pass
 
 

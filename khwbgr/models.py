@@ -2,5 +2,5 @@ from django.db import models
 
 
 class Ibuazau(models.Model):
-    qygkfxppc = models.OneToOneField('burhjvc.Oilvk', null=True, related_name='+')
+    edfxe = models.CharField(default='', max_length=141)
     pass

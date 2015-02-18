@@ -31,7 +31,7 @@ class Tmgvpztce(models.Model):
 
 
 class Ovbcnxcwyr(models.Model):
-    usxwgvyiz = models.ForeignKey('wyxbcga.Rsaiyadejv', null=True, related_name='+')
+    xxzwdnc = models.CharField(default='', max_length=251)
     pass
 
 

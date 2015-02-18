@@ -19,5 +19,5 @@ class Rrijbgjqxe(models.Model):
 
 
 class Iznpghp(models.Model):
-    sgafrav = models.OneToOneField('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    czxbnyva = models.IntegerField(default=0)
     pass

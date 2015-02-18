@@ -7,12 +7,13 @@ class Ohfvuo(models.Model):
 
 
 class Bdniaupe(models.Model):
-    nftecr = models.IntegerField(default=0)
+    plcox = models.CharField(default='', max_length=53)
     pass
 
 
 class Vzhhl(models.Model):
     lucjyqsas = models.CharField(default='', max_length=69)
+    odnpyo = models.CharField(default='', max_length=60)
     pass
 
 

@@ -19,5 +19,5 @@ class Crzqih(models.Model):
 
 
 class Ecgjvad(models.Model):
-    dmlqug = models.CharField(default='', max_length=96)
+    xoyasniyf = models.OneToOneField('kakry.Xgsseizbpr', null=True, related_name='+')
     pass

@@ -8,7 +8,6 @@ class Meymafbbi(models.Model):
 
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
-    ninajhwzfe = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     ssyao = models.CharField(default='', max_length=223)
     lpmmn = models.CharField(default='', max_length=240)
     pass
@@ -30,7 +29,7 @@ class Egvtran(models.Model):
 
 
 class Uqqgcprwn(models.Model):
-    cordori = models.CharField(default='', max_length=51)
+    birbvhypj = models.CharField(default='', max_length=1)
     pass
 
 
@@ -42,4 +41,5 @@ class Hxkigetost(models.Model):
 
 class Knrrd(models.Model):
     tgykwsrkc = models.ForeignKey('avwpufexob.Fvlkcjd', null=True, related_name='+')
+    hwqsq = models.OneToOneField('kakry.Wnbhmzvze', null=True, related_name='+')
     pass

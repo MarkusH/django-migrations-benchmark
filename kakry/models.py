@@ -12,7 +12,7 @@ class Wnbhmzvze(models.Model):
 
 
 class Kiurw(models.Model):
-    fjzlxklz = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
+    pjightmdnt = models.CharField(default='', max_length=3)
     pass
 
 

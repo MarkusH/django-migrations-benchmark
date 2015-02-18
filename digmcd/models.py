@@ -4,6 +4,7 @@ from django.db import models
 class Yymzlvsz(models.Model):
     xejpallvgr = models.IntegerField(default=0)
     cjumbggroa = models.CharField(default='', max_length=181)
+    qwacibmrk = models.IntegerField(default=0)
     pass
 
 
@@ -31,6 +32,7 @@ class Rdfrrg(models.Model):
 
 class Zyjgcrtsvt(models.Model):
     pwgdlxtg = models.IntegerField(default=0)
+    eqpvez = models.CharField(default='', max_length=188)
     pass
 
 
@@ -41,6 +43,7 @@ class Xmvhvzui(models.Model):
 
 
 class Zaganduq(models.Model):
+    bxgqiay = models.OneToOneField('emncdxt.Gnxmv', null=True, related_name='+')
     pass
 
 
@@ -58,4 +61,9 @@ class Lemzs(models.Model):
 class Mqnavvvb(models.Model):
     qguzrxggsd = models.IntegerField(default=0)
     akttuw = models.OneToOneField('cuspknbh.Mwigq', null=True, related_name='+')
+    pass
+
+
+class Rozpduya(models.Model):
+    hhmhbd = models.IntegerField(default=0)
     pass

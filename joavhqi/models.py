@@ -37,3 +37,8 @@ class Uodtjnez(models.Model):
 class Rdhhdq(models.Model):
     xxngkrby = models.CharField(default='', max_length=248)
     pass
+
+
+class Sabdmpl(models.Model):
+    leietkf = models.OneToOneField('zsskgviadw.Ltlsozji', null=True, related_name='+')
+    pass

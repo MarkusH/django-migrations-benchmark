@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Vdscpy(models.Model):
-    efspwnch = models.OneToOneField('rqwywo.Huqprglqp', null=True, related_name='+')
+    tcyjunatyh = models.CharField(default='', max_length=163)
     pass
 
 
@@ -43,7 +43,6 @@ class Jchddfi(models.Model):
 class Shtlozkm(models.Model):
     zwsomb = models.ForeignKey('wulegwfs.Txgqxz', null=True, related_name='+')
     hxbwkwebc = models.IntegerField(default=0)
-    wjznogs = models.OneToOneField('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 
@@ -54,4 +53,9 @@ class Tqlaa(models.Model):
 
 class Fngqkhhe(models.Model):
     cgmxqscs = models.IntegerField(default=0)
+    pass
+
+
+class Uxswpekqlt(models.Model):
+    febtep = models.OneToOneField('cohutfvb.Ecgjvad', null=True, related_name='+')
     pass

@@ -12,7 +12,7 @@ class Rsaiyadejv(models.Model):
 
 
 class Xqjugixefj(models.Model):
-    bbwlhkxvqd = models.OneToOneField('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    bnagoumyi = models.CharField(default='', max_length=89)
     pass
 
 
@@ -23,6 +23,7 @@ class Jkjvvohe(models.Model):
 
 class Qqpfvbjbpk(models.Model):
     ebcai = models.IntegerField(default=0)
+    wwbbnpko = models.CharField(default='', max_length=42)
     pass
 
 

@@ -24,6 +24,7 @@ class Hubxq(models.Model):
 
 
 class Mbkkuilliw(models.Model):
+    cyqufojbwa = models.OneToOneField('zxxavsovs.Kiikphbz', null=True, related_name='+')
     pass
 
 

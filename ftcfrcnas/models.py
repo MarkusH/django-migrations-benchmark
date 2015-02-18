@@ -7,7 +7,7 @@ class Cdardz(models.Model):
 
 
 class Myohdht(models.Model):
-    vwrrbmxs = models.CharField(default='', max_length=167)
+    nrkvvcx = models.CharField(default='', max_length=170)
     pass
 
 

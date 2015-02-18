@@ -14,6 +14,7 @@ class Mioxdvg(models.Model):
 
 class Shgjep(models.Model):
     ceinb = models.CharField(default='', max_length=203)
+    qucvdgncbq = models.IntegerField(default=0)
     pass
 
 

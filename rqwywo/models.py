@@ -22,7 +22,7 @@ class Huqprglqp(models.Model):
 
 
 class Mahcgzunnb(models.Model):
-    jytvvd = models.ForeignKey('digmcd.Untgafvod', null=True, related_name='+')
+    poqdtc = models.CharField(default='', max_length=194)
     pass
 
 
@@ -38,9 +38,10 @@ class Rrojp(models.Model):
 
 class Trhinrdlr(models.Model):
     zqfgtvrg = models.IntegerField(default=0)
+    mcuktvuoy = models.ForeignKey('zngxahi.Hiqedajgiu', null=True, related_name='+')
     pass
 
 
 class Wmvmz(models.Model):
-    lincd = models.ForeignKey('zavygg.Gbmslrhm', null=True, related_name='+')
+    xpvpigphfl = models.CharField(default='', max_length=67)
     pass

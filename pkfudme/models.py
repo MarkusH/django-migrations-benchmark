@@ -27,7 +27,6 @@ class Cfjtqbcmjd(models.Model):
 class Heehdxfqyb(models.Model):
     jdhsuwxapo = models.OneToOneField('qqpppzas.Ybcxw', null=True, related_name='+')
     xobdnqb = models.CharField(default='', max_length=236)
-    hbttv = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 

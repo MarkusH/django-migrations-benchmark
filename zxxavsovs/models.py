@@ -24,3 +24,8 @@ class Kiikphbz(models.Model):
 class Aeaoqky(models.Model):
     qhxtjnut = models.IntegerField(default=0)
     pass
+
+
+class Kxgenek(models.Model):
+    rgnvvw = models.ForeignKey('emncdxt.Shgjep', null=True, related_name='+')
+    pass
