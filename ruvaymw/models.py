@@ -7,7 +7,7 @@ class Ofvsocf(models.Model):
 
 
 class Ylhrvymeyk(models.Model):
-    qjehrn = models.CharField(default='', max_length=213)
+    zadqslz = models.CharField(default='', max_length=240)
     pass
 
 
@@ -39,7 +39,7 @@ class Fxsiyvw(models.Model):
 
 
 class Hhnwphllci(models.Model):
-    lgfcdtfmmh = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
+    fbjvih = models.CharField(default='', max_length=135)
     pass
 
 

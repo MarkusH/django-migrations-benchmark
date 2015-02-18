@@ -20,12 +20,14 @@ class Cfjtqbcmjd(models.Model):
     lqzydsfrlf = models.CharField(default='', max_length=160)
     lnllxbe = models.IntegerField(default=0)
     smrdaj = models.CharField(default='', max_length=187)
+    elimafue = models.IntegerField(default=0)
     pass
 
 
 class Heehdxfqyb(models.Model):
     jdhsuwxapo = models.OneToOneField('qqpppzas.Ybcxw', null=True, related_name='+')
     xobdnqb = models.CharField(default='', max_length=236)
+    hbttv = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 
@@ -40,7 +42,7 @@ class Dbpile(models.Model):
 
 
 class Jrppdzds(models.Model):
-    pwslpi = models.IntegerField(default=0)
+    trqdjcjqq = models.OneToOneField('pkfudme.Ewxxluebq', null=True, related_name='+')
     pass
 
 

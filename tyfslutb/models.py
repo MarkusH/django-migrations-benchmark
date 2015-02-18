@@ -13,7 +13,6 @@ class Copkdxcnlp(models.Model):
 
 
 class Ihswfvupi(models.Model):
-    ywstkx = models.ForeignKey('glcmkwkzv.Unnork', null=True, related_name='+')
     fmuxala = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
     pass
 

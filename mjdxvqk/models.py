@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Edugsywcj(models.Model):
-    oseje = models.OneToOneField('zxxavsovs.Fiellmltob', null=True, related_name='+')
-    pass
-
-
 class Curcmm(models.Model):
     uluefwvd = models.CharField(default='', max_length=100)
     gasoypwn = models.CharField(default='', max_length=121)
@@ -14,7 +9,6 @@ class Curcmm(models.Model):
 
 
 class Gedwra(models.Model):
-    hkdujm = models.CharField(default='', max_length=110)
     samswfwyn = models.ForeignKey('gtfgy.Rqjyygz', null=True, related_name='+')
     pass
 

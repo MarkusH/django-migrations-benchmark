@@ -2,6 +2,7 @@ from django.db import models
 
 
 class Zhgafcksok(models.Model):
+    nwofpfncc = models.ForeignKey('avwpufexob.Yejdqycpmg', null=True, related_name='+')
     pass
 
 

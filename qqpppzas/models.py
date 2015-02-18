@@ -18,6 +18,7 @@ class Igtbspg(models.Model):
 
 class Ybcxw(models.Model):
     qbpbr = models.CharField(default='', max_length=244)
+    vstfeyikg = models.CharField(default='', max_length=174)
     pass
 
 
@@ -25,6 +26,7 @@ class Mukbde(models.Model):
     rmdjmdwewd = models.IntegerField(default=0)
     tbklu = models.CharField(default='', max_length=60)
     vdpfetqazw = models.CharField(default='', max_length=113)
+    lzkmi = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
     pass
 
 
@@ -51,5 +53,5 @@ class Tqlaa(models.Model):
 
 
 class Fngqkhhe(models.Model):
-    bsvigtdmwm = models.ForeignKey('apbqku.Tjpxiu', null=True, related_name='+')
+    cgmxqscs = models.IntegerField(default=0)
     pass

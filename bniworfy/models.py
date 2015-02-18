@@ -21,6 +21,7 @@ class Trjyk(models.Model):
 
 class Gsmbfohda(models.Model):
     gxvwzvtps = models.CharField(default='', max_length=90)
+    ewlbpn = models.IntegerField(default=0)
     pass
 
 
@@ -30,7 +31,7 @@ class Sbfynkpvu(models.Model):
 
 
 class Dvqne(models.Model):
-    ubeuubhtm = models.CharField(default='', max_length=242)
+    hgcwzkpp = models.OneToOneField('rwlfplwktj.Yjzzdopc', null=True, related_name='+')
     pass
 
 

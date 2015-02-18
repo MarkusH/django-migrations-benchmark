@@ -12,7 +12,6 @@ class Ligxr(models.Model):
 
 
 class Jydvnf(models.Model):
-    xwilqwztoj = models.ForeignKey('qclaxc.Pmcbxoetr', null=True, related_name='+')
     caohod = models.CharField(default='', max_length=40)
     pass
 

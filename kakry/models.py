@@ -25,4 +25,5 @@ class Lmxjryphro(models.Model):
 
 class Xgsseizbpr(models.Model):
     kensvdnpij = models.IntegerField(default=0)
+    cuyvjfkt = models.IntegerField(default=0)
     pass

@@ -7,7 +7,7 @@ class Livljpedso(models.Model):
 
 
 class Qpuji(models.Model):
-    saiuw = models.CharField(default='', max_length=84)
+    hpnkk = models.CharField(default='', max_length=51)
     pass
 
 

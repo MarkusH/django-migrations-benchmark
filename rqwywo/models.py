@@ -2,6 +2,7 @@ from django.db import models
 
 
 class Uxpep(models.Model):
+    uxbuqfdn = models.OneToOneField('mjdxvqk.Ovbcnxcwyr', null=True, related_name='+')
     pass
 
 
@@ -15,13 +16,8 @@ class Gkiwtx(models.Model):
     pass
 
 
-class Xaszfxobvf(models.Model):
-    iamarlmq = models.CharField(default='', max_length=124)
-    pass
-
-
 class Huqprglqp(models.Model):
-    whhdjgrl = models.CharField(default='', max_length=147)
+    atzdoio = models.IntegerField(default=0)
     pass
 
 
@@ -42,4 +38,9 @@ class Rrojp(models.Model):
 
 class Trhinrdlr(models.Model):
     zqfgtvrg = models.IntegerField(default=0)
+    pass
+
+
+class Wmvmz(models.Model):
+    lincd = models.ForeignKey('zavygg.Gbmslrhm', null=True, related_name='+')
     pass

@@ -59,3 +59,8 @@ class Symqs(models.Model):
     cdcocpyto = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
     cuean = models.ForeignKey('zxxavsovs.Aeaoqky', null=True, related_name='+')
     pass
+
+
+class Fnrijid(models.Model):
+    elgmg = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
+    pass

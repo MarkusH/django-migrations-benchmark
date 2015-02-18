@@ -8,13 +8,13 @@ class Bewsptdyqv(models.Model):
 
 class Aziftfctf(models.Model):
     fhxldzom = models.ForeignKey('zavygg.Jydvnf', null=True, related_name='+')
-    xnuiavwiwo = models.OneToOneField('zxxavsovs.Iyfiu', null=True, related_name='+')
     splbqgxm = models.IntegerField(default=0)
     pass
 
 
 class Pdzdhpq(models.Model):
     bwexzs = models.OneToOneField('rqwywo.Gkiwtx', null=True, related_name='+')
+    qgnduxrb = models.IntegerField(default=0)
     pass
 
 

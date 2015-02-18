@@ -8,12 +8,7 @@ class Rwrraj(models.Model):
 
 
 class Aehywz(models.Model):
-    yehjk = models.CharField(default='', max_length=62)
-    pass
-
-
-class Nrnexasxp(models.Model):
-    irgwicvs = models.ForeignKey('geemkrwi.Mxvmqmhku', null=True, related_name='+')
+    znmxhx = models.IntegerField(default=0)
     pass
 
 
@@ -24,7 +19,6 @@ class Ryzutjmqc(models.Model):
 
 class Nenfvguk(models.Model):
     arptb = models.CharField(default='', max_length=168)
-    yglmn = models.IntegerField(default=0)
     pass
 
 

@@ -36,6 +36,7 @@ class Uqqgcprwn(models.Model):
 
 class Hxkigetost(models.Model):
     egtpieu = models.CharField(default='', max_length=50)
+    gvsmh = models.OneToOneField('gtfgy.Fnrijid', null=True, related_name='+')
     pass
 
 

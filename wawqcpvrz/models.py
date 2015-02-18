@@ -29,7 +29,7 @@ class Scfuekgkl(models.Model):
 
 
 class Tyhxj(models.Model):
-    afzkaucmga = models.CharField(default='', max_length=73)
+    fzego = models.ForeignKey('adlorvp.Bauxko', null=True, related_name='+')
     pass
 
 

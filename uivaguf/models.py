@@ -14,5 +14,5 @@ class Onmti(models.Model):
 
 
 class Bqjxljlwq(models.Model):
-    veqvxofwt = models.ForeignKey('mjdxvqk.Edugsywcj', null=True, related_name='+')
+    grfqexqela = models.OneToOneField('esznwrr.Kgrzxxm', null=True, related_name='+')
     pass

@@ -36,3 +36,8 @@ class Nwyctrmqpq(models.Model):
 class Rkmtigdh(models.Model):
     yowznhii = models.ForeignKey('wyxbcga.Xqjugixefj', null=True, related_name='+')
     pass
+
+
+class Nzleswyp(models.Model):
+    cfvih = models.OneToOneField('joavhqi.Uodtjnez', null=True, related_name='+')
+    pass

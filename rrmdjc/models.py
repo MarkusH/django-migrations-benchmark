@@ -24,6 +24,5 @@ class Bwnmpizji(models.Model):
 
 
 class Gxoqulk(models.Model):
-    dbvbik = models.ForeignKey('mjdxvqk.Curcmm', null=True, related_name='+')
     rlyebux = models.ForeignKey('joavhqi.Iowgy', null=True, related_name='+')
     pass

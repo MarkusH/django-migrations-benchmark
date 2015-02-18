@@ -22,12 +22,12 @@ class Ulvookvun(models.Model):
 
 
 class Ybkewg(models.Model):
-    fuiqe = models.OneToOneField('rqwywo.Xaszfxobvf', null=True, related_name='+')
+    ufxsdkepdu = models.CharField(default='', max_length=78)
     pass
 
 
 class Hmaopvcufb(models.Model):
-    bjmgm = models.CharField(default='', max_length=187)
+    wnxwji = models.OneToOneField('cmsrp.Vlmfay', null=True, related_name='+')
     pass
 
 
@@ -48,7 +48,7 @@ class Rywmfrbmil(models.Model):
 
 
 class Rnddmd(models.Model):
-    ofhma = models.OneToOneField('rrmdjc.Ddzxkrvtfd', null=True, related_name='+')
+    utxzk = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
     pass
 
 

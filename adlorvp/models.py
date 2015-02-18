@@ -8,7 +8,7 @@ class Frzvg(models.Model):
 
 
 class Bauxko(models.Model):
-    mjgvx = models.ForeignKey('kakry.Xgsseizbpr', null=True, related_name='+')
+    wmvyhrhbsm = models.IntegerField(default=0)
     pass
 
 

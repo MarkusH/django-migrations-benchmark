@@ -24,5 +24,9 @@ class Hubxq(models.Model):
 
 
 class Mbkkuilliw(models.Model):
-    zyjdjydlj = models.ForeignKey('glcmkwkzv.Unnork', null=True, related_name='+')
+    pass
+
+
+class Tvaiwes(models.Model):
+    kpnsxiskrz = models.IntegerField(default=0)
     pass

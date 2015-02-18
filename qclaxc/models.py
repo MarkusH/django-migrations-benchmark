@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Pmcbxoetr(models.Model):
-    bmltheez = models.CharField(default='', max_length=16)
-    pass
-
-
 class Yiifw(models.Model):
     ufrqn = models.OneToOneField('ysgxuyu.Njigbqwuqa', null=True, related_name='+')
     pass
@@ -27,7 +22,7 @@ class Ooecads(models.Model):
 
 
 class Jvoopceqsv(models.Model):
-    gzzkivnwgi = models.ForeignKey('rrmdjc.Gxoqulk', null=True, related_name='+')
+    unzjnfo = models.CharField(default='', max_length=28)
     pass
 
 
@@ -48,4 +43,9 @@ class Pjboumq(models.Model):
 
 class Ilngaq(models.Model):
     rhjodfszjd = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    pass
+
+
+class Epikaaneig(models.Model):
+    lfmymwpdk = models.CharField(default='', max_length=211)
     pass

@@ -7,7 +7,7 @@ class Cdardz(models.Model):
 
 
 class Myohdht(models.Model):
-    vaeutfp = models.ForeignKey('rqwywo.Xaszfxobvf', null=True, related_name='+')
+    vwrrbmxs = models.CharField(default='', max_length=167)
     pass
 
 
@@ -35,7 +35,7 @@ class Iwhkq(models.Model):
 
 
 class Qrwqtj(models.Model):
-    xoazccbco = models.ForeignKey('gcyjx.Nmbztrlh', null=True, related_name='+')
+    tidplepk = models.CharField(default='', max_length=28)
     pass
 
 

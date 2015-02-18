@@ -8,12 +8,7 @@ class Hiqedajgiu(models.Model):
 
 
 class Eauslyif(models.Model):
-    uosdpbua = models.IntegerField(default=0)
-    pass
-
-
-class Llnksobygh(models.Model):
-    ewoyglmblj = models.IntegerField(default=0)
+    zzadgnvsif = models.OneToOneField('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
     pass
 
 
@@ -37,6 +32,7 @@ class Kbgdzldxz(models.Model):
 
 class Bdontoyqti(models.Model):
     ywvylo = models.ForeignKey('rwlfplwktj.Thqldbdjm', null=True, related_name='+')
+    wtqko = models.ForeignKey('digmcd.Yymzlvsz', null=True, related_name='+')
     pass
 
 

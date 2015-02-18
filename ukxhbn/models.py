@@ -7,9 +7,15 @@ class Ikuwr(models.Model):
 
 
 class Xqerjvxatp(models.Model):
+    kjyjccxd = models.ForeignKey('zhavbmq.Ulvookvun', null=True, related_name='+')
     pass
 
 
 class Qujmudiaaa(models.Model):
-    gjisrcwtgs = models.ForeignKey('ruvaymw.Yckccoccsv', null=True, related_name='+')
+    golxts = models.CharField(default='', max_length=229)
+    pass
+
+
+class Aciaff(models.Model):
+    xjwwdbi = models.OneToOneField('tyfslutb.Ynbpgqn', null=True, related_name='+')
     pass
