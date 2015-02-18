@@ -10,7 +10,6 @@ class Curcmm(models.Model):
 
 class Gedwra(models.Model):
     samswfwyn = models.ForeignKey('gtfgy.Rqjyygz', null=True, related_name='+')
-    tjsyofzdwu = models.CharField(default='', max_length=111)
     pass
 
 

@@ -8,6 +8,7 @@ class Zfpgchkbaz(models.Model):
 
 class Uwaayy(models.Model):
     wojspu = models.IntegerField(default=0)
+    hmftxhnfr = models.IntegerField(default=0)
     pass
 
 
@@ -24,5 +25,10 @@ class Sysnlv(models.Model):
 
 
 class Dfjxgqll(models.Model):
-    woifc = models.IntegerField(default=0)
+    fqjpso = models.IntegerField(default=0)
+    pass
+
+
+class Esslxuzogo(models.Model):
+    gfvxxvbo = models.ForeignKey('kfapsax.Fxnrayf', null=True, related_name='+')
     pass

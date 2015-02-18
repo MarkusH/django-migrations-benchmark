@@ -8,6 +8,7 @@ class Cdardz(models.Model):
 
 class Myohdht(models.Model):
     nrkvvcx = models.CharField(default='', max_length=170)
+    nafqslyyk = models.CharField(default='', max_length=207)
     pass
 
 
@@ -52,4 +53,9 @@ class Kkkuodosbi(models.Model):
 
 class Zcanykbqv(models.Model):
     snjyvvilgo = models.OneToOneField('adlorvp.Kmygwyorsi', null=True, related_name='+')
+    pass
+
+
+class Fmzwd(models.Model):
+    anrkionx = models.ForeignKey('qclaxc.Hlpgeaqix', null=True, related_name='+')
     pass

@@ -9,12 +9,12 @@ class Meymafbbi(models.Model):
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
     ssyao = models.CharField(default='', max_length=223)
-    colpvkh = models.OneToOneField('khwbgr.Ibuazau', null=True, related_name='+')
     pass
 
 
 class Mxvtxbqsa(models.Model):
     vlarip = models.CharField(default='', max_length=198)
+    jzqygqiis = models.IntegerField(default=0)
     pass
 
 
@@ -25,11 +25,6 @@ class Mxvmqmhku(models.Model):
 
 class Egvtran(models.Model):
     tcqukiomh = models.IntegerField(default=0)
-    pass
-
-
-class Uqqgcprwn(models.Model):
-    birbvhypj = models.CharField(default='', max_length=1)
     pass
 
 

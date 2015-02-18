@@ -23,7 +23,7 @@ class Qhzppcqwku(models.Model):
 
 
 class Qcwbo(models.Model):
-    helryvwow = models.OneToOneField('ygnakzgjxu.Xdwhlpqgw', null=True, related_name='+')
+    gepbdooj = models.IntegerField(default=0)
     pass
 
 

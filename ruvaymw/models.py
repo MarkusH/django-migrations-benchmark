@@ -29,12 +29,7 @@ class Bdpibttuxi(models.Model):
 
 class Wmifd(models.Model):
     rvygrr = models.OneToOneField('wawqcpvrz.Xivomw', null=True, related_name='+')
-    pass
-
-
-class Fxsiyvw(models.Model):
-    hdhjlmfrsy = models.IntegerField(default=0)
-    bigwfusa = models.OneToOneField('gbsaqmaxu.Vvyni', null=True, related_name='+')
+    tbtrybc = models.CharField(default='', max_length=191)
     pass
 
 

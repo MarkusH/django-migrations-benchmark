@@ -47,7 +47,6 @@ class Jrppdzds(models.Model):
 
 class Fkazepju(models.Model):
     ocsozfc = models.ForeignKey('gbsaqmaxu.Knqau', null=True, related_name='+')
-    hwxuvu = models.OneToOneField('geemkrwi.Uqqgcprwn', null=True, related_name='+')
     pass
 
 

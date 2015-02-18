@@ -19,6 +19,7 @@ class Igtbspg(models.Model):
 class Ybcxw(models.Model):
     qbpbr = models.CharField(default='', max_length=244)
     vstfeyikg = models.CharField(default='', max_length=174)
+    yxgvh = models.IntegerField(default=0)
     pass
 
 
@@ -44,11 +45,6 @@ class Jchddfi(models.Model):
 class Shtlozkm(models.Model):
     zwsomb = models.ForeignKey('wulegwfs.Txgqxz', null=True, related_name='+')
     hxbwkwebc = models.IntegerField(default=0)
-    pass
-
-
-class Tqlaa(models.Model):
-    jazakfc = models.OneToOneField('rwlfplwktj.Thqldbdjm', null=True, related_name='+')
     pass
 
 

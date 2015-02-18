@@ -37,7 +37,6 @@ class Zyjgcrtsvt(models.Model):
 
 
 class Xmvhvzui(models.Model):
-    iwugg = models.CharField(default='', max_length=3)
     tffnbk = models.ForeignKey('uivaguf.Zwjgfcdi', null=True, related_name='+')
     pass
 

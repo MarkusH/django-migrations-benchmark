@@ -19,7 +19,7 @@ class Rrijbgjqxe(models.Model):
 
 
 class Iznpghp(models.Model):
-    czxbnyva = models.IntegerField(default=0)
+    irkocleu = models.IntegerField(default=0)
     pass
 
 

@@ -12,12 +12,6 @@ class Mioxdvg(models.Model):
     pass
 
 
-class Shgjep(models.Model):
-    ceinb = models.CharField(default='', max_length=203)
-    qucvdgncbq = models.IntegerField(default=0)
-    pass
-
-
 class Gnxmv(models.Model):
     ofvcqqtajl = models.IntegerField(default=0)
     pass

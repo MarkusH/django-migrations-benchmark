@@ -8,6 +8,7 @@ class Mwigq(models.Model):
 
 class Djbbtxk(models.Model):
     zuxnuezt = models.IntegerField(default=0)
+    nxkbjwhxpu = models.IntegerField(default=0)
     pass
 
 
@@ -35,4 +36,5 @@ class Qotakup(models.Model):
 class Estwpd(models.Model):
     kbqdngbtb = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
     abdlqrp = models.IntegerField(default=0)
+    fjcmnwx = models.OneToOneField('zsskgviadw.Ylpjiaq', null=True, related_name='+')
     pass

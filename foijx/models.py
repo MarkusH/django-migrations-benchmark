@@ -20,5 +20,4 @@ class Cnkdojs(models.Model):
 
 class Abmhnczd(models.Model):
     wdlblsubi = models.OneToOneField('ruvaymw.Bdpibttuxi', null=True, related_name='+')
-    nflur = models.ForeignKey('zhavbmq.Rnddmd', null=True, related_name='+')
     pass

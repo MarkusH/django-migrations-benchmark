@@ -23,7 +23,6 @@ class Ybkewg(models.Model):
 
 
 class Hmaopvcufb(models.Model):
-    wnxwji = models.OneToOneField('cmsrp.Vlmfay', null=True, related_name='+')
     pass
 
 
@@ -44,7 +43,6 @@ class Rywmfrbmil(models.Model):
 
 
 class Rnddmd(models.Model):
-    utxzk = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
     pass
 
 

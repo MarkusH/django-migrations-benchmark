@@ -11,13 +11,6 @@ class Qpuji(models.Model):
     pass
 
 
-class Crzqih(models.Model):
-    ttktcobp = models.CharField(default='', max_length=10)
-    uanao = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
-    nenil = models.ForeignKey('foijx.Qqktwujdfq', null=True, related_name='+')
-    pass
-
-
 class Ecgjvad(models.Model):
     xoyasniyf = models.OneToOneField('kakry.Xgsseizbpr', null=True, related_name='+')
     pass

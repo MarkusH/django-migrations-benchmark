@@ -12,7 +12,6 @@ class Lxcurbmhu(models.Model):
 
 
 class Gkiwtx(models.Model):
-    pwsnbpros = models.OneToOneField('cohutfvb.Crzqih', null=True, related_name='+')
     pass
 
 
@@ -43,5 +42,5 @@ class Trhinrdlr(models.Model):
 
 
 class Wmvmz(models.Model):
-    xpvpigphfl = models.CharField(default='', max_length=67)
+    cakit = models.CharField(default='', max_length=20)
     pass

@@ -7,7 +7,7 @@ class Uajrm(models.Model):
 
 
 class Yswziiulyl(models.Model):
-    omsizc = models.OneToOneField('uivaguf.Onmti', null=True, related_name='+')
+    frtrjxbaxz = models.OneToOneField('self', null=True, related_name='+')
     pass
 
 

@@ -27,5 +27,5 @@ class Aeaoqky(models.Model):
 
 
 class Kxgenek(models.Model):
-    rgnvvw = models.ForeignKey('emncdxt.Shgjep', null=True, related_name='+')
+    lbqqlez = models.IntegerField(default=0)
     pass

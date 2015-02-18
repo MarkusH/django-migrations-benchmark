@@ -15,7 +15,6 @@ class Eauslyif(models.Model):
 
 class Qahkfonewx(models.Model):
     eckmsf = models.ForeignKey('zxxavsovs.Yjuyutcqq', null=True, related_name='+')
-    ditijdjnl = models.OneToOneField('gbsaqmaxu.Vvyni', null=True, related_name='+')
     pass
 
 
@@ -26,7 +25,6 @@ class Xrrtgf(models.Model):
 
 
 class Kbgdzldxz(models.Model):
-    jdhsjo = models.CharField(default='', max_length=160)
     anphrsovlr = models.IntegerField(default=0)
     pass
 
@@ -51,7 +49,7 @@ class Nxqpxgzt(models.Model):
 
 
 class Rxxpitmckt(models.Model):
-    dnzdal = models.CharField(default='', max_length=140)
+    fimfcmg = models.IntegerField(default=0)
     pass
 
 

@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Zwjgfcdi(models.Model):
-    cudmzwxi = models.CharField(default='', max_length=125)
+    crkhxew = models.CharField(default='', max_length=11)
     pass
 
 

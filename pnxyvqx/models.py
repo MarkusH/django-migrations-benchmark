@@ -2,13 +2,13 @@ from django.db import models
 
 
 class Rwrraj(models.Model):
-    qcbtpghkq = models.ForeignKey('kakry.Ajbkovws', null=True, related_name='+')
     qbdud = models.OneToOneField('uivaguf.Zwjgfcdi', null=True, related_name='+')
     pass
 
 
 class Aehywz(models.Model):
     ujiftttgv = models.OneToOneField('burhjvc.Pdzdhpq', null=True, related_name='+')
+    nzufecwivy = models.IntegerField(default=0)
     pass
 
 
@@ -19,6 +19,7 @@ class Ryzutjmqc(models.Model):
 
 class Nenfvguk(models.Model):
     arptb = models.CharField(default='', max_length=168)
+    mpogohi = models.ForeignKey('ygnakzgjxu.Xdwhlpqgw', null=True, related_name='+')
     pass
 
 

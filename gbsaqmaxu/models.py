@@ -20,12 +20,6 @@ class Nhlpe(models.Model):
     pass
 
 
-class Vvyni(models.Model):
-    pranh = models.IntegerField(default=0)
-    kuewajtyut = models.CharField(default='', max_length=173)
-    pass
-
-
 class Rkmtigdh(models.Model):
     egjvljafhq = models.ForeignKey('etnevwmkj.Wpkevitz', null=True, related_name='+')
     pass

@@ -2,8 +2,8 @@ from django.db import models
 
 
 class Kjwyneff(models.Model):
-    zctecjt = models.CharField(default='', max_length=62)
     recvtzi = models.CharField(default='', max_length=119)
+    mhupwxf = models.OneToOneField('epbbfwihj.Sysnlv', null=True, related_name='+')
     pass
 
 
@@ -22,11 +22,6 @@ class Trjyk(models.Model):
 class Gsmbfohda(models.Model):
     ewlbpn = models.IntegerField(default=0)
     bholxclp = models.ForeignKey('esznwrr.Kgrzxxm', null=True, related_name='+')
-    pass
-
-
-class Sbfynkpvu(models.Model):
-    txgmuotqrn = models.IntegerField(default=0)
     pass
 
 

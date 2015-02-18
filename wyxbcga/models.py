@@ -17,7 +17,6 @@ class Jkjvvohe(models.Model):
 
 
 class Qqpfvbjbpk(models.Model):
-    ebcai = models.IntegerField(default=0)
     wwbbnpko = models.CharField(default='', max_length=42)
     pass
 

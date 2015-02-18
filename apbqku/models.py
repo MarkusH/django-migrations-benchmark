@@ -8,6 +8,7 @@ class Tjpxiu(models.Model):
 
 class Ztmubrfn(models.Model):
     nxlukz = models.CharField(default='', max_length=170)
+    uivof = models.IntegerField(default=0)
     pass
 
 

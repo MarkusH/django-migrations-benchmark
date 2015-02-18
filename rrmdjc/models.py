@@ -1,12 +1,6 @@
 from django.db import models
 
 
-class Ddzxkrvtfd(models.Model):
-    pgrnuiuqmv = models.CharField(default='', max_length=75)
-    vlpnxn = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
-    pass
-
-
 class Rtbkg(models.Model):
     eoticlded = models.CharField(default='', max_length=183)
     pass
@@ -14,6 +8,7 @@ class Rtbkg(models.Model):
 
 class Guhhjm(models.Model):
     ixxlcmb = models.CharField(default='', max_length=29)
+    kgvpwpy = models.OneToOneField('zsskgviadw.Ylpjiaq', null=True, related_name='+')
     pass
 
 
@@ -24,4 +19,9 @@ class Bwnmpizji(models.Model):
 
 class Gxoqulk(models.Model):
     rlyebux = models.ForeignKey('joavhqi.Iowgy', null=True, related_name='+')
+    pass
+
+
+class Skeciabygt(models.Model):
+    blyex = models.ForeignKey('cuspknbh.Mwigq', null=True, related_name='+')
     pass

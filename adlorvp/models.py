@@ -30,3 +30,8 @@ class Ehcuyeglmi(models.Model):
 class Sxjglqejbx(models.Model):
     gvukurady = models.ForeignKey('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass
+
+
+class Yedrlgguxg(models.Model):
+    yhzzqyvaxd = models.CharField(default='', max_length=207)
+    pass
