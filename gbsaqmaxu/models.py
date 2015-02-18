@@ -16,7 +16,6 @@ class Knqau(models.Model):
 
 
 class Nhlpe(models.Model):
-    vcwskrliy = models.CharField(default='', max_length=139)
     imicowhnou = models.CharField(default='', max_length=209)
     pass
 
@@ -27,13 +26,8 @@ class Vvyni(models.Model):
     pass
 
 
-class Nwyctrmqpq(models.Model):
-    agxtlimu = models.ForeignKey('wawqcpvrz.Schqt', null=True, related_name='+')
-    pass
-
-
 class Rkmtigdh(models.Model):
-    yowznhii = models.ForeignKey('wyxbcga.Xqjugixefj', null=True, related_name='+')
+    egjvljafhq = models.ForeignKey('etnevwmkj.Wpkevitz', null=True, related_name='+')
     pass
 
 

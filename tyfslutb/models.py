@@ -1,12 +1,6 @@
 from django.db import models
 
 
-class Djnppzsr(models.Model):
-    fkcwrltrh = models.CharField(default='', max_length=101)
-    dkptlqocjt = models.IntegerField(default=0)
-    pass
-
-
 class Copkdxcnlp(models.Model):
     fejjfwfzs = models.CharField(default='', max_length=128)
     pass
@@ -34,11 +28,12 @@ class Qcwbo(models.Model):
 
 
 class Juemb(models.Model):
+    lextgfnkk = models.IntegerField(default=0)
     pass
 
 
 class Ixmfsgch(models.Model):
-    lwczoav = models.CharField(default='', max_length=129)
+    wwkkhdlw = models.CharField(default='', max_length=201)
     pass
 
 

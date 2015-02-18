@@ -6,11 +6,6 @@ class Ohfvuo(models.Model):
     pass
 
 
-class Bdniaupe(models.Model):
-    plcox = models.CharField(default='', max_length=53)
-    pass
-
-
 class Vzhhl(models.Model):
     lucjyqsas = models.CharField(default='', max_length=69)
     odnpyo = models.CharField(default='', max_length=60)
@@ -44,7 +39,7 @@ class Gwmyxcxdii(models.Model):
 
 
 class Rywmfrbmil(models.Model):
-    qnkkkea = models.IntegerField(default=0)
+    ikcfhtdxbs = models.CharField(default='', max_length=9)
     pass
 
 

@@ -64,4 +64,10 @@ class Symqs(models.Model):
 
 class Fnrijid(models.Model):
     elgmg = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
+    aifqvhai = models.IntegerField(default=0)
+    pass
+
+
+class Ohftljcts(models.Model):
+    wokzt = models.OneToOneField('zavygg.Jydvnf', null=True, related_name='+')
     pass

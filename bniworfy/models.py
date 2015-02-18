@@ -20,8 +20,8 @@ class Trjyk(models.Model):
 
 
 class Gsmbfohda(models.Model):
-    gxvwzvtps = models.CharField(default='', max_length=90)
     ewlbpn = models.IntegerField(default=0)
+    bholxclp = models.ForeignKey('esznwrr.Kgrzxxm', null=True, related_name='+')
     pass
 
 

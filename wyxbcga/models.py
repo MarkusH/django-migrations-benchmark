@@ -11,11 +11,6 @@ class Rsaiyadejv(models.Model):
     pass
 
 
-class Xqjugixefj(models.Model):
-    bnagoumyi = models.CharField(default='', max_length=89)
-    pass
-
-
 class Jkjvvohe(models.Model):
     hszww = models.IntegerField(default=0)
     pass

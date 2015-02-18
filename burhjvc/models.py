@@ -21,6 +21,7 @@ class Pdzdhpq(models.Model):
 class Ubeubsuez(models.Model):
     jyjwhl = models.OneToOneField('cuspknbh.Ufrkff', null=True, related_name='+')
     jowmt = models.CharField(default='', max_length=9)
+    fnkolibgw = models.IntegerField(default=0)
     pass
 
 

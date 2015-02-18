@@ -18,10 +18,12 @@ class Faqagt(models.Model):
 
 
 class Swanlanqxn(models.Model):
+    skdyouf = models.ForeignKey('zsskgviadw.Ltlsozji', null=True, related_name='+')
     pass
 
 
 class Bdpibttuxi(models.Model):
+    sydxidrt = models.CharField(default='', max_length=205)
     pass
 
 
@@ -37,7 +39,6 @@ class Fxsiyvw(models.Model):
 
 
 class Zpubci(models.Model):
-    mvnkwqm = models.ForeignKey('foijx.Qrwsj', null=True, related_name='+')
     lkceyrttqg = models.IntegerField(default=0)
     pass
 
@@ -50,4 +51,9 @@ class Hkbvwjilj(models.Model):
 
 class Yckccoccsv(models.Model):
     bhxiqpohj = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
+    pass
+
+
+class Frzjpchfpt(models.Model):
+    cqinuxmtx = models.OneToOneField('khwbgr.Ibuazau', null=True, related_name='+')
     pass

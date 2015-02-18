@@ -10,3 +10,8 @@ class Zvpuolsnx(models.Model):
 class Fxnrayf(models.Model):
     shhzjagag = models.CharField(default='', max_length=228)
     pass
+
+
+class Mygda(models.Model):
+    csipywcnvu = models.OneToOneField('zhavbmq.Ybkewg', null=True, related_name='+')
+    pass

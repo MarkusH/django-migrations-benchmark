@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Bckfaijv(models.Model):
-    xqseghhj = models.ForeignKey('rwlfplwktj.Yjzzdopc', null=True, related_name='+')
+class Fbytmhf(models.Model):
+    xowtsnolp = models.IntegerField(default=0)
     pass

@@ -2,5 +2,5 @@ from django.db import models
 
 
 class Xdwhlpqgw(models.Model):
-    qzrfs = models.CharField(default='', max_length=97)
+    rwnpcg = models.ForeignKey('bniworfy.Dvqne', null=True, related_name='+')
     pass

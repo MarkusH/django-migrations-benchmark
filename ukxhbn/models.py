@@ -7,7 +7,7 @@ class Ikuwr(models.Model):
 
 
 class Xqerjvxatp(models.Model):
-    kjyjccxd = models.ForeignKey('zhavbmq.Ulvookvun', null=True, related_name='+')
+    vmulbes = models.IntegerField(default=0)
     pass
 
 
@@ -17,5 +17,5 @@ class Qujmudiaaa(models.Model):
 
 
 class Aciaff(models.Model):
-    xjwwdbi = models.OneToOneField('tyfslutb.Ynbpgqn', null=True, related_name='+')
+    atqvcg = models.OneToOneField('digmcd.Zaganduq', null=True, related_name='+')
     pass

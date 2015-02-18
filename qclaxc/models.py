@@ -7,12 +7,13 @@ class Uajrm(models.Model):
 
 
 class Yswziiulyl(models.Model):
-    mzpaepi = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
+    omsizc = models.OneToOneField('uivaguf.Onmti', null=True, related_name='+')
     pass
 
 
 class Ooecads(models.Model):
     kjhiytbp = models.IntegerField(default=0)
+    wbopjvbl = models.OneToOneField('bniworfy.Trjyk', null=True, related_name='+')
     pass
 
 
@@ -27,7 +28,7 @@ class Hlpgeaqix(models.Model):
 
 
 class Ggafntnbq(models.Model):
-    pqukuovutp = models.IntegerField(default=0)
+    jdpsqeljc = models.OneToOneField('wulegwfs.Wseerbko', null=True, related_name='+')
     pass
 
 
@@ -43,4 +44,9 @@ class Ilngaq(models.Model):
 
 class Epikaaneig(models.Model):
     lfmymwpdk = models.CharField(default='', max_length=211)
+    pass
+
+
+class Riwryjw(models.Model):
+    qfmyjzj = models.IntegerField(default=0)
     pass

@@ -21,3 +21,8 @@ class Rrijbgjqxe(models.Model):
 class Iznpghp(models.Model):
     czxbnyva = models.IntegerField(default=0)
     pass
+
+
+class Oxrskkvi(models.Model):
+    oijcmehk = models.ForeignKey('avwpufexob.Vxucuqwa', null=True, related_name='+')
+    pass

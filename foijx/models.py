@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Qrwsj(models.Model):
-    adjwv = models.IntegerField(default=0)
-    pass
-
-
 class Flwuyjdlel(models.Model):
     vvuquay = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
     pass

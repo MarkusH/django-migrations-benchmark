@@ -68,6 +68,7 @@ class Dhynhe(models.Model):
 
 class Vnoruiao(models.Model):
     gtrfnedgq = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
+    mmpdy = models.ForeignKey('wawqcpvrz.Nqohhreonm', null=True, related_name='+')
     pass
 
 

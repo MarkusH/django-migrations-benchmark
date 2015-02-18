@@ -15,11 +15,12 @@ class Qibygpddzw(models.Model):
     nzlzvpdg = models.IntegerField(default=0)
     pkicgtdbpc = models.IntegerField(default=0)
     smhmvshun = models.IntegerField(default=0)
+    jviyag = models.CharField(default='', max_length=81)
     pass
 
 
 class Sukkrqb(models.Model):
-    vsgwbct = models.IntegerField(default=0)
+    lbyzkekw = models.ForeignKey('emncdxt.Ggnqplqy', null=True, related_name='+')
     pass
 
 

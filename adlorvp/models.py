@@ -7,20 +7,26 @@ class Bauxko(models.Model):
 
 
 class Afyxxcmzds(models.Model):
-    webvuzv = models.CharField(default='', max_length=20)
+    cpjfffw = models.IntegerField(default=0)
     pass
 
 
 class Kmygwyorsi(models.Model):
-    qtozzpel = models.CharField(default='', max_length=135)
+    tkqbttaxyk = models.IntegerField(default=0)
     pass
 
 
 class Phrzexgxu(models.Model):
-    tmlwb = models.IntegerField(default=0)
+    lwtoe = models.IntegerField(default=0)
     pass
 
 
 class Ehcuyeglmi(models.Model):
     yfcgjm = models.OneToOneField('ysgxuyu.Eppkc', null=True, related_name='+')
+    pvhsiqtxc = models.IntegerField(default=0)
+    pass
+
+
+class Sxjglqejbx(models.Model):
+    gvukurady = models.ForeignKey('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass

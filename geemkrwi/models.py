@@ -9,7 +9,7 @@ class Meymafbbi(models.Model):
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
     ssyao = models.CharField(default='', max_length=223)
-    lpmmn = models.CharField(default='', max_length=240)
+    colpvkh = models.OneToOneField('khwbgr.Ibuazau', null=True, related_name='+')
     pass
 
 

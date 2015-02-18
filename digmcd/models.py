@@ -20,7 +20,7 @@ class Untgafvod(models.Model):
 
 
 class Gtekbplhr(models.Model):
-    npzyjho = models.ForeignKey('joavhqi.Uodtjnez', null=True, related_name='+')
+    gzbctv = models.ForeignKey('foijx.Cnkdojs', null=True, related_name='+')
     pass
 
 
@@ -61,6 +61,7 @@ class Lemzs(models.Model):
 class Mqnavvvb(models.Model):
     qguzrxggsd = models.IntegerField(default=0)
     akttuw = models.OneToOneField('cuspknbh.Mwigq', null=True, related_name='+')
+    tffxa = models.CharField(default='', max_length=157)
     pass
 
 

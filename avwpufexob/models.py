@@ -24,5 +24,5 @@ class Aunuwoo(models.Model):
 
 
 class Vxucuqwa(models.Model):
-    ufrxpg = models.IntegerField(default=0)
+    nmxhkrsk = models.CharField(default='', max_length=161)
     pass

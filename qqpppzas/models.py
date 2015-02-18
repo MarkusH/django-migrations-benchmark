@@ -27,11 +27,12 @@ class Mukbde(models.Model):
     tbklu = models.CharField(default='', max_length=60)
     vdpfetqazw = models.CharField(default='', max_length=113)
     lzkmi = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
+    hhunsf = models.OneToOneField('kfapsax.Fxnrayf', null=True, related_name='+')
     pass
 
 
 class Prljmjou(models.Model):
-    okelu = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    wyhyzaku = models.ForeignKey('wyxbcga.Oblwdacdf', null=True, related_name='+')
     pass
 
 
