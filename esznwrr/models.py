@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Cepov(models.Model):
-    nwbxduzb = models.IntegerField(default=0)
     zzwuzlc = models.IntegerField(default=0)
     pass
 

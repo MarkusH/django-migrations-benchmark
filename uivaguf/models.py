@@ -8,7 +8,6 @@ class Opwgwxncp(models.Model):
 
 class Zwjgfcdi(models.Model):
     ymtyj = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
-    jprqprkcn = models.ForeignKey('joavhqi.Yusanbjmh', null=True, related_name='+')
     pass
 
 
@@ -16,6 +15,7 @@ class Onmti(models.Model):
     vcevpdll = models.OneToOneField('apbqku.Ssgsglh', null=True, related_name='+')
     ijunupwh = models.ForeignKey('wawqcpvrz.Ndmxpw', null=True, related_name='+')
     emaio = models.CharField(default='', max_length=172)
+    ebjgptfm = models.IntegerField(default=0)
     pass
 
 

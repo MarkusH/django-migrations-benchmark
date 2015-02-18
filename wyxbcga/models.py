@@ -3,6 +3,7 @@ from django.db import models
 
 class Kpjlirt(models.Model):
     qjfqxbl = models.CharField(default='', max_length=211)
+    uqfzpsgjj = models.IntegerField(default=0)
     pass
 
 

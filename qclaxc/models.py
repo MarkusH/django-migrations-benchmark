@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Pmcbxoetr(models.Model):
-    npfpduxdlb = models.ForeignKey('ukxhbn.Dcphul', null=True, related_name='+')
+    bmltheez = models.CharField(default='', max_length=16)
     pass
 
 

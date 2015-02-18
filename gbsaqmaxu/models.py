@@ -12,12 +12,6 @@ class Knqau(models.Model):
     pass
 
 
-class Rbodr(models.Model):
-    hmigi = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
-    lfhalcmk = models.CharField(default='', max_length=7)
-    pass
-
-
 class Nhlpe(models.Model):
     wfetmax = models.ForeignKey('cohutfvb.Sonmvoj', null=True, related_name='+')
     pass

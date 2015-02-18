@@ -2,12 +2,11 @@ from django.db import models
 
 
 class Uzdthbetj(models.Model):
-    cmzqytyp = models.OneToOneField('gbsaqmaxu.Avwudusy', null=True, related_name='+')
+    qrawui = models.CharField(default='', max_length=172)
     pass
 
 
 class Zfpgchkbaz(models.Model):
-    yttrt = models.ForeignKey('ukxhbn.Dcphul', null=True, related_name='+')
     pass
 
 

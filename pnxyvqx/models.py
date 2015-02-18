@@ -35,4 +35,5 @@ class Fmrensoxi(models.Model):
 class Zhsexma(models.Model):
     cskzi = models.OneToOneField('rrmdjc.Guhhjm', null=True, related_name='+')
     hljvfcgb = models.CharField(default='', max_length=145)
+    bftfprwd = models.IntegerField(default=0)
     pass

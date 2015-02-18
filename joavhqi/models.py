@@ -3,11 +3,13 @@ from django.db import models
 
 class Nizqeesp(models.Model):
     eijzug = models.OneToOneField('bniworfy.Trjyk', null=True, related_name='+')
+    qmhtlk = models.OneToOneField('ruvaymw.Bdpibttuxi', null=True, related_name='+')
     pass
 
 
 class Iowgy(models.Model):
     rcmqduvnsb = models.IntegerField(default=0)
+    pihqhp = models.ForeignKey('pkfudme.Dbpile', null=True, related_name='+')
     pass
 
 
@@ -27,6 +29,7 @@ class Lfssmpr(models.Model):
 
 
 class Uodtjnez(models.Model):
+    qacrcmfud = models.ForeignKey('geemkrwi.Mxvmqmhku', null=True, related_name='+')
     pass
 
 

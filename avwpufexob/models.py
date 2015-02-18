@@ -15,3 +15,8 @@ class Nhpkrhkql(models.Model):
 class Fvlkcjd(models.Model):
     onlvfzdsk = models.ForeignKey('zxxavsovs.Kiikphbz', null=True, related_name='+')
     pass
+
+
+class Aunuwoo(models.Model):
+    sqtfq = models.CharField(default='', max_length=131)
+    pass

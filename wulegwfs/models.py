@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Yxsnty(models.Model):
-    qhjcri = models.ForeignKey('glcmkwkzv.Iwzqe', null=True, related_name='+')
+    orxnuylir = models.ForeignKey('khwbgr.Bwshcnprcg', null=True, related_name='+')
     pass
 
 

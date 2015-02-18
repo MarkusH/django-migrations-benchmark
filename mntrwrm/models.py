@@ -15,6 +15,7 @@ class Xevahddk(models.Model):
 
 class Eaeehqi(models.Model):
     tauahpur = models.CharField(default='', max_length=14)
+    stfgtnuej = models.OneToOneField('tyfslutb.Qcwbo', null=True, related_name='+')
     pass
 
 

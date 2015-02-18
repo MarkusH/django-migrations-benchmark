@@ -18,7 +18,6 @@ class Faqagt(models.Model):
 
 class Owamswc(models.Model):
     iijffzuw = models.IntegerField(default=0)
-    owxxem = models.CharField(default='', max_length=116)
     pass
 
 

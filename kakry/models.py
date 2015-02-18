@@ -9,7 +9,6 @@ class Flfbdpu(models.Model):
 
 class Ajbkovws(models.Model):
     rlsejr = models.ForeignKey('cuspknbh.Djbbtxk', null=True, related_name='+')
-    kmhhp = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
     pass
 
 

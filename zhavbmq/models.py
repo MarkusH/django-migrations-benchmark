@@ -8,6 +8,7 @@ class Rhhbgxx(models.Model):
 
 class Dvkdj(models.Model):
     gsscvcgrm = models.OneToOneField('pnxyvqx.Nrnexasxp', null=True, related_name='+')
+    nugooscmah = models.CharField(default='', max_length=30)
     pass
 
 
@@ -18,6 +19,7 @@ class Ohfvuo(models.Model):
 
 class Bdniaupe(models.Model):
     nftecr = models.IntegerField(default=0)
+    uiizklbl = models.CharField(default='', max_length=197)
     pass
 
 
@@ -53,4 +55,9 @@ class Murrsbmz(models.Model):
 
 class Gwmyxcxdii(models.Model):
     mhcua = models.IntegerField(default=0)
+    pass
+
+
+class Rywmfrbmil(models.Model):
+    qnkkkea = models.IntegerField(default=0)
     pass

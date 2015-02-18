@@ -62,3 +62,8 @@ class Orofu(models.Model):
 class Qmhypaufcg(models.Model):
     lrtkrh = models.IntegerField(default=0)
     pass
+
+
+class Dhynhe(models.Model):
+    sbhgzwzbv = models.ForeignKey('avwpufexob.Fvlkcjd', null=True, related_name='+')
+    pass

@@ -12,7 +12,7 @@ class Lbhtyfzldr(models.Model):
 
 
 class Rykamine(models.Model):
-    ueuzllk = models.IntegerField(default=0)
+    iacoapjau = models.CharField(default='', max_length=51)
     pass
 
 
@@ -35,6 +35,7 @@ class Swasd(models.Model):
 
 class Niwaoqfft(models.Model):
     serhcyqy = models.ForeignKey('wyxbcga.Eezxvbbvmn', null=True, related_name='+')
+    scqnrmm = models.CharField(default='', max_length=126)
     pass
 
 
@@ -46,4 +47,9 @@ class Yrekcfrkl(models.Model):
 
 class Ftwph(models.Model):
     gulgng = models.OneToOneField('emncdxt.Ktiod', null=True, related_name='+')
+    pass
+
+
+class Symqs(models.Model):
+    zdbraaw = models.IntegerField(default=0)
     pass

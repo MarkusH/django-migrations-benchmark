@@ -24,8 +24,8 @@ class Ndmxpw(models.Model):
 
 
 class Scfuekgkl(models.Model):
-    wglslgn = models.IntegerField(default=0)
     rhgqd = models.OneToOneField('joavhqi.Rdhhdq', null=True, related_name='+')
+    fwxxkt = models.CharField(default='', max_length=56)
     pass
 
 

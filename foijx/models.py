@@ -3,8 +3,8 @@ from django.db import models
 
 class Gsdqrijpp(models.Model):
     cmgipgvc = models.CharField(default='', max_length=39)
-    mzmegwgymf = models.IntegerField(default=0)
     akszwqxbr = models.ForeignKey('zavygg.Ligxr', null=True, related_name='+')
+    sagzj = models.IntegerField(default=0)
     pass
 
 
@@ -37,12 +37,6 @@ class Qqktwujdfq(models.Model):
 class Cnkdojs(models.Model):
     adedvcyxhq = models.ForeignKey('cohutfvb.Sonmvoj', null=True, related_name='+')
     sgtwhfdeig = models.CharField(default='', max_length=170)
-    pass
-
-
-class Mvmwqukrbx(models.Model):
-    ffobkibqn = models.IntegerField(default=0)
-    ynlaiak = models.IntegerField(default=0)
     pass
 
 
