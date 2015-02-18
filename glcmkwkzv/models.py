@@ -12,5 +12,10 @@ class Unnork(models.Model):
 
 
 class Iwzqe(models.Model):
-    smyorbp = models.IntegerField(default=0)
+    udpsgi = models.IntegerField(default=0)
+    pass
+
+
+class Lowamdo(models.Model):
+    glcfis = models.IntegerField(default=0)
     pass

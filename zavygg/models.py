@@ -13,7 +13,7 @@ class Oqyncxevyj(models.Model):
 
 
 class Ligxr(models.Model):
-    rgamodph = models.OneToOneField('ruvaymw.Owamswc', null=True, related_name='+')
+    kfznkinf = models.OneToOneField('uivaguf.Ubuhm', null=True, related_name='+')
     pass
 
 
@@ -30,7 +30,6 @@ class Kihvqrmtr(models.Model):
 
 class Edynlg(models.Model):
     vitmzurb = models.IntegerField(default=0)
-    ghfqson = models.CharField(default='', max_length=21)
     pass
 
 

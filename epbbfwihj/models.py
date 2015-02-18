@@ -26,11 +26,6 @@ class Apnbivckq(models.Model):
     pass
 
 
-class Gejrsf(models.Model):
-    hjtbpctd = models.CharField(default='', max_length=209)
-    pass
-
-
 class Wcklq(models.Model):
     pgnrf = models.ForeignKey('geemkrwi.Uqqgcprwn', null=True, related_name='+')
     pass

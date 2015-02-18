@@ -17,7 +17,7 @@ class Llnksobygh(models.Model):
 
 
 class Qahkfonewx(models.Model):
-    slyww = models.IntegerField(default=0)
+    gwrlr = models.IntegerField(default=0)
     pass
 
 
@@ -56,4 +56,5 @@ class Rxxpitmckt(models.Model):
 
 class Orofu(models.Model):
     liqkyjd = models.OneToOneField('qqpppzas.Vdscpy', null=True, related_name='+')
+    xewlv = models.IntegerField(default=0)
     pass

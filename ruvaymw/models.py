@@ -18,6 +18,7 @@ class Faqagt(models.Model):
 
 class Owamswc(models.Model):
     iijffzuw = models.IntegerField(default=0)
+    owxxem = models.CharField(default='', max_length=116)
     pass
 
 
@@ -56,4 +57,10 @@ class Hhnwphllci(models.Model):
 
 class Zpubci(models.Model):
     mvnkwqm = models.ForeignKey('foijx.Qrwsj', null=True, related_name='+')
+    lkceyrttqg = models.IntegerField(default=0)
+    pass
+
+
+class Hkbvwjilj(models.Model):
+    ymymzn = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
     pass

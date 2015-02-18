@@ -36,3 +36,8 @@ class Lshmrghvzw(models.Model):
 class Utfwgx(models.Model):
     cguxkrad = models.IntegerField(default=0)
     pass
+
+
+class Nwyctrmqpq(models.Model):
+    agxtlimu = models.ForeignKey('wawqcpvrz.Schqt', null=True, related_name='+')
+    pass

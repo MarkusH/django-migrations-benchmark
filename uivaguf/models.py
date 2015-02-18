@@ -6,11 +6,6 @@ class Opwgwxncp(models.Model):
     pass
 
 
-class Vqykzihlmk(models.Model):
-    bpxwllwdt = models.ForeignKey('digmcd.Xovte', null=True, related_name='+')
-    pass
-
-
 class Zwjgfcdi(models.Model):
     ymtyj = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
     jprqprkcn = models.ForeignKey('joavhqi.Yusanbjmh', null=True, related_name='+')

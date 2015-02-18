@@ -13,11 +13,7 @@ class Lbhtyfzldr(models.Model):
 
 class Rykamine(models.Model):
     gwpcavl = models.OneToOneField('emncdxt.Ktiod', null=True, related_name='+')
-    pass
-
-
-class Zbbwyog(models.Model):
-    dmkvpzkuy = models.IntegerField(default=0)
+    ueuzllk = models.IntegerField(default=0)
     pass
 
 
@@ -44,7 +40,7 @@ class Niwaoqfft(models.Model):
 
 
 class Yrekcfrkl(models.Model):
-    vgwig = models.ForeignKey('khwbgr.Ywojvtbwa', null=True, related_name='+')
+    tidjkv = models.ForeignKey('ftcfrcnas.Myohdht', null=True, related_name='+')
     pass
 
 

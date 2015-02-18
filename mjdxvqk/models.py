@@ -23,7 +23,7 @@ class Xglneni(models.Model):
 
 
 class Unnnbu(models.Model):
-    jpmvya = models.CharField(default='', max_length=184)
+    zwaqruep = models.CharField(default='', max_length=61)
     pass
 
 
@@ -45,6 +45,7 @@ class Bznjke(models.Model):
 
 class Tmgvpztce(models.Model):
     mvirtxvn = models.ForeignKey('zxxavsovs.Fiellmltob', null=True, related_name='+')
+    zvohtuwplo = models.CharField(default='', max_length=166)
     pass
 
 

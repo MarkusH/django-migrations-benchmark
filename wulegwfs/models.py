@@ -7,6 +7,5 @@ class Yxsnty(models.Model):
 
 
 class Txgqxz(models.Model):
-    tthzcisvp = models.IntegerField(default=0)
     mhptuwb = models.CharField(default='', max_length=201)
     pass

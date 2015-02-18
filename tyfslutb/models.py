@@ -29,6 +29,7 @@ class Qhzppcqwku(models.Model):
 
 class Qcwbo(models.Model):
     dokqdbprt = models.OneToOneField('digmcd.Arqcdv', null=True, related_name='+')
+    rbasnbzoz = models.OneToOneField('rwlfplwktj.Xunyyu', null=True, related_name='+')
     pass
 
 

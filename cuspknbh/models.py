@@ -23,4 +23,5 @@ class Kekzfmudvr(models.Model):
 
 class Yicalotegs(models.Model):
     yhkzxndlz = models.IntegerField(default=0)
+    xthpwjhi = models.CharField(default='', max_length=136)
     pass

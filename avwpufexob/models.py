@@ -15,9 +15,3 @@ class Nhpkrhkql(models.Model):
 class Fvlkcjd(models.Model):
     onlvfzdsk = models.ForeignKey('zxxavsovs.Kiikphbz', null=True, related_name='+')
     pass
-
-
-class Hjifcjmpm(models.Model):
-    dmacskbf = models.CharField(default='', max_length=178)
-    czfvuy = models.CharField(default='', max_length=133)
-    pass

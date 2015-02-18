@@ -23,7 +23,6 @@ class Cfjtqbcmjd(models.Model):
 
 
 class Heehdxfqyb(models.Model):
-    pimlfnkvip = models.IntegerField(default=0)
     jdhsuwxapo = models.OneToOneField('qqpppzas.Ybcxw', null=True, related_name='+')
     pass
 
@@ -40,4 +39,9 @@ class Dbpile(models.Model):
 
 class Jrppdzds(models.Model):
     pwslpi = models.IntegerField(default=0)
+    pass
+
+
+class Fkazepju(models.Model):
+    ocsozfc = models.ForeignKey('gbsaqmaxu.Knqau', null=True, related_name='+')
     pass

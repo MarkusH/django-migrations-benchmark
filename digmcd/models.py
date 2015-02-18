@@ -3,6 +3,7 @@ from django.db import models
 
 class Yymzlvsz(models.Model):
     xejpallvgr = models.IntegerField(default=0)
+    cjumbggroa = models.CharField(default='', max_length=181)
     pass
 
 
@@ -19,6 +20,7 @@ class Gxovs(models.Model):
 
 
 class Untgafvod(models.Model):
+    matfqq = models.CharField(default='', max_length=175)
     pass
 
 
@@ -34,7 +36,6 @@ class Gtekbplhr(models.Model):
 
 class Rdfrrg(models.Model):
     yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
-    lihyfbg = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     anylxapd = models.ForeignKey('ftcfrcnas.Lqfdippdc', null=True, related_name='+')
     nkkfvqupui = models.CharField(default='', max_length=180)
     pass

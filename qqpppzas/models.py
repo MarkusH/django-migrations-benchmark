@@ -28,6 +28,7 @@ class Ybcxw(models.Model):
 
 class Mukbde(models.Model):
     rmdjmdwewd = models.IntegerField(default=0)
+    tbklu = models.CharField(default='', max_length=60)
     pass
 
 
@@ -44,6 +45,7 @@ class Jchddfi(models.Model):
 
 class Shtlozkm(models.Model):
     zwsomb = models.ForeignKey('wulegwfs.Txgqxz', null=True, related_name='+')
+    hxbwkwebc = models.IntegerField(default=0)
     pass
 
 

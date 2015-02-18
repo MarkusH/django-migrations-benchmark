@@ -17,6 +17,7 @@ class Hqjqgiq(models.Model):
 
 
 class Mxfnrc(models.Model):
+    vwngisguf = models.ForeignKey('zhavbmq.Hmaopvcufb', null=True, related_name='+')
     pass
 
 
@@ -32,4 +33,9 @@ class Gsmbfohda(models.Model):
 
 class Sbfynkpvu(models.Model):
     txgmuotqrn = models.IntegerField(default=0)
+    pass
+
+
+class Dvqne(models.Model):
+    ubeuubhtm = models.CharField(default='', max_length=242)
     pass

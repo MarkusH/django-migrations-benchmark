@@ -7,5 +7,5 @@ class Rqikftw(models.Model):
 
 
 class Bemqls(models.Model):
-    aedocfocsn = models.ForeignKey('wyxbcga.Kpjlirt', null=True, related_name='+')
+    bjknddubg = models.IntegerField(default=0)
     pass

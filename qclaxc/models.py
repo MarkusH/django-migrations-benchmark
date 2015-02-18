@@ -35,6 +35,7 @@ class Yswziiulyl(models.Model):
 
 class Ooecads(models.Model):
     nflopwecc = models.ForeignKey('kfapsax.Kmwzcb', null=True, related_name='+')
+    azjnmckmok = models.OneToOneField('joavhqi.Nizqeesp', null=True, related_name='+')
     pass
 
 

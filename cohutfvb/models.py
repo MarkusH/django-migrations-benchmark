@@ -30,4 +30,5 @@ class Ecgjvad(models.Model):
 
 class Jrgrccoxvv(models.Model):
     gjcirtejy = models.ForeignKey('zngxahi.Hiqedajgiu', null=True, related_name='+')
+    mimxt = models.IntegerField(default=0)
     pass

@@ -6,12 +6,12 @@ class Rbhubw(models.Model):
     pass
 
 
-class Xzicjkogl(models.Model):
-    uwlkiakjg = models.IntegerField(default=0)
-    pass
-
-
 class Xevahddk(models.Model):
     vxckqc = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
     aheutab = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
+    drxyylkqu = models.CharField(default='', max_length=115)
+    pass
+
+
+class Eaeehqi(models.Model):
     pass
