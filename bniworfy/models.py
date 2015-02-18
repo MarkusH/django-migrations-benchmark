@@ -33,4 +33,5 @@ class Gsmbfohda(models.Model):
 
 class Sbfynkpvu(models.Model):
     inzqctzh = models.ForeignKey('epbbfwihj.Pbnaktpzhs', null=True, related_name='+')
+    txgmuotqrn = models.IntegerField(default=0)
     pass

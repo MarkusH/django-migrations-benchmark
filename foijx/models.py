@@ -4,11 +4,13 @@ from django.db import models
 class Gsdqrijpp(models.Model):
     cmgipgvc = models.CharField(default='', max_length=39)
     mzmegwgymf = models.IntegerField(default=0)
+    akszwqxbr = models.ForeignKey('zavygg.Ligxr', null=True, related_name='+')
     pass
 
 
 class Qrwsj(models.Model):
     holofste = models.IntegerField(default=0)
+    zdvvjpppsi = models.OneToOneField('burhjvc.Ydprem', null=True, related_name='+')
     pass
 
 

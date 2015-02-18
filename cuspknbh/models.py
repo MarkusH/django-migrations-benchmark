@@ -19,8 +19,3 @@ class Ufrkff(models.Model):
 class Kekzfmudvr(models.Model):
     qbvjzs = models.IntegerField(default=0)
     pass
-
-
-class Glbtwo(models.Model):
-    hdlrbpj = models.OneToOneField('digmcd.Gtekbplhr', null=True, related_name='+')
-    pass

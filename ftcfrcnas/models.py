@@ -13,6 +13,7 @@ class Myohdht(models.Model):
 
 class Qibygpddzw(models.Model):
     nzlzvpdg = models.IntegerField(default=0)
+    pkicgtdbpc = models.IntegerField(default=0)
     pass
 
 

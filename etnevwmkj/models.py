@@ -6,12 +6,12 @@ class Ryfwmkefy(models.Model):
     pass
 
 
-class Lsmxy(models.Model):
-    lrfzhyjzzl = models.CharField(default='', max_length=139)
-    pass
-
-
 class Wpkevitz(models.Model):
     eqzsll = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
     lunhbax = models.ForeignKey('zhavbmq.Vzhhl', null=True, related_name='+')
+    pass
+
+
+class Noxqha(models.Model):
+    zfjpb = models.IntegerField(default=0)
     pass

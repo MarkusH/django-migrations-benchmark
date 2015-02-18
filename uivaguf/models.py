@@ -13,6 +13,7 @@ class Vqykzihlmk(models.Model):
 
 class Zwjgfcdi(models.Model):
     ymtyj = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
+    jprqprkcn = models.ForeignKey('joavhqi.Yusanbjmh', null=True, related_name='+')
     pass
 
 

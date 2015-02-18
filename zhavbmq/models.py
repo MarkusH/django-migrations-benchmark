@@ -49,6 +49,9 @@ class Ybkewg(models.Model):
 
 
 class Hmaopvcufb(models.Model):
-    infpgx = models.ForeignKey('avwpufexob.Ubpmj', null=True, related_name='+')
-    vabnk = models.ForeignKey('irmtbds.Rqzheruyb', null=True, related_name='+')
+    pass
+
+
+class Murrsbmz(models.Model):
+    lsdctjp = models.OneToOneField('emncdxt.Mioxdvg', null=True, related_name='+')
     pass

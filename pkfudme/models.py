@@ -18,11 +18,13 @@ class Cmjuefxsex(models.Model):
 
 class Cfjtqbcmjd(models.Model):
     lqzydsfrlf = models.CharField(default='', max_length=160)
+    lnllxbe = models.IntegerField(default=0)
     pass
 
 
 class Heehdxfqyb(models.Model):
     pimlfnkvip = models.IntegerField(default=0)
+    jdhsuwxapo = models.OneToOneField('qqpppzas.Ybcxw', null=True, related_name='+')
     pass
 
 

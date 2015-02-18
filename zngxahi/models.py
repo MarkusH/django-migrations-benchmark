@@ -17,7 +17,7 @@ class Llnksobygh(models.Model):
 
 
 class Qahkfonewx(models.Model):
-    sdxgci = models.ForeignKey('wulegwfs.Yxsnty', null=True, related_name='+')
+    slyww = models.IntegerField(default=0)
     pass
 
 

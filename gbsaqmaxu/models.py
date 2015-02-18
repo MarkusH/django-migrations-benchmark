@@ -7,18 +7,13 @@ class Avwudusy(models.Model):
 
 
 class Knqau(models.Model):
-    lctemiulg = models.OneToOneField('digmcd.Untgafvod', null=True, related_name='+')
+    tmrsfefj = models.CharField(default='', max_length=159)
     pass
 
 
 class Rbodr(models.Model):
     hmigi = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
     lfhalcmk = models.CharField(default='', max_length=7)
-    pass
-
-
-class Zdahw(models.Model):
-    binimm = models.ForeignKey('rqwywo.Lxcurbmhu', null=True, related_name='+')
     pass
 
 

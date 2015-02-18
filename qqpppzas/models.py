@@ -3,12 +3,11 @@ from django.db import models
 
 class Vdscpy(models.Model):
     efspwnch = models.OneToOneField('rqwywo.Huqprglqp', null=True, related_name='+')
-    mxjhvnbbqm = models.OneToOneField('cuspknbh.Glbtwo', null=True, related_name='+')
     pass
 
 
 class Xcuutwsyfn(models.Model):
-    bwpigha = models.CharField(default='', max_length=122)
+    kykqcsvbz = models.CharField(default='', max_length=152)
     pass
 
 
@@ -40,6 +39,7 @@ class Mukbde(models.Model):
 
 class Prljmjou(models.Model):
     okelu = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    hiacissed = models.OneToOneField('ladqux.Yxjjlex', null=True, related_name='+')
     pass
 
 

@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Bewsptdyqv(models.Model):
-    mcxzdt = models.IntegerField(default=0)
+    xeqlaepw = models.IntegerField(default=0)
     pass
 
 
@@ -34,4 +34,9 @@ class Ubeubsuez(models.Model):
 
 class Oilvk(models.Model):
     ljbxcnkq = models.CharField(default='', max_length=50)
+    pass
+
+
+class Jnyynhgbb(models.Model):
+    kasrh = models.IntegerField(default=0)
     pass

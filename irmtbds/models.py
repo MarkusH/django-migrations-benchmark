@@ -6,12 +6,6 @@ class Rqikftw(models.Model):
     pass
 
 
-class Rqzheruyb(models.Model):
-    kplrvqptcm = models.IntegerField(default=0)
-    dzqlaunuix = models.IntegerField(default=0)
-    pass
-
-
 class Bemqls(models.Model):
-    kiknreazyv = models.ForeignKey('rrmdjc.Gxoqulk', null=True, related_name='+')
+    aedocfocsn = models.ForeignKey('wyxbcga.Kpjlirt', null=True, related_name='+')
     pass

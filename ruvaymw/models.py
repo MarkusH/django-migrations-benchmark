@@ -27,13 +27,13 @@ class Swanlanqxn(models.Model):
 
 
 class Bdpibttuxi(models.Model):
-    zewgqkdoee = models.ForeignKey('cuspknbh.Mwigq', null=True, related_name='+')
+    rujqidvzsd = models.OneToOneField('mntrwrm.Rbhubw', null=True, related_name='+')
     pass
 
 
 class Ndhcup(models.Model):
-    tqkbptpb = models.CharField(default='', max_length=139)
     kvekefr = models.CharField(default='', max_length=90)
+    udvzu = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
     pass
 
 

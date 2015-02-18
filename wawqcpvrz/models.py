@@ -2,12 +2,13 @@ from django.db import models
 
 
 class Nrmckl(models.Model):
-    yrmez = models.IntegerField(default=0)
+    esgced = models.CharField(default='', max_length=207)
     pass
 
 
 class Xivomw(models.Model):
     hdxup = models.CharField(default='', max_length=202)
+    kjnag = models.OneToOneField('kfapsax.Kmwzcb', null=True, related_name='+')
     pass
 
 
@@ -17,7 +18,7 @@ class Schqt(models.Model):
 
 
 class Ndmxpw(models.Model):
-    narpapscx = models.ForeignKey('cmsrp.Ncysy', null=True, related_name='+')
+    njspsh = models.IntegerField(default=0)
     pass
 
 

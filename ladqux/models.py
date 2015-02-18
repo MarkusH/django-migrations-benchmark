@@ -18,7 +18,7 @@ class Yxjjlex(models.Model):
 
 
 class Oeyhu(models.Model):
-    yzqcicylut = models.ForeignKey('etnevwmkj.Lsmxy', null=True, related_name='+')
+    chhwiag = models.CharField(default='', max_length=58)
     pass
 
 

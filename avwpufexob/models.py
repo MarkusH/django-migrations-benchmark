@@ -11,12 +11,6 @@ class Nhpkrhkql(models.Model):
     pass
 
 
-class Ubpmj(models.Model):
-    ktwasnimoe = models.OneToOneField('zsskgviadw.Hcetattb', null=True, related_name='+')
-    itflucbh = models.ForeignKey('ladqux.Oeyhu', null=True, related_name='+')
-    pass
-
-
 class Fvlkcjd(models.Model):
     onlvfzdsk = models.ForeignKey('zxxavsovs.Kiikphbz', null=True, related_name='+')
     pass

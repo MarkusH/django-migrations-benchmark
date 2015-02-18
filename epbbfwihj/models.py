@@ -33,6 +33,7 @@ class Apnbivckq(models.Model):
 
 
 class Pbnaktpzhs(models.Model):
+    vxycehzcf = models.ForeignKey('khwbgr.Ywojvtbwa', null=True, related_name='+')
     pass
 
 

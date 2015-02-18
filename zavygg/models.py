@@ -22,18 +22,13 @@ class Jydvnf(models.Model):
 
 
 class Kihvqrmtr(models.Model):
-    llmloxxmss = models.ForeignKey('gcyjx.Ivcsuscyb', null=True, related_name='+')
+    zvauzxvz = models.CharField(default='', max_length=238)
     pass
 
 
 class Edynlg(models.Model):
     vitmzurb = models.IntegerField(default=0)
     ghfqson = models.CharField(default='', max_length=21)
-    pass
-
-
-class Ssalb(models.Model):
-    eelqndo = models.ForeignKey('wyxbcga.Ojshxdt', null=True, related_name='+')
     pass
 
 

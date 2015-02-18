@@ -41,3 +41,8 @@ class Jvoopceqsv(models.Model):
     icswoha = models.OneToOneField('geemkrwi.Meymafbbi', null=True, related_name='+')
     gzzkivnwgi = models.ForeignKey('rrmdjc.Gxoqulk', null=True, related_name='+')
     pass
+
+
+class Hlpgeaqix(models.Model):
+    nrrdexkvmq = models.CharField(default='', max_length=164)
+    pass

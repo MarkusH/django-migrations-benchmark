@@ -8,6 +8,7 @@ class Yymzlvsz(models.Model):
 
 class Xovte(models.Model):
     fhgkhncfld = models.ForeignKey('tyfslutb.Ynbpgqn', null=True, related_name='+')
+    rsvwhn = models.IntegerField(default=0)
     pass
 
 
@@ -52,4 +53,9 @@ class Xmvhvzui(models.Model):
 
 class Zaganduq(models.Model):
     kmmmtnspx = models.OneToOneField('epbbfwihj.Uzdthbetj', null=True, related_name='+')
+    pass
+
+
+class Krbaxhjpkp(models.Model):
+    jqqic = models.ForeignKey('self', null=True, related_name='+')
     pass

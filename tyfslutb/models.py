@@ -18,7 +18,6 @@ class Ihswfvupi(models.Model):
 
 
 class Ynbpgqn(models.Model):
-    oepaepmp = models.OneToOneField('avwpufexob.Ubpmj', null=True, related_name='+')
     pass
 
 
@@ -28,7 +27,7 @@ class Qhzppcqwku(models.Model):
 
 
 class Qcwbo(models.Model):
-    yuafmza = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
+    dokqdbprt = models.OneToOneField('digmcd.Arqcdv', null=True, related_name='+')
     pass
 
 
@@ -43,7 +42,7 @@ class Juemb(models.Model):
 
 
 class Cvzmphnk(models.Model):
-    xhcatgbtsw = models.IntegerField(default=0)
+    udzzqrxgk = models.IntegerField(default=0)
     pass
 
 

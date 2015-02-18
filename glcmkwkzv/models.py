@@ -12,5 +12,5 @@ class Unnork(models.Model):
 
 
 class Iwzqe(models.Model):
-    ofhxrdky = models.IntegerField(default=0)
+    smyorbp = models.IntegerField(default=0)
     pass

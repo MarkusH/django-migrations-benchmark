@@ -25,3 +25,8 @@ class Crzqih(models.Model):
 class Ecgjvad(models.Model):
     zxnnutgo = models.IntegerField(default=0)
     pass
+
+
+class Jrgrccoxvv(models.Model):
+    cgycqiur = models.ForeignKey('apbqku.Klgmvpd', null=True, related_name='+')
+    pass
