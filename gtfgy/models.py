@@ -49,3 +49,8 @@ class Niwaoqfft(models.Model):
 class Yrekcfrkl(models.Model):
     ndgrspso = models.CharField(default='', max_length=49)
     pass
+
+
+class Ftwph(models.Model):
+    gatahehq = models.OneToOneField('ruvaymw.Swanlanqxn', null=True, related_name='+')
+    pass

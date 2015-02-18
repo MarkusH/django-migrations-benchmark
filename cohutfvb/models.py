@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Livljpedso(models.Model):
-    xfxzoezgv = models.ForeignKey('pkfudme.Cfjtqbcmjd', null=True, related_name='+')
+    ceudc = models.IntegerField(default=0)
     pass
 
 
@@ -18,4 +18,5 @@ class Qpuji(models.Model):
 
 class Crzqih(models.Model):
     ttktcobp = models.CharField(default='', max_length=10)
+    uanao = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
     pass

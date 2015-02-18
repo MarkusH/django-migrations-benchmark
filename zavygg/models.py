@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Nzfoyhj(models.Model):
-    hwflnm = models.ForeignKey('yiupu.Fzmiecxuo', null=True, related_name='+')
     pass
 
 
@@ -28,6 +27,7 @@ class Kihvqrmtr(models.Model):
 
 class Edynlg(models.Model):
     vitmzurb = models.IntegerField(default=0)
+    ghfqson = models.CharField(default='', max_length=21)
     pass
 
 

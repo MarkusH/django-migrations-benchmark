@@ -19,6 +19,7 @@ class Mxvtxbqsa(models.Model):
 
 class Howsauugrt(models.Model):
     ltrapja = models.CharField(default='', max_length=252)
+    wfsixghk = models.IntegerField(default=0)
     pass
 
 

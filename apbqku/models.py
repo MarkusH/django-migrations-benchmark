@@ -8,6 +8,7 @@ class Ssgsglh(models.Model):
 
 class Ffussl(models.Model):
     gnpvh = models.IntegerField(default=0)
+    rgwaklwvyx = models.CharField(default='', max_length=26)
     pass
 
 

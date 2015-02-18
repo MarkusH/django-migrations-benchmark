@@ -22,11 +22,16 @@ class Yusanbjmh(models.Model):
 
 
 class Lfssmpr(models.Model):
-    udrjcs = models.OneToOneField('ygnakzgjxu.Mxlpodxpm', null=True, related_name='+')
+    ulnuig = models.ForeignKey('qclaxc.Uajrm', null=True, related_name='+')
     pass
 
 
 class Uodtjnez(models.Model):
     rasnn = models.OneToOneField('bniworfy.Dkvkm', null=True, related_name='+')
     dpnzgpxom = models.OneToOneField('irmtbds.Rqzheruyb', null=True, related_name='+')
+    pass
+
+
+class Rdhhdq(models.Model):
+    ztnjkzyby = models.OneToOneField('zavygg.Oqyncxevyj', null=True, related_name='+')
     pass

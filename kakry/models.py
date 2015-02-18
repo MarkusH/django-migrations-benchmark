@@ -17,6 +17,7 @@ class Aivqb(models.Model):
 
 
 class Mfivvxhds(models.Model):
+    erclh = models.OneToOneField('uivaguf.Onmti', null=True, related_name='+')
     pass
 
 

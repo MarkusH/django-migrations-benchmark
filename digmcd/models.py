@@ -35,7 +35,7 @@ class Gtekbplhr(models.Model):
 
 class Rdfrrg(models.Model):
     yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
-    jytqslm = models.CharField(default='', max_length=55)
+    lihyfbg = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     pass
 
 
@@ -50,5 +50,5 @@ class Xmvhvzui(models.Model):
 
 
 class Zaganduq(models.Model):
-    qwnmi = models.IntegerField(default=0)
+    kmmmtnspx = models.OneToOneField('epbbfwihj.Uzdthbetj', null=True, related_name='+')
     pass

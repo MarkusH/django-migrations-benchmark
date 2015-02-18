@@ -23,6 +23,7 @@ class Jznpks(models.Model):
 
 class Bdniaupe(models.Model):
     plgvgy = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
+    swdbw = models.ForeignKey('kakry.Kiurw', null=True, related_name='+')
     pass
 
 
@@ -38,7 +39,7 @@ class Ulvookvun(models.Model):
 
 
 class Yqtbfv(models.Model):
-    dvtoxrtyw = models.ForeignKey('cuspknbh.Ufrkff', null=True, related_name='+')
+    huxxsunnjz = models.IntegerField(default=0)
     pass
 
 

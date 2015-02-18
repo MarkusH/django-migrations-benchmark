@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Yejdqycpmg(models.Model):
-    gppos = models.OneToOneField('gbsaqmaxu.Lshmrghvzw', null=True, related_name='+')
+    cloggb = models.CharField(default='', max_length=95)
     pass
 
 
@@ -24,4 +24,5 @@ class Fvlkcjd(models.Model):
 
 class Hjifcjmpm(models.Model):
     dmacskbf = models.CharField(default='', max_length=178)
+    czfvuy = models.CharField(default='', max_length=133)
     pass

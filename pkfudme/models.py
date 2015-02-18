@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Mnvmeraq(models.Model):
-    wskmkftbqi = models.CharField(default='', max_length=83)
+    gutje = models.OneToOneField('zsskgviadw.Hcetattb', null=True, related_name='+')
     pass
 
 
@@ -22,7 +22,7 @@ class Cfjtqbcmjd(models.Model):
 
 
 class Heehdxfqyb(models.Model):
-    qoiuustxd = models.CharField(default='', max_length=183)
+    pimlfnkvip = models.IntegerField(default=0)
     pass
 
 

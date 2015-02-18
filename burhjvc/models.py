@@ -22,7 +22,6 @@ class Qbuqivoko(models.Model):
 
 
 class Ydprem(models.Model):
-    npbbb = models.OneToOneField('khwbgr.Fetzvwamur', null=True, related_name='+')
     pass
 
 

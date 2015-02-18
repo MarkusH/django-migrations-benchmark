@@ -3,6 +3,7 @@ from django.db import models
 
 class Ddzxkrvtfd(models.Model):
     pgrnuiuqmv = models.CharField(default='', max_length=75)
+    vlpnxn = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
     pass
 
 

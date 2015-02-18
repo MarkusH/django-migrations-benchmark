@@ -36,3 +36,8 @@ class Vvyni(models.Model):
 class Lshmrghvzw(models.Model):
     iqdetwvwf = models.OneToOneField('zhavbmq.Rhhbgxx', null=True, related_name='+')
     pass
+
+
+class Utfwgx(models.Model):
+    cguxkrad = models.IntegerField(default=0)
+    pass

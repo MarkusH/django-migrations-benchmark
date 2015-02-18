@@ -47,7 +47,7 @@ class Tmgvpztce(models.Model):
 
 
 class Ovbcnxcwyr(models.Model):
-    mwfsqognp = models.IntegerField(default=0)
+    hkbdwaggb = models.ForeignKey('tyfslutb.Ihswfvupi', null=True, related_name='+')
     pass
 
 

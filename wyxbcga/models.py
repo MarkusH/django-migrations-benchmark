@@ -7,6 +7,7 @@ class Kpjlirt(models.Model):
 
 
 class Eezxvbbvmn(models.Model):
+    pvonh = models.IntegerField(default=0)
     pass
 
 
@@ -36,6 +37,7 @@ class Qqpfvbjbpk(models.Model):
 
 
 class Ojshxdt(models.Model):
+    xnslxqkne = models.IntegerField(default=0)
     pass
 
 

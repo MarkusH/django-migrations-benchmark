@@ -7,7 +7,7 @@ class Kjwyneff(models.Model):
 
 
 class Dkvkm(models.Model):
-    nteqflev = models.OneToOneField('ygnakzgjxu.Mxlpodxpm', null=True, related_name='+')
+    gbgkdcxxve = models.ForeignKey('uivaguf.Bqjxljlwq', null=True, related_name='+')
     pass
 
 

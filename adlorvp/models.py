@@ -17,7 +17,7 @@ class Kzrfnfxko(models.Model):
 
 
 class Bauxko(models.Model):
-    wlkthj = models.CharField(default='', max_length=48)
+    mjgvx = models.ForeignKey('kakry.Xgsseizbpr', null=True, related_name='+')
     pass
 
 

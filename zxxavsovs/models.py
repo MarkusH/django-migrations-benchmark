@@ -22,5 +22,5 @@ class Yjuyutcqq(models.Model):
 
 
 class Kiikphbz(models.Model):
-    wtcqvpcl = models.OneToOneField('esznwrr.Vppjpa', null=True, related_name='+')
+    hgxjksbg = models.ForeignKey('zngxahi.Llnksobygh', null=True, related_name='+')
     pass

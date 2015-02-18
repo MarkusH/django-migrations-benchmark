@@ -13,9 +13,15 @@ class Yfyadqk(models.Model):
 
 class Yxjjlex(models.Model):
     mixvrbh = models.OneToOneField('ftcfrcnas.Qrwqtj', null=True, related_name='+')
+    czztctho = models.CharField(default='', max_length=246)
     pass
 
 
 class Oeyhu(models.Model):
     yzqcicylut = models.ForeignKey('etnevwmkj.Lsmxy', null=True, related_name='+')
+    pass
+
+
+class Fqhqdv(models.Model):
+    ubybounu = models.CharField(default='', max_length=206)
     pass

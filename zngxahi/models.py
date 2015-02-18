@@ -33,12 +33,12 @@ class Kbgdzldxz(models.Model):
 
 class Bdontoyqti(models.Model):
     nmctlsx = models.ForeignKey('ruvaymw.Swanlanqxn', null=True, related_name='+')
-    jwrsyvtia = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass
 
 
 class Nnkqr(models.Model):
     xgosa = models.IntegerField(default=0)
+    kdstxhvuz = models.CharField(default='', max_length=132)
     pass
 
 
@@ -48,7 +48,7 @@ class Nxqpxgzt(models.Model):
 
 
 class Rxxpitmckt(models.Model):
-    mytzcfoeq = models.ForeignKey('foijx.Qrwsj', null=True, related_name='+')
+    dnzdal = models.CharField(default='', max_length=140)
     pass
 
 

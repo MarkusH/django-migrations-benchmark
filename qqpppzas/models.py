@@ -32,7 +32,6 @@ class Ybcxw(models.Model):
 
 
 class Mukbde(models.Model):
-    laticxbs = models.OneToOneField('yiupu.Fzmiecxuo', null=True, related_name='+')
     pass
 
 
@@ -48,4 +47,9 @@ class Jchddfi(models.Model):
 
 class Shtlozkm(models.Model):
     zwsomb = models.ForeignKey('wulegwfs.Txgqxz', null=True, related_name='+')
+    pass
+
+
+class Tqlaa(models.Model):
+    zezpryllj = models.OneToOneField('bniworfy.Sbfynkpvu', null=True, related_name='+')
     pass
