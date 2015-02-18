@@ -8,7 +8,7 @@ class Kpjlirt(models.Model):
 
 
 class Eezxvbbvmn(models.Model):
-    pvonh = models.IntegerField(default=0)
+    cjiikmfzn = models.IntegerField(default=0)
     pass
 
 
@@ -34,7 +34,7 @@ class Jkjvvohe(models.Model):
 
 
 class Qqpfvbjbpk(models.Model):
-    ciomneaa = models.IntegerField(default=0)
+    wpljiemmbt = models.CharField(default='', max_length=77)
     pass
 
 
@@ -44,7 +44,7 @@ class Ojshxdt(models.Model):
 
 
 class Begquxerkm(models.Model):
-    hyfisaxclk = models.CharField(default='', max_length=15)
+    eyasqv = models.IntegerField(default=0)
     pass
 
 

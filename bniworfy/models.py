@@ -11,11 +11,6 @@ class Hqjqgiq(models.Model):
     pass
 
 
-class Mxfnrc(models.Model):
-    vwngisguf = models.ForeignKey('zhavbmq.Hmaopvcufb', null=True, related_name='+')
-    pass
-
-
 class Trjyk(models.Model):
     durndkeais = models.CharField(default='', max_length=159)
     pass

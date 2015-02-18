@@ -14,6 +14,7 @@ class Yfyadqk(models.Model):
 class Yxjjlex(models.Model):
     mixvrbh = models.OneToOneField('ftcfrcnas.Qrwqtj', null=True, related_name='+')
     czztctho = models.CharField(default='', max_length=246)
+    ssqcvjx = models.IntegerField(default=0)
     pass
 
 
@@ -23,6 +24,6 @@ class Oeyhu(models.Model):
     pass
 
 
-class Fqhqdv(models.Model):
-    ukqyakhyd = models.ForeignKey('tyfslutb.Juemb', null=True, related_name='+')
+class Rrijbgjqxe(models.Model):
+    xsbtpnvdsl = models.IntegerField(default=0)
     pass

@@ -20,5 +20,5 @@ class Eaeehqi(models.Model):
 
 
 class Ysslx(models.Model):
-    znehtaygp = models.IntegerField(default=0)
+    tbfohcrt = models.IntegerField(default=0)
     pass

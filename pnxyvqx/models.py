@@ -13,7 +13,7 @@ class Aehywz(models.Model):
 
 
 class Nrnexasxp(models.Model):
-    htfway = models.IntegerField(default=0)
+    irgwicvs = models.ForeignKey('geemkrwi.Mxvmqmhku', null=True, related_name='+')
     pass
 
 

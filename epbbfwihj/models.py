@@ -2,11 +2,11 @@ from django.db import models
 
 
 class Uzdthbetj(models.Model):
-    qrawui = models.CharField(default='', max_length=172)
     pass
 
 
 class Zfpgchkbaz(models.Model):
+    axmnlbmf = models.ForeignKey('ladqux.Yfyadqk', null=True, related_name='+')
     pass
 
 
@@ -28,4 +28,9 @@ class Apnbivckq(models.Model):
 
 class Wcklq(models.Model):
     pgnrf = models.ForeignKey('geemkrwi.Uqqgcprwn', null=True, related_name='+')
+    pass
+
+
+class Sysnlv(models.Model):
+    ybqvecvb = models.OneToOneField('apbqku.Tjpxiu', null=True, related_name='+')
     pass

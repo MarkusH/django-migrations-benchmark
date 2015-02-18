@@ -3,7 +3,6 @@ from django.db import models
 
 class Nizqeesp(models.Model):
     eijzug = models.OneToOneField('bniworfy.Trjyk', null=True, related_name='+')
-    qmhtlk = models.OneToOneField('ruvaymw.Bdpibttuxi', null=True, related_name='+')
     pass
 
 
@@ -34,7 +33,7 @@ class Uodtjnez(models.Model):
 
 
 class Rdhhdq(models.Model):
-    yhhsrszrp = models.OneToOneField('epbbfwihj.Apnbivckq', null=True, related_name='+')
+    xxngkrby = models.CharField(default='', max_length=248)
     pass
 
 

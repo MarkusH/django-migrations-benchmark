@@ -49,7 +49,6 @@ class Xmvhvzui(models.Model):
 
 class Zaganduq(models.Model):
     lxkoptjj = models.ForeignKey('glcmkwkzv.Unnork', null=True, related_name='+')
-    plaqa = models.ForeignKey('esznwrr.Vppjpa', null=True, related_name='+')
     pass
 
 

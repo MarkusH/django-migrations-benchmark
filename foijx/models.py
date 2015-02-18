@@ -11,14 +11,6 @@ class Gsdqrijpp(models.Model):
 class Qrwsj(models.Model):
     holofste = models.IntegerField(default=0)
     zdvvjpppsi = models.OneToOneField('burhjvc.Ydprem', null=True, related_name='+')
-    tbcua = models.ForeignKey('foijx.Wrafoshzom', null=True, related_name='+')
-    pass
-
-
-class Wrafoshzom(models.Model):
-    gzayhaq = models.ForeignKey('ladqux.Oeyhu', null=True, related_name='+')
-    qqpfdtng = models.ForeignKey('wawqcpvrz.Ydfkef', null=True, related_name='+')
-    iatgcl = models.IntegerField(default=0)
     pass
 
 

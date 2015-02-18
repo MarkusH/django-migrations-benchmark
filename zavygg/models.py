@@ -34,11 +34,6 @@ class Edynlg(models.Model):
     pass
 
 
-class Twdtvqs(models.Model):
-    mdgzwhpjsq = models.IntegerField(default=0)
-    pass
-
-
 class Hitvmegxki(models.Model):
     qufssktrdx = models.ForeignKey('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass

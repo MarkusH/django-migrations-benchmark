@@ -13,5 +13,5 @@ class Xdvbgtxz(models.Model):
 
 
 class Nmbztrlh(models.Model):
-    widhow = models.OneToOneField('gcyjx.Nmbztrlh', null=True, related_name='+')
+    xmyjydanpz = models.IntegerField(default=0)
     pass

@@ -16,11 +16,6 @@ class Faqagt(models.Model):
     pass
 
 
-class Owamswc(models.Model):
-    iijffzuw = models.IntegerField(default=0)
-    pass
-
-
 class Swanlanqxn(models.Model):
     zeqdyy = models.ForeignKey('mntrwrm.Rbhubw', null=True, related_name='+')
     pass

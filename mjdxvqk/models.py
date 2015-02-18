@@ -41,6 +41,7 @@ class Bznjke(models.Model):
 class Tmgvpztce(models.Model):
     mvirtxvn = models.ForeignKey('zxxavsovs.Fiellmltob', null=True, related_name='+')
     zvohtuwplo = models.CharField(default='', max_length=166)
+    aggwpt = models.IntegerField(default=0)
     pass
 
 

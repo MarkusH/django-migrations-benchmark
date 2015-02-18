@@ -29,4 +29,5 @@ class Yicalotegs(models.Model):
 
 class Mbcah(models.Model):
     ddbfeooid = models.ForeignKey('cohutfvb.Crzqih', null=True, related_name='+')
+    auvyvqhx = models.IntegerField(default=0)
     pass

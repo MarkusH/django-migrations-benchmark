@@ -34,12 +34,12 @@ class Iwhkq(models.Model):
 
 
 class Qrwqtj(models.Model):
-    ssdfr = models.IntegerField(default=0)
+    xoazccbco = models.ForeignKey('gcyjx.Nmbztrlh', null=True, related_name='+')
     pass
 
 
 class Wjxepwd(models.Model):
-    grpthucwr = models.IntegerField(default=0)
+    nridz = models.CharField(default='', max_length=134)
     pass
 
 

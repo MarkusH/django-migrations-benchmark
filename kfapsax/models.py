@@ -2,7 +2,6 @@ from django.db import models
 
 
 class Sehvi(models.Model):
-    wspsk = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
     pass
 
 

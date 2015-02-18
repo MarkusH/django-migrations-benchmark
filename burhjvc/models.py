@@ -19,12 +19,13 @@ class Pdzdhpq(models.Model):
 
 
 class Qbuqivoko(models.Model):
-    xfdapna = models.OneToOneField('yiupu.Zzsheqzf', null=True, related_name='+')
+    orrjz = models.IntegerField(default=0)
     pass
 
 
 class Ydprem(models.Model):
     wuxfyceg = models.IntegerField(default=0)
+    gjmyvkze = models.IntegerField(default=0)
     pass
 
 
@@ -45,4 +46,5 @@ class Jnyynhgbb(models.Model):
 
 class Qwtnucajp(models.Model):
     kdyln = models.CharField(default='', max_length=103)
+    efhmvghs = models.OneToOneField('epbbfwihj.Wcklq', null=True, related_name='+')
     pass

@@ -10,6 +10,7 @@ class Meymafbbi(models.Model):
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
     ninajhwzfe = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
+    ssyao = models.CharField(default='', max_length=223)
     pass
 
 
@@ -30,16 +31,15 @@ class Mxvmqmhku(models.Model):
 
 
 class Egvtran(models.Model):
-    iaywdnrfj = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
     tcqukiomh = models.IntegerField(default=0)
     pass
 
 
 class Uqqgcprwn(models.Model):
-    mciutq = models.OneToOneField('wawqcpvrz.Xivomw', null=True, related_name='+')
+    cordori = models.CharField(default='', max_length=51)
     pass
 
 
 class Hxkigetost(models.Model):
-    vixlvfvme = models.IntegerField(default=0)
+    wnrwf = models.ForeignKey('ftcfrcnas.Wjxepwd', null=True, related_name='+')
     pass

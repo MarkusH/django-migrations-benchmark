@@ -3,6 +3,7 @@ from django.db import models
 
 class Hiqedajgiu(models.Model):
     tpbwjagjg = models.CharField(default='', max_length=253)
+    yfdbtklxb = models.IntegerField(default=0)
     pass
 
 

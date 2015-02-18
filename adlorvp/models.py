@@ -19,7 +19,6 @@ class Bauxko(models.Model):
 
 class Afyxxcmzds(models.Model):
     wobjqpykka = models.ForeignKey('mjdxvqk.Gedwra', null=True, related_name='+')
-    nfvueppp = models.OneToOneField('ruvaymw.Owamswc', null=True, related_name='+')
     pass
 
 

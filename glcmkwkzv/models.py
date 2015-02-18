@@ -14,8 +14,3 @@ class Unnork(models.Model):
 class Iwzqe(models.Model):
     udpsgi = models.IntegerField(default=0)
     pass
-
-
-class Lowamdo(models.Model):
-    glcfis = models.IntegerField(default=0)
-    pass

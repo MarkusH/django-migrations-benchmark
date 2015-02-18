@@ -9,7 +9,6 @@ class Ryfwmkefy(models.Model):
 
 
 class Wpkevitz(models.Model):
-    eqzsll = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
     lunhbax = models.ForeignKey('zhavbmq.Vzhhl', null=True, related_name='+')
     pass
 

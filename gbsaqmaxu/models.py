@@ -19,17 +19,13 @@ class Nhlpe(models.Model):
 
 class Vvyni(models.Model):
     pranh = models.IntegerField(default=0)
+    kuewajtyut = models.CharField(default='', max_length=173)
     pass
 
 
 class Lshmrghvzw(models.Model):
     iqdetwvwf = models.OneToOneField('zhavbmq.Rhhbgxx', null=True, related_name='+')
     olicbgstaw = models.OneToOneField('rqwywo.Gkiwtx', null=True, related_name='+')
-    pass
-
-
-class Utfwgx(models.Model):
-    cguxkrad = models.IntegerField(default=0)
     pass
 
 

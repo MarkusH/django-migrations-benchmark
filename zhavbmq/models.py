@@ -6,12 +6,6 @@ class Rhhbgxx(models.Model):
     pass
 
 
-class Dvkdj(models.Model):
-    gsscvcgrm = models.OneToOneField('pnxyvqx.Nrnexasxp', null=True, related_name='+')
-    nugooscmah = models.CharField(default='', max_length=30)
-    pass
-
-
 class Ohfvuo(models.Model):
     gcobpdpoo = models.OneToOneField('epbbfwihj.Zfpgchkbaz', null=True, related_name='+')
     pass

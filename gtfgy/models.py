@@ -36,6 +36,7 @@ class Swasd(models.Model):
 class Niwaoqfft(models.Model):
     serhcyqy = models.ForeignKey('wyxbcga.Eezxvbbvmn', null=True, related_name='+')
     scqnrmm = models.CharField(default='', max_length=126)
+    lvvrvs = models.IntegerField(default=0)
     pass
 
 

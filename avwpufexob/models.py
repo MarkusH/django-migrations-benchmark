@@ -13,7 +13,7 @@ class Nhpkrhkql(models.Model):
 
 
 class Fvlkcjd(models.Model):
-    onlvfzdsk = models.ForeignKey('zxxavsovs.Kiikphbz', null=True, related_name='+')
+    psxjvm = models.ForeignKey('wulegwfs.Xcasayyn', null=True, related_name='+')
     pass
 
 

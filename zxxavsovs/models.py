@@ -24,6 +24,7 @@ class Yjuyutcqq(models.Model):
 class Kiikphbz(models.Model):
     hgxjksbg = models.ForeignKey('zngxahi.Llnksobygh', null=True, related_name='+')
     tbzky = models.CharField(default='', max_length=1)
+    uahjszmx = models.ForeignKey('pkfudme.Mnvmeraq', null=True, related_name='+')
     pass
 
 

@@ -53,3 +53,8 @@ class Ixmfsgch(models.Model):
 class Ckvpx(models.Model):
     necukbga = models.OneToOneField('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass
+
+
+class Rfdhb(models.Model):
+    jhuhmbj = models.ForeignKey('wyxbcga.Begquxerkm', null=True, related_name='+')
+    pass
