@@ -23,5 +23,5 @@ class Kiikphbz(models.Model):
 
 
 class Aeaoqky(models.Model):
-    afxfubg = models.OneToOneField('epbbfwihj.Apnbivckq', null=True, related_name='+')
+    qhxtjnut = models.IntegerField(default=0)
     pass

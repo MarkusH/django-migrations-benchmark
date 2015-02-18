@@ -6,11 +6,6 @@ class Zhgafcksok(models.Model):
     pass
 
 
-class Yfyadqk(models.Model):
-    dljxy = models.CharField(default='', max_length=176)
-    pass
-
-
 class Oeyhu(models.Model):
     chhwiag = models.CharField(default='', max_length=58)
     skcbskaz = models.IntegerField(default=0)

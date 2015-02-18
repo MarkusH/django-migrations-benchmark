@@ -9,6 +9,7 @@ class Frzvg(models.Model):
 
 class Kzrfnfxko(models.Model):
     conaco = models.OneToOneField('pkfudme.Ewxxluebq', null=True, related_name='+')
+    uhhdmtehjg = models.CharField(default='', max_length=177)
     pass
 
 

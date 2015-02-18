@@ -20,11 +20,7 @@ class Pdzdhpq(models.Model):
 
 class Qbuqivoko(models.Model):
     orrjz = models.IntegerField(default=0)
-    pass
-
-
-class Ydprem(models.Model):
-    tazikiljv = models.ForeignKey('gbsaqmaxu.Nwyctrmqpq', null=True, related_name='+')
+    vupdohnyr = models.IntegerField(default=0)
     pass
 
 

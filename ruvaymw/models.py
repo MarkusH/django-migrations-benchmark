@@ -30,6 +30,7 @@ class Bdpibttuxi(models.Model):
 class Ndhcup(models.Model):
     udvzu = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
     xjpmyjji = models.CharField(default='', max_length=62)
+    buhiucccq = models.OneToOneField('burhjvc.Jnyynhgbb', null=True, related_name='+')
     pass
 
 

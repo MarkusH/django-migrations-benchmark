@@ -4,6 +4,7 @@ from django.db import models
 class Yymzlvsz(models.Model):
     xejpallvgr = models.IntegerField(default=0)
     cjumbggroa = models.CharField(default='', max_length=181)
+    apkorgjb = models.OneToOneField('gtfgy.Wnhvelxdeb', null=True, related_name='+')
     pass
 
 
@@ -51,4 +52,9 @@ class Krbaxhjpkp(models.Model):
 
 class Lemzs(models.Model):
     nvjgsjcee = models.ForeignKey('epbbfwihj.Zfpgchkbaz', null=True, related_name='+')
+    pass
+
+
+class Mqnavvvb(models.Model):
+    cvopda = models.IntegerField(default=0)
     pass

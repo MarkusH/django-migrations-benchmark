@@ -1,12 +1,6 @@
 from django.db import models
 
 
-class Flfbdpu(models.Model):
-    puzjw = models.OneToOneField('ftcfrcnas.Iwhkq', null=True, related_name='+')
-    jtwrql = models.CharField(default='', max_length=104)
-    pass
-
-
 class Ajbkovws(models.Model):
     rlsejr = models.ForeignKey('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass
@@ -30,5 +24,5 @@ class Lmxjryphro(models.Model):
 
 
 class Xgsseizbpr(models.Model):
-    fvqktro = models.CharField(default='', max_length=141)
+    kensvdnpij = models.IntegerField(default=0)
     pass

@@ -29,3 +29,8 @@ class Mbcah(models.Model):
 class Qotakup(models.Model):
     mhctlvnto = models.ForeignKey('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass
+
+
+class Estwpd(models.Model):
+    kbqdngbtb = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
+    pass

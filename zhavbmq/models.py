@@ -8,7 +8,6 @@ class Ohfvuo(models.Model):
 
 class Bdniaupe(models.Model):
     nftecr = models.IntegerField(default=0)
-    uiizklbl = models.CharField(default='', max_length=197)
     pass
 
 

@@ -7,5 +7,5 @@ class Idmamodyjp(models.Model):
 
 
 class Unnork(models.Model):
-    jmyiryrwbl = models.IntegerField(default=0)
+    wtbefbvl = models.IntegerField(default=0)
     pass

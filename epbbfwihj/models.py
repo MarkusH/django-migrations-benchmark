@@ -2,12 +2,10 @@ from django.db import models
 
 
 class Uzdthbetj(models.Model):
-    ylfksaoydd = models.OneToOneField('pnxyvqx.Fmrensoxi', null=True, related_name='+')
     pass
 
 
 class Zfpgchkbaz(models.Model):
-    ersxh = models.ForeignKey('ukxhbn.Xqerjvxatp', null=True, related_name='+')
     jlias = models.OneToOneField('irmtbds.Rqikftw', null=True, related_name='+')
     pass
 

@@ -38,3 +38,8 @@ class Tyhxj(models.Model):
 class Ydfkef(models.Model):
     mdhaftsm = models.CharField(default='', max_length=48)
     pass
+
+
+class Nqohhreonm(models.Model):
+    rwniop = models.ForeignKey('burhjvc.Bewsptdyqv', null=True, related_name='+')
+    pass

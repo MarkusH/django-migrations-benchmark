@@ -8,7 +8,7 @@ class Hcetattb(models.Model):
 
 
 class Ltlsozji(models.Model):
-    adcqd = models.ForeignKey('gbsaqmaxu.Lshmrghvzw', null=True, related_name='+')
+    djyxf = models.OneToOneField('ygnakzgjxu.Xdwhlpqgw', null=True, related_name='+')
     pass
 
 
@@ -19,4 +19,5 @@ class Ylpjiaq(models.Model):
 
 class Cgsmhniqqe(models.Model):
     rqkbhz = models.OneToOneField('pkfudme.Cfjtqbcmjd', null=True, related_name='+')
+    qshiztddmz = models.CharField(default='', max_length=76)
     pass

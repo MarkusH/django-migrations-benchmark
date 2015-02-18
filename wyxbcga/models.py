@@ -1,14 +1,8 @@
 from django.db import models
 
 
-class Kpjlirt(models.Model):
-    qjfqxbl = models.CharField(default='', max_length=211)
-    uqfzpsgjj = models.IntegerField(default=0)
-    pass
-
-
 class Eezxvbbvmn(models.Model):
-    pvzewhwow = models.ForeignKey('wyxbcga.Kpjlirt', null=True, related_name='+')
+    djydzcqxu = models.CharField(default='', max_length=141)
     pass
 
 
@@ -29,7 +23,7 @@ class Jkjvvohe(models.Model):
 
 
 class Qqpfvbjbpk(models.Model):
-    wpljiemmbt = models.CharField(default='', max_length=77)
+    ebcai = models.IntegerField(default=0)
     pass
 
 
@@ -39,7 +33,7 @@ class Ojshxdt(models.Model):
 
 
 class Begquxerkm(models.Model):
-    eyasqv = models.IntegerField(default=0)
+    uxdnq = models.OneToOneField('irmtbds.Rqikftw', null=True, related_name='+')
     pass
 
 

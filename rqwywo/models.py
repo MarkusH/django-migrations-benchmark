@@ -32,5 +32,10 @@ class Mahcgzunnb(models.Model):
 
 
 class Jsvynw(models.Model):
-    crogp = models.IntegerField(default=0)
+    cznktgglif = models.ForeignKey('khwbgr.Ibuazau', null=True, related_name='+')
+    pass
+
+
+class Rrojp(models.Model):
+    saknhbe = models.ForeignKey('kfapsax.Zvpuolsnx', null=True, related_name='+')
     pass

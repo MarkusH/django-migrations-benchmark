@@ -7,7 +7,7 @@ class Vdscpy(models.Model):
 
 
 class Lrqwbz(models.Model):
-    gqbcodrudr = models.OneToOneField('kfapsax.Sehvi', null=True, related_name='+')
+    aetyruy = models.IntegerField(default=0)
     pass
 
 
@@ -17,6 +17,7 @@ class Igtbspg(models.Model):
 
 
 class Ybcxw(models.Model):
+    qbpbr = models.CharField(default='', max_length=244)
     pass
 
 

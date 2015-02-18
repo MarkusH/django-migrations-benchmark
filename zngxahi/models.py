@@ -4,10 +4,12 @@ from django.db import models
 class Hiqedajgiu(models.Model):
     tpbwjagjg = models.CharField(default='', max_length=253)
     yfdbtklxb = models.IntegerField(default=0)
+    pvjgvt = models.CharField(default='', max_length=50)
     pass
 
 
 class Eauslyif(models.Model):
+    uosdpbua = models.IntegerField(default=0)
     pass
 
 
@@ -24,6 +26,7 @@ class Qahkfonewx(models.Model):
 
 class Xrrtgf(models.Model):
     twchfjwyg = models.IntegerField(default=0)
+    prtbwzl = models.OneToOneField('joavhqi.Oyjnlgzy', null=True, related_name='+')
     pass
 
 
@@ -63,6 +66,7 @@ class Orofu(models.Model):
 
 class Qmhypaufcg(models.Model):
     lrtkrh = models.IntegerField(default=0)
+    jydjg = models.IntegerField(default=0)
     pass
 
 
@@ -74,4 +78,10 @@ class Dhynhe(models.Model):
 
 class Vnoruiao(models.Model):
     gtrfnedgq = models.OneToOneField('foijx.Cnkdojs', null=True, related_name='+')
+    filiupvrkr = models.ForeignKey('epbbfwihj.Uzdthbetj', null=True, related_name='+')
+    pass
+
+
+class Kdfltvrrbx(models.Model):
+    pixyrsm = models.CharField(default='', max_length=36)
     pass

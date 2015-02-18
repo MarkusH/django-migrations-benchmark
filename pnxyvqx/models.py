@@ -3,11 +3,11 @@ from django.db import models
 
 class Rwrraj(models.Model):
     qcbtpghkq = models.ForeignKey('kakry.Ajbkovws', null=True, related_name='+')
+    qbdud = models.OneToOneField('uivaguf.Zwjgfcdi', null=True, related_name='+')
     pass
 
 
 class Aehywz(models.Model):
-    hqjnudya = models.IntegerField(default=0)
     yehjk = models.CharField(default='', max_length=62)
     pass
 
@@ -24,12 +24,7 @@ class Ryzutjmqc(models.Model):
 
 class Nenfvguk(models.Model):
     arptb = models.CharField(default='', max_length=168)
-    pass
-
-
-class Fmrensoxi(models.Model):
-    kdnkbk = models.ForeignKey('zngxahi.Eauslyif', null=True, related_name='+')
-    gserouu = models.IntegerField(default=0)
+    yglmn = models.IntegerField(default=0)
     pass
 
 

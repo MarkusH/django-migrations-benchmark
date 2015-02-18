@@ -7,7 +7,7 @@ class Cdardz(models.Model):
 
 
 class Myohdht(models.Model):
-    lybemykxx = models.OneToOneField('mntrwrm.Rbhubw', null=True, related_name='+')
+    vaeutfp = models.ForeignKey('rqwywo.Xaszfxobvf', null=True, related_name='+')
     pass
 
 
@@ -25,6 +25,7 @@ class Sukkrqb(models.Model):
 
 class Lqfdippdc(models.Model):
     cjqbkmmoe = models.ForeignKey('irmtbds.Bemqls', null=True, related_name='+')
+    zuydaednz = models.IntegerField(default=0)
     pass
 
 

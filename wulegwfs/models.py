@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Yxsnty(models.Model):
-    bcknzwc = models.CharField(default='', max_length=133)
+    hytuumyfek = models.CharField(default='', max_length=33)
     pass
 
 

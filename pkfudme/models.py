@@ -7,7 +7,6 @@ class Mnvmeraq(models.Model):
 
 
 class Ewxxluebq(models.Model):
-    sqyiv = models.ForeignKey('wyxbcga.Rsaiyadejv', null=True, related_name='+')
     agnkvhewuf = models.CharField(default='', max_length=153)
     pass
 

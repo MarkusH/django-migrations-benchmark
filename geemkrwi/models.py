@@ -10,6 +10,7 @@ class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
     ninajhwzfe = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     ssyao = models.CharField(default='', max_length=223)
+    lpmmn = models.CharField(default='', max_length=240)
     pass
 
 

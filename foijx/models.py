@@ -9,7 +9,6 @@ class Gsdqrijpp(models.Model):
 
 
 class Qrwsj(models.Model):
-    zdvvjpppsi = models.OneToOneField('burhjvc.Ydprem', null=True, related_name='+')
     adjwv = models.IntegerField(default=0)
     pass
 

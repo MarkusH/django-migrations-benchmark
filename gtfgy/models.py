@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Rqjyygz(models.Model):
-    syyrsnfru = models.CharField(default='', max_length=35)
+    dxqngyccu = models.CharField(default='', max_length=20)
     pass
 
 

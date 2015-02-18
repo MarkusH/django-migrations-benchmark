@@ -7,5 +7,10 @@ class Rqikftw(models.Model):
 
 
 class Bemqls(models.Model):
-    bjknddubg = models.IntegerField(default=0)
+    hqyqlzp = models.IntegerField(default=0)
+    pass
+
+
+class Islmbaqxc(models.Model):
+    yqxhdtazhk = models.ForeignKey('gbsaqmaxu.Rkmtigdh', null=True, related_name='+')
     pass

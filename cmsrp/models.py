@@ -1,6 +1,6 @@
 from django.db import models
 
 
-class Miakjx(models.Model):
-    tqwbvjcjda = models.CharField(default='', max_length=196)
+class Dtpkzlh(models.Model):
+    ntmeao = models.CharField(default='', max_length=88)
     pass
