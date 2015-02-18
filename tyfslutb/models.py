@@ -18,6 +18,7 @@ class Ihswfvupi(models.Model):
 
 
 class Ynbpgqn(models.Model):
+    pgbxqxfrn = models.CharField(default='', max_length=66)
     pass
 
 

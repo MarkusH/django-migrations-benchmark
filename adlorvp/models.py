@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Tpxhcuni(models.Model):
-    pxfcqag = models.IntegerField(default=0)
-    pass
-
-
 class Frzvg(models.Model):
     zudzejdflx = models.IntegerField(default=0)
     pass

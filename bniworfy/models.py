@@ -12,7 +12,7 @@ class Dkvkm(models.Model):
 
 
 class Hqjqgiq(models.Model):
-    rzndbtb = models.CharField(default='', max_length=150)
+    uloiryanki = models.IntegerField(default=0)
     pass
 
 

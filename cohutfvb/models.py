@@ -19,6 +19,7 @@ class Qpuji(models.Model):
 class Crzqih(models.Model):
     ttktcobp = models.CharField(default='', max_length=10)
     uanao = models.OneToOneField('joavhqi.Lfssmpr', null=True, related_name='+')
+    nenil = models.ForeignKey('foijx.Qqktwujdfq', null=True, related_name='+')
     pass
 
 
@@ -28,5 +29,5 @@ class Ecgjvad(models.Model):
 
 
 class Jrgrccoxvv(models.Model):
-    cgycqiur = models.ForeignKey('apbqku.Klgmvpd', null=True, related_name='+')
+    gjcirtejy = models.ForeignKey('zngxahi.Hiqedajgiu', null=True, related_name='+')
     pass

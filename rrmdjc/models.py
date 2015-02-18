@@ -24,5 +24,5 @@ class Bwnmpizji(models.Model):
 
 
 class Gxoqulk(models.Model):
-    cimezoiy = models.OneToOneField('gtfgy.Swasd', null=True, related_name='+')
+    dbvbik = models.ForeignKey('mjdxvqk.Curcmm', null=True, related_name='+')
     pass

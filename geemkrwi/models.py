@@ -10,6 +10,7 @@ class Meymafbbi(models.Model):
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
     xguaklb = models.IntegerField(default=0)
+    ninajhwzfe = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 

@@ -21,12 +21,6 @@ class Igtbspg(models.Model):
     pass
 
 
-class Fzhxya(models.Model):
-    mvaeauil = models.OneToOneField('zxxavsovs.Fiellmltob', null=True, related_name='+')
-    szryc = models.OneToOneField('burhjvc.Pdzdhpq', null=True, related_name='+')
-    pass
-
-
 class Ybcxw(models.Model):
     vkqhycup = models.ForeignKey('gcyjx.Snjsz', null=True, related_name='+')
     pass
@@ -54,5 +48,5 @@ class Shtlozkm(models.Model):
 
 
 class Tqlaa(models.Model):
-    zezpryllj = models.OneToOneField('bniworfy.Sbfynkpvu', null=True, related_name='+')
+    vcapzn = models.ForeignKey('burhjvc.Qbuqivoko', null=True, related_name='+')
     pass

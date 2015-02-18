@@ -19,7 +19,6 @@ class Gxovs(models.Model):
 
 
 class Untgafvod(models.Model):
-    pxzortn = models.ForeignKey('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     upmuq = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
@@ -52,10 +51,15 @@ class Xmvhvzui(models.Model):
 
 
 class Zaganduq(models.Model):
-    kmmmtnspx = models.OneToOneField('epbbfwihj.Uzdthbetj', null=True, related_name='+')
+    lxkoptjj = models.ForeignKey('glcmkwkzv.Unnork', null=True, related_name='+')
     pass
 
 
 class Krbaxhjpkp(models.Model):
     jqqic = models.ForeignKey('self', null=True, related_name='+')
+    pass
+
+
+class Lemzs(models.Model):
+    jaozjpsixx = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
     pass

@@ -19,9 +19,10 @@ class Yxjjlex(models.Model):
 
 class Oeyhu(models.Model):
     chhwiag = models.CharField(default='', max_length=58)
+    skcbskaz = models.IntegerField(default=0)
     pass
 
 
 class Fqhqdv(models.Model):
-    ubybounu = models.CharField(default='', max_length=206)
+    ukqyakhyd = models.ForeignKey('tyfslutb.Juemb', null=True, related_name='+')
     pass

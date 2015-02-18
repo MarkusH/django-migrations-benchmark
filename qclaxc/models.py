@@ -29,6 +29,7 @@ class Qindcumiy(models.Model):
 
 class Yswziiulyl(models.Model):
     vliqzzx = models.IntegerField(default=0)
+    mzpaepi = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
     pass
 
 
@@ -38,7 +39,6 @@ class Ooecads(models.Model):
 
 
 class Jvoopceqsv(models.Model):
-    icswoha = models.OneToOneField('geemkrwi.Meymafbbi', null=True, related_name='+')
     gzzkivnwgi = models.ForeignKey('rrmdjc.Gxoqulk', null=True, related_name='+')
     pass
 

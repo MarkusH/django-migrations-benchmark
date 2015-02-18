@@ -2,5 +2,10 @@ from django.db import models
 
 
 class Snjsz(models.Model):
-    uxkarnxudp = models.CharField(default='', max_length=136)
+    vyrxggwcrm = models.CharField(default='', max_length=50)
+    pass
+
+
+class Xdvbgtxz(models.Model):
+    yjlhhuvyi = models.OneToOneField('geemkrwi.Mxvmqmhku', null=True, related_name='+')
     pass

@@ -12,6 +12,6 @@ class Ffussl(models.Model):
     pass
 
 
-class Klgmvpd(models.Model):
-    ydxtalwb = models.CharField(default='', max_length=72)
+class Tjpxiu(models.Model):
+    egyzjckxd = models.IntegerField(default=0)
     pass

@@ -14,3 +14,8 @@ class Unnork(models.Model):
 class Iwzqe(models.Model):
     smyorbp = models.IntegerField(default=0)
     pass
+
+
+class Hbsqbahnce(models.Model):
+    prndkyvkf = models.CharField(default='', max_length=6)
+    pass

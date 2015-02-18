@@ -12,7 +12,7 @@ class Ylhrvymeyk(models.Model):
 
 
 class Faqagt(models.Model):
-    rmxcdcuqei = models.CharField(default='', max_length=201)
+    vtnbt = models.ForeignKey('esznwrr.Vppjpa', null=True, related_name='+')
     pass
 
 
@@ -34,11 +34,12 @@ class Bdpibttuxi(models.Model):
 class Ndhcup(models.Model):
     kvekefr = models.CharField(default='', max_length=90)
     udvzu = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
+    xjpmyjji = models.CharField(default='', max_length=62)
     pass
 
 
 class Wmifd(models.Model):
-    vyposv = models.IntegerField(default=0)
+    ztdwwxnoeo = models.ForeignKey('cmsrp.Ncysy', null=True, related_name='+')
     pass
 
 

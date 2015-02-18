@@ -53,5 +53,5 @@ class Ovbcnxcwyr(models.Model):
 
 
 class Waktrjgi(models.Model):
-    tssfc = models.OneToOneField('cohutfvb.Qpuji', null=True, related_name='+')
+    qrwndvxmf = models.OneToOneField('burhjvc.Pdzdhpq', null=True, related_name='+')
     pass

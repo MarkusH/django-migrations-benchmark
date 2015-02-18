@@ -37,12 +37,10 @@ class Qrwqtj(models.Model):
     pass
 
 
-class Ncptyh(models.Model):
-    kvfaskmmrq = models.IntegerField(default=0)
-    pehkutt = models.IntegerField(default=0)
+class Wjxepwd(models.Model):
     pass
 
 
-class Wjxepwd(models.Model):
-    ppndehjbmf = models.ForeignKey('adlorvp.Tpxhcuni', null=True, related_name='+')
+class Cukzic(models.Model):
+    ehzdg = models.CharField(default='', max_length=13)
     pass

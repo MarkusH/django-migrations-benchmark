@@ -22,6 +22,5 @@ class Xaszfxobvf(models.Model):
 
 
 class Huqprglqp(models.Model):
-    lknuczrw = models.ForeignKey('gtfgy.Wnhvelxdeb', null=True, related_name='+')
     nnibv = models.CharField(default='', max_length=60)
     pass

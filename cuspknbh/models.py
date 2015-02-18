@@ -7,7 +7,7 @@ class Mwigq(models.Model):
 
 
 class Djbbtxk(models.Model):
-    soayvwcin = models.CharField(default='', max_length=31)
+    szwaxyb = models.CharField(default='', max_length=178)
     pass
 
 

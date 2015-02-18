@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Avwudusy(models.Model):
-    pmtrcvq = models.CharField(default='', max_length=200)
+    gsjalhqmd = models.IntegerField(default=0)
     pass
 
 

@@ -18,6 +18,7 @@ class Ktiod(models.Model):
 
 class Mioxdvg(models.Model):
     uobgln = models.OneToOneField('mjdxvqk.Ovbcnxcwyr', null=True, related_name='+')
+    rzvpibb = models.CharField(default='', max_length=29)
     pass
 
 

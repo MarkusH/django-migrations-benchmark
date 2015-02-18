@@ -8,6 +8,7 @@ class Flfbdpu(models.Model):
 
 class Ajbkovws(models.Model):
     rlsejr = models.ForeignKey('cuspknbh.Djbbtxk', null=True, related_name='+')
+    kmhhp = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
     pass
 
 
@@ -17,7 +18,7 @@ class Aivqb(models.Model):
 
 
 class Wnbhmzvze(models.Model):
-    mltbxn = models.IntegerField(default=0)
+    lmtij = models.IntegerField(default=0)
     pass
 
 

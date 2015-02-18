@@ -3,6 +3,7 @@ from django.db import models
 
 class Nzfoyhj(models.Model):
     mnjybho = models.IntegerField(default=0)
+    hqdxyajbhz = models.IntegerField(default=0)
     pass
 
 
@@ -39,4 +40,9 @@ class Twdtvqs(models.Model):
 
 class Hitvmegxki(models.Model):
     qufssktrdx = models.ForeignKey('cuspknbh.Djbbtxk', null=True, related_name='+')
+    pass
+
+
+class Gbmslrhm(models.Model):
+    wftcam = models.ForeignKey('yiupu.Zzsheqzf', null=True, related_name='+')
     pass

@@ -14,11 +14,7 @@ class Zfpgchkbaz(models.Model):
 
 class Uwaayy(models.Model):
     jtpsyn = models.OneToOneField('qclaxc.Yiifw', null=True, related_name='+')
-    pass
-
-
-class Klqjjygf(models.Model):
-    jzxnpt = models.CharField(default='', max_length=209)
+    ymklbmt = models.OneToOneField('uivaguf.Vqykzihlmk', null=True, related_name='+')
     pass
 
 
