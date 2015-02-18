@@ -8,6 +8,7 @@ class Kjwyneff(models.Model):
 
 class Hqjqgiq(models.Model):
     uloiryanki = models.IntegerField(default=0)
+    azbiiaoi = models.ForeignKey('cuspknbh.Mwigq', null=True, related_name='+')
     pass
 
 
@@ -28,4 +29,9 @@ class Sbfynkpvu(models.Model):
 
 class Dvqne(models.Model):
     ubeuubhtm = models.CharField(default='', max_length=242)
+    pass
+
+
+class Vnjcuelh(models.Model):
+    yxlpab = models.ForeignKey('pkfudme.Ewxxluebq', null=True, related_name='+')
     pass

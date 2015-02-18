@@ -17,7 +17,6 @@ class Uajrm(models.Model):
 
 
 class Ladoumxyr(models.Model):
-    rophhewd = models.ForeignKey('ladqux.Yxjjlex', null=True, related_name='+')
     pass
 
 
@@ -39,5 +38,5 @@ class Jvoopceqsv(models.Model):
 
 
 class Hlpgeaqix(models.Model):
-    nrrdexkvmq = models.CharField(default='', max_length=164)
+    xrfgwsb = models.ForeignKey('ukxhbn.Qujmudiaaa', null=True, related_name='+')
     pass

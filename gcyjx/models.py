@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Snjsz(models.Model):
-    vtafuxd = models.CharField(default='', max_length=237)
+    qsntdomu = models.ForeignKey('ruvaymw.Faqagt', null=True, related_name='+')
     pass
 
 

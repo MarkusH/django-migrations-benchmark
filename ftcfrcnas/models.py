@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Cdardz(models.Model):
-    emduh = models.IntegerField(default=0)
+    hmjcjayr = models.ForeignKey('pnxyvqx.Aehywz', null=True, related_name='+')
     pass
 
 
@@ -14,6 +14,7 @@ class Myohdht(models.Model):
 class Qibygpddzw(models.Model):
     nzlzvpdg = models.IntegerField(default=0)
     pkicgtdbpc = models.IntegerField(default=0)
+    smhmvshun = models.IntegerField(default=0)
     pass
 
 

@@ -9,6 +9,7 @@ class Bmovnbnmed(models.Model):
 
 class Omtmse(models.Model):
     ozlgxphz = models.OneToOneField('cohutfvb.Qpuji', null=True, related_name='+')
+    puvofvtb = models.IntegerField(default=0)
     pass
 
 

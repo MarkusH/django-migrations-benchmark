@@ -33,6 +33,7 @@ class Ndhcup(models.Model):
 
 
 class Wmifd(models.Model):
+    rvygrr = models.OneToOneField('wawqcpvrz.Xivomw', null=True, related_name='+')
     pass
 
 
@@ -44,7 +45,6 @@ class Fxsiyvw(models.Model):
 
 class Hhnwphllci(models.Model):
     lgfcdtfmmh = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
-    wmriml = models.OneToOneField('tyfslutb.Copkdxcnlp', null=True, related_name='+')
     pass
 
 

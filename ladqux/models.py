@@ -11,13 +11,6 @@ class Yfyadqk(models.Model):
     pass
 
 
-class Yxjjlex(models.Model):
-    mixvrbh = models.OneToOneField('ftcfrcnas.Qrwqtj', null=True, related_name='+')
-    czztctho = models.CharField(default='', max_length=246)
-    ssqcvjx = models.IntegerField(default=0)
-    pass
-
-
 class Oeyhu(models.Model):
     chhwiag = models.CharField(default='', max_length=58)
     skcbskaz = models.IntegerField(default=0)

@@ -8,6 +8,7 @@ class Mnvmeraq(models.Model):
 
 class Ewxxluebq(models.Model):
     sqyiv = models.ForeignKey('wyxbcga.Rsaiyadejv', null=True, related_name='+')
+    agnkvhewuf = models.CharField(default='', max_length=153)
     pass
 
 
@@ -34,7 +35,7 @@ class Osyzmgmbo(models.Model):
 
 
 class Dbpile(models.Model):
-    ynyiuist = models.IntegerField(default=0)
+    iqimpcc = models.CharField(default='', max_length=99)
     pass
 
 
@@ -45,4 +46,9 @@ class Jrppdzds(models.Model):
 
 class Fkazepju(models.Model):
     ocsozfc = models.ForeignKey('gbsaqmaxu.Knqau', null=True, related_name='+')
+    pass
+
+
+class Qhsnzq(models.Model):
+    ttkgebv = models.IntegerField(default=0)
     pass

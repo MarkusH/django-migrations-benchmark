@@ -18,6 +18,7 @@ class Oyjnlgzy(models.Model):
 
 
 class Yusanbjmh(models.Model):
+    onkbpnnv = models.CharField(default='', max_length=34)
     pass
 
 

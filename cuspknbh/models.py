@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Mwigq(models.Model):
-    shjxtfggcn = models.OneToOneField('cohutfvb.Livljpedso', null=True, related_name='+')
+    aeynxtwrr = models.IntegerField(default=0)
     pass
 
 
@@ -21,12 +21,11 @@ class Kekzfmudvr(models.Model):
     pass
 
 
-class Yicalotegs(models.Model):
-    yhkzxndlz = models.IntegerField(default=0)
-    xthpwjhi = models.CharField(default='', max_length=136)
+class Mbcah(models.Model):
+    auvyvqhx = models.IntegerField(default=0)
     pass
 
 
-class Mbcah(models.Model):
-    auvyvqhx = models.IntegerField(default=0)
+class Qotakup(models.Model):
+    mhctlvnto = models.ForeignKey('pnxyvqx.Nenfvguk', null=True, related_name='+')
     pass

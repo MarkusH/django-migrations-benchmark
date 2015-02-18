@@ -31,6 +31,7 @@ class Lmxjryphro(models.Model):
     kkqmbqbmvt = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
     nlxhwbmf = models.CharField(default='', max_length=114)
     qsochd = models.ForeignKey('ruvaymw.Wmifd', null=True, related_name='+')
+    opnuy = models.CharField(default='', max_length=76)
     pass
 
 

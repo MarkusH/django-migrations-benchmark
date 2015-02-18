@@ -13,7 +13,7 @@ class Eauslyif(models.Model):
 
 
 class Llnksobygh(models.Model):
-    xjfzzpp = models.IntegerField(default=0)
+    mfhovgyh = models.ForeignKey('qqpppzas.Xcuutwsyfn', null=True, related_name='+')
     pass
 
 
@@ -33,19 +33,19 @@ class Kbgdzldxz(models.Model):
 
 
 class Bdontoyqti(models.Model):
-    wjquqibaq = models.ForeignKey('zxxavsovs.Fiellmltob', null=True, related_name='+')
+    ywvylo = models.ForeignKey('rwlfplwktj.Thqldbdjm', null=True, related_name='+')
     pass
 
 
 class Nnkqr(models.Model):
     xgosa = models.IntegerField(default=0)
     kdstxhvuz = models.CharField(default='', max_length=132)
-    wcytnskou = models.ForeignKey('apbqku.Ssgsglh', null=True, related_name='+')
     pass
 
 
 class Nxqpxgzt(models.Model):
     fwhyytck = models.CharField(default='', max_length=216)
+    mtarxlfyow = models.CharField(default='', max_length=82)
     pass
 
 
@@ -67,4 +67,5 @@ class Qmhypaufcg(models.Model):
 
 class Dhynhe(models.Model):
     sbhgzwzbv = models.ForeignKey('avwpufexob.Fvlkcjd', null=True, related_name='+')
+    nikevgkpn = models.IntegerField(default=0)
     pass

@@ -22,7 +22,7 @@ class Xaszfxobvf(models.Model):
 
 
 class Huqprglqp(models.Model):
-    nnibv = models.CharField(default='', max_length=60)
+    whhdjgrl = models.CharField(default='', max_length=147)
     pass
 
 

@@ -6,11 +6,6 @@ class Livljpedso(models.Model):
     pass
 
 
-class Sonmvoj(models.Model):
-    ybyjwcqwlx = models.IntegerField(default=0)
-    pass
-
-
 class Qpuji(models.Model):
     saiuw = models.CharField(default='', max_length=84)
     pass
@@ -24,5 +19,5 @@ class Crzqih(models.Model):
 
 
 class Ecgjvad(models.Model):
-    zxnnutgo = models.IntegerField(default=0)
+    dmlqug = models.CharField(default='', max_length=96)
     pass

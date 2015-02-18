@@ -44,13 +44,15 @@ class Yrekcfrkl(models.Model):
     tidjkv = models.ForeignKey('ftcfrcnas.Myohdht', null=True, related_name='+')
     jnsjmikrnw = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
     ydkkfuieab = models.IntegerField(default=0)
+    gvytprt = models.IntegerField(default=0)
     pass
 
 
 class Ftwph(models.Model):
+    thrfoimmzd = models.ForeignKey('tyfslutb.Qhzppcqwku', null=True, related_name='+')
     pass
 
 
 class Symqs(models.Model):
-    zdbraaw = models.IntegerField(default=0)
+    cdcocpyto = models.ForeignKey('irmtbds.Rqikftw', null=True, related_name='+')
     pass

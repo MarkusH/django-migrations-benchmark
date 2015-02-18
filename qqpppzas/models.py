@@ -18,7 +18,6 @@ class Lrqwbz(models.Model):
 
 class Igtbspg(models.Model):
     rhdlydtrdw = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
-    fpakgnfxli = models.ForeignKey('esznwrr.Cepov', null=True, related_name='+')
     pass
 
 
@@ -36,7 +35,6 @@ class Mukbde(models.Model):
 
 class Prljmjou(models.Model):
     okelu = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
-    hiacissed = models.OneToOneField('ladqux.Yxjjlex', null=True, related_name='+')
     pass
 
 
@@ -48,6 +46,7 @@ class Jchddfi(models.Model):
 class Shtlozkm(models.Model):
     zwsomb = models.ForeignKey('wulegwfs.Txgqxz', null=True, related_name='+')
     hxbwkwebc = models.IntegerField(default=0)
+    wjznogs = models.OneToOneField('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 

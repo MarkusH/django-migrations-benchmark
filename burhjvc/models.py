@@ -24,7 +24,7 @@ class Qbuqivoko(models.Model):
 
 
 class Ydprem(models.Model):
-    gjmyvkze = models.IntegerField(default=0)
+    tazikiljv = models.ForeignKey('gbsaqmaxu.Nwyctrmqpq', null=True, related_name='+')
     pass
 
 
@@ -40,6 +40,7 @@ class Oilvk(models.Model):
 
 class Jnyynhgbb(models.Model):
     kasrh = models.IntegerField(default=0)
+    iqfzdixyt = models.OneToOneField('ruvaymw.Faqagt', null=True, related_name='+')
     pass
 
 

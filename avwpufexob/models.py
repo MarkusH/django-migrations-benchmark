@@ -12,14 +12,10 @@ class Nhpkrhkql(models.Model):
 
 
 class Fvlkcjd(models.Model):
+    jqpablwvw = models.OneToOneField('rqwywo.Lxcurbmhu', null=True, related_name='+')
     pass
 
 
 class Aunuwoo(models.Model):
     sqtfq = models.CharField(default='', max_length=131)
-    pass
-
-
-class Pjxcqqmof(models.Model):
-    vlxyucogx = models.IntegerField(default=0)
     pass

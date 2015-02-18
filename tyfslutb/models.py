@@ -20,7 +20,6 @@ class Ihswfvupi(models.Model):
 
 class Ynbpgqn(models.Model):
     rtmpcyteit = models.ForeignKey('kakry.Aefqhqkmm', null=True, related_name='+')
-    ninzjz = models.ForeignKey('qqpppzas.Fngqkhhe', null=True, related_name='+')
     pass
 
 

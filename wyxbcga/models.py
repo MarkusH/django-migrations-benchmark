@@ -23,7 +23,6 @@ class Xqjugixefj(models.Model):
 
 
 class Jkjvvohe(models.Model):
-    kjeun = models.CharField(default='', max_length=64)
     pass
 
 
@@ -44,7 +43,6 @@ class Begquxerkm(models.Model):
 
 class Gmclwtufhi(models.Model):
     qjfhzntzm = models.OneToOneField('kakry.Aefqhqkmm', null=True, related_name='+')
-    jdwqs = models.ForeignKey('rwlfplwktj.Thqldbdjm', null=True, related_name='+')
     pass
 
 
