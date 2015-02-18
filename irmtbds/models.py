@@ -7,7 +7,7 @@ class Rqikftw(models.Model):
 
 
 class Rqzheruyb(models.Model):
-    xknvpfy = models.ForeignKey('gtfgy.Xqcngusl', null=True, related_name='+')
+    kplrvqptcm = models.IntegerField(default=0)
     pass
 
 

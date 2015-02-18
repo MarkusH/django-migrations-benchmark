@@ -12,7 +12,6 @@ class Myohdht(models.Model):
 
 
 class Qibygpddzw(models.Model):
-    hachwpnpia = models.ForeignKey('yiupu.Jpmwh', null=True, related_name='+')
     pass
 
 
@@ -31,11 +30,6 @@ class Iwhkq(models.Model):
     pass
 
 
-class Snszfzibo(models.Model):
-    nfcbptbpxv = models.CharField(default='', max_length=21)
-    pass
-
-
 class Qrwqtj(models.Model):
     ssdfr = models.IntegerField(default=0)
     pass
@@ -43,6 +37,7 @@ class Qrwqtj(models.Model):
 
 class Ncptyh(models.Model):
     kvfaskmmrq = models.IntegerField(default=0)
+    pehkutt = models.IntegerField(default=0)
     pass
 
 

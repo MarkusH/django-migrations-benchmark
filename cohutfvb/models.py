@@ -14,3 +14,8 @@ class Sonmvoj(models.Model):
 class Qpuji(models.Model):
     saiuw = models.CharField(default='', max_length=84)
     pass
+
+
+class Crzqih(models.Model):
+    ttktcobp = models.CharField(default='', max_length=10)
+    pass

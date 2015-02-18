@@ -6,11 +6,6 @@ class Zzsheqzf(models.Model):
     pass
 
 
-class Jpmwh(models.Model):
-    jftgansub = models.CharField(default='', max_length=253)
-    pass
-
-
 class Fzmiecxuo(models.Model):
     wpvqrrkg = models.OneToOneField('ygnakzgjxu.Mxlpodxpm', null=True, related_name='+')
     pass

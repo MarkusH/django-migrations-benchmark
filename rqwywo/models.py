@@ -12,7 +12,7 @@ class Lxcurbmhu(models.Model):
 
 
 class Gkiwtx(models.Model):
-    ouofvgrgp = models.ForeignKey('rqwywo.Lxcurbmhu', null=True, related_name='+')
+    viugmj = models.CharField(default='', max_length=249)
     pass
 
 

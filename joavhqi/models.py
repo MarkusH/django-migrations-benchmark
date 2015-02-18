@@ -7,7 +7,7 @@ class Nizqeesp(models.Model):
 
 
 class Iowgy(models.Model):
-    kffkvcz = models.CharField(default='', max_length=11)
+    rcmqduvnsb = models.IntegerField(default=0)
     pass
 
 
@@ -28,4 +28,5 @@ class Lfssmpr(models.Model):
 
 class Uodtjnez(models.Model):
     rasnn = models.OneToOneField('bniworfy.Dkvkm', null=True, related_name='+')
+    dpnzgpxom = models.OneToOneField('irmtbds.Rqzheruyb', null=True, related_name='+')
     pass

@@ -16,11 +16,6 @@ class Ligxr(models.Model):
     pass
 
 
-class Dipxet(models.Model):
-    nwammqlaq = models.IntegerField(default=0)
-    pass
-
-
 class Jydvnf(models.Model):
     xwilqwztoj = models.ForeignKey('qclaxc.Pmcbxoetr', null=True, related_name='+')
     pass
@@ -38,4 +33,9 @@ class Edynlg(models.Model):
 
 class Ssalb(models.Model):
     eelqndo = models.ForeignKey('wyxbcga.Ojshxdt', null=True, related_name='+')
+    pass
+
+
+class Twdtvqs(models.Model):
+    mdgzwhpjsq = models.IntegerField(default=0)
     pass

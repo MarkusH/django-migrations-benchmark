@@ -13,6 +13,7 @@ class Nhpkrhkql(models.Model):
 
 class Ubpmj(models.Model):
     ktwasnimoe = models.OneToOneField('zsskgviadw.Hcetattb', null=True, related_name='+')
+    itflucbh = models.ForeignKey('ladqux.Oeyhu', null=True, related_name='+')
     pass
 
 

@@ -12,7 +12,7 @@ class Vqykzihlmk(models.Model):
 
 
 class Zwjgfcdi(models.Model):
-    gwxtnqawxt = models.IntegerField(default=0)
+    ymtyj = models.ForeignKey('kfapsax.Sehvi', null=True, related_name='+')
     pass
 
 
@@ -23,4 +23,9 @@ class Onmti(models.Model):
 
 class Ubuhm(models.Model):
     qbjla = models.ForeignKey('apbqku.Ffussl', null=True, related_name='+')
+    pass
+
+
+class Bqjxljlwq(models.Model):
+    veqvxofwt = models.ForeignKey('mjdxvqk.Edugsywcj', null=True, related_name='+')
     pass

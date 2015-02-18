@@ -49,3 +49,8 @@ class Tmgvpztce(models.Model):
 class Ovbcnxcwyr(models.Model):
     mwfsqognp = models.IntegerField(default=0)
     pass
+
+
+class Waktrjgi(models.Model):
+    tssfc = models.OneToOneField('cohutfvb.Qpuji', null=True, related_name='+')
+    pass

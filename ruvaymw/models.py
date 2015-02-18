@@ -17,7 +17,7 @@ class Faqagt(models.Model):
 
 
 class Owamswc(models.Model):
-    ekqpnk = models.CharField(default='', max_length=157)
+    iijffzuw = models.IntegerField(default=0)
     pass
 
 
@@ -37,7 +37,7 @@ class Ndhcup(models.Model):
 
 
 class Wmifd(models.Model):
-    ctfflurp = models.OneToOneField('rrmdjc.Bwnmpizji', null=True, related_name='+')
+    yalhscl = models.OneToOneField('kfapsax.Sehvi', null=True, related_name='+')
     pass
 
 

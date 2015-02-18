@@ -6,13 +6,9 @@ class Meymafbbi(models.Model):
     pass
 
 
-class Xtwdqfv(models.Model):
-    uhzuomry = models.CharField(default='', max_length=184)
-    pass
-
-
 class Wilsmoea(models.Model):
     mkacrshag = models.IntegerField(default=0)
+    xguaklb = models.IntegerField(default=0)
     pass
 
 
@@ -33,4 +29,9 @@ class Mxvmqmhku(models.Model):
 
 class Egvtran(models.Model):
     mhnvmmxnvf = models.CharField(default='', max_length=72)
+    pass
+
+
+class Uqqgcprwn(models.Model):
+    mciutq = models.OneToOneField('wawqcpvrz.Xivomw', null=True, related_name='+')
     pass

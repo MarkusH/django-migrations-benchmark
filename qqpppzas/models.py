@@ -27,7 +27,7 @@ class Fzhxya(models.Model):
 
 
 class Ybcxw(models.Model):
-    mwpkhqrbva = models.CharField(default='', max_length=218)
+    vkqhycup = models.ForeignKey('gcyjx.Snjsz', null=True, related_name='+')
     pass
 
 

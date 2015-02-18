@@ -27,7 +27,7 @@ class Ydprem(models.Model):
 
 
 class Ubeubsuez(models.Model):
-    rlwffxqrbk = models.CharField(default='', max_length=194)
+    jyjwhl = models.OneToOneField('cuspknbh.Ufrkff', null=True, related_name='+')
     pass
 
 

@@ -8,6 +8,7 @@ class Uzdthbetj(models.Model):
 
 class Zfpgchkbaz(models.Model):
     yttrt = models.ForeignKey('ukxhbn.Dcphul', null=True, related_name='+')
+    zgdobd = models.IntegerField(default=0)
     pass
 
 
@@ -37,5 +38,5 @@ class Pbnaktpzhs(models.Model):
 
 
 class Gejrsf(models.Model):
-    zyxxzvs = models.CharField(default='', max_length=217)
+    wnttrpau = models.OneToOneField('rrmdjc.Rtbkg', null=True, related_name='+')
     pass

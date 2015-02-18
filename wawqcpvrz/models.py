@@ -21,11 +21,6 @@ class Ndmxpw(models.Model):
     pass
 
 
-class Vrvslusmy(models.Model):
-    qbmyulpzc = models.IntegerField(default=0)
-    pass
-
-
 class Scfuekgkl(models.Model):
     wglslgn = models.IntegerField(default=0)
     pass

@@ -33,6 +33,7 @@ class Kbgdzldxz(models.Model):
 
 class Bdontoyqti(models.Model):
     nmctlsx = models.ForeignKey('ruvaymw.Swanlanqxn', null=True, related_name='+')
+    jwrsyvtia = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
     pass
 
 
@@ -48,4 +49,9 @@ class Nxqpxgzt(models.Model):
 
 class Rxxpitmckt(models.Model):
     mytzcfoeq = models.ForeignKey('foijx.Qrwsj', null=True, related_name='+')
+    pass
+
+
+class Orofu(models.Model):
+    ciuhnrivc = models.OneToOneField('glcmkwkzv.Unnork', null=True, related_name='+')
     pass

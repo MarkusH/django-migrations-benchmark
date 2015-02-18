@@ -13,6 +13,7 @@ class Rtbkg(models.Model):
 
 class Guhhjm(models.Model):
     ehzyfcfm = models.OneToOneField('rrmdjc.Ddzxkrvtfd', null=True, related_name='+')
+    ixxlcmb = models.CharField(default='', max_length=29)
     pass
 
 

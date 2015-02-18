@@ -13,16 +13,12 @@ class Knqau(models.Model):
 
 class Rbodr(models.Model):
     hmigi = models.ForeignKey('ysgxuyu.Omtmse', null=True, related_name='+')
+    lfhalcmk = models.CharField(default='', max_length=7)
     pass
 
 
 class Zdahw(models.Model):
     binimm = models.ForeignKey('rqwywo.Lxcurbmhu', null=True, related_name='+')
-    pass
-
-
-class Bunxowpqh(models.Model):
-    scevhjdb = models.IntegerField(default=0)
     pass
 
 
@@ -33,6 +29,7 @@ class Nhlpe(models.Model):
 
 class Vvyni(models.Model):
     pranh = models.IntegerField(default=0)
+    wnyycawcq = models.IntegerField(default=0)
     pass
 
 

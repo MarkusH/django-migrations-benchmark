@@ -33,6 +33,7 @@ class Vzhhl(models.Model):
 
 class Ulvookvun(models.Model):
     tugjdleqdq = models.IntegerField(default=0)
+    zbrqsverm = models.IntegerField(default=0)
     pass
 
 

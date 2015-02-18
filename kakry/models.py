@@ -17,7 +17,6 @@ class Aivqb(models.Model):
 
 
 class Mfivvxhds(models.Model):
-    dlcolp = models.ForeignKey('qclaxc.Rmtucrztaq', null=True, related_name='+')
     pass
 
 
@@ -27,7 +26,7 @@ class Wnbhmzvze(models.Model):
 
 
 class Aefqhqkmm(models.Model):
-    aqpoesk = models.CharField(default='', max_length=60)
+    ftnkzwba = models.CharField(default='', max_length=53)
     pass
 
 
@@ -38,6 +37,7 @@ class Kiurw(models.Model):
 
 class Lmxjryphro(models.Model):
     kkqmbqbmvt = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
+    nlxhwbmf = models.CharField(default='', max_length=114)
     pass
 
 

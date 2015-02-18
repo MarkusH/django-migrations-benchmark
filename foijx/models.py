@@ -1,11 +1,6 @@
 from django.db import models
 
 
-class Nznejqg(models.Model):
-    emtzznsici = models.CharField(default='', max_length=137)
-    pass
-
-
 class Gsdqrijpp(models.Model):
     cmgipgvc = models.CharField(default='', max_length=39)
     pass
@@ -28,9 +23,15 @@ class Flwuyjdlel(models.Model):
 
 class Qqktwujdfq(models.Model):
     uvyuhhx = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    uecimvq = models.ForeignKey('pnxyvqx.Nrnexasxp', null=True, related_name='+')
     pass
 
 
 class Cnkdojs(models.Model):
     adedvcyxhq = models.ForeignKey('cohutfvb.Sonmvoj', null=True, related_name='+')
+    pass
+
+
+class Mvmwqukrbx(models.Model):
+    ffobkibqn = models.IntegerField(default=0)
     pass

@@ -13,6 +13,7 @@ class Aehywz(models.Model):
 
 class Nrnexasxp(models.Model):
     htfway = models.IntegerField(default=0)
+    dzshhvc = models.CharField(default='', max_length=91)
     pass
 
 

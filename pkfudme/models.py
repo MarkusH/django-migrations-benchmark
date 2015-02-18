@@ -42,5 +42,5 @@ class Dbpile(models.Model):
 
 
 class Jrppdzds(models.Model):
-    qkuboicrw = models.CharField(default='', max_length=183)
+    ttzww = models.CharField(default='', max_length=153)
     pass

@@ -17,7 +17,6 @@ class Ihswfvupi(models.Model):
 
 
 class Ynbpgqn(models.Model):
-    udhaejrfhb = models.OneToOneField('yiupu.Jpmwh', null=True, related_name='+')
     pass
 
 
@@ -48,4 +47,9 @@ class Cvzmphnk(models.Model):
 
 class Ixmfsgch(models.Model):
     zovmenwqiy = models.ForeignKey('rrmdjc.Bwnmpizji', null=True, related_name='+')
+    pass
+
+
+class Ckvpx(models.Model):
+    dtnnovz = models.OneToOneField('ygnakzgjxu.Mxlpodxpm', null=True, related_name='+')
     pass

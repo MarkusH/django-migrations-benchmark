@@ -8,6 +8,7 @@ class Bmovnbnmed(models.Model):
 
 class Kqlunbkaa(models.Model):
     vccxl = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    cexmjva = models.OneToOneField('zsskgviadw.Inyvz', null=True, related_name='+')
     pass
 
 

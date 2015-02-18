@@ -7,7 +7,6 @@ class Kpjlirt(models.Model):
 
 
 class Eezxvbbvmn(models.Model):
-    redlewthb = models.OneToOneField('geemkrwi.Xtwdqfv', null=True, related_name='+')
     pass
 
 
@@ -37,7 +36,6 @@ class Qqpfvbjbpk(models.Model):
 
 
 class Ojshxdt(models.Model):
-    fakazhjh = models.OneToOneField('yiupu.Jpmwh', null=True, related_name='+')
     pass
 
 

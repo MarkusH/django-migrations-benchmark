@@ -12,7 +12,7 @@ class Lbhtyfzldr(models.Model):
 
 
 class Rykamine(models.Model):
-    ofjjiorcjg = models.OneToOneField('ladqux.Yxjjlex', null=True, related_name='+')
+    gwpcavl = models.OneToOneField('emncdxt.Ktiod', null=True, related_name='+')
     pass
 
 
@@ -36,16 +36,16 @@ class Wnhvelxdeb(models.Model):
     pass
 
 
-class Xqcngusl(models.Model):
-    vgeuicxo = models.OneToOneField('khwbgr.Qsqcspjrgx', null=True, related_name='+')
-    pass
-
-
 class Swasd(models.Model):
-    xlzvsww = models.CharField(default='', max_length=198)
+    jdzruuqtj = models.ForeignKey('ysgxuyu.Bmovnbnmed', null=True, related_name='+')
     pass
 
 
 class Niwaoqfft(models.Model):
     serhcyqy = models.ForeignKey('wyxbcga.Eezxvbbvmn', null=True, related_name='+')
+    pass
+
+
+class Yrekcfrkl(models.Model):
+    ndgrspso = models.CharField(default='', max_length=49)
     pass

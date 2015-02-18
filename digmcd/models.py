@@ -13,11 +13,13 @@ class Xovte(models.Model):
 
 class Gxovs(models.Model):
     adbutau = models.IntegerField(default=0)
+    ovvkibpppv = models.ForeignKey('ruvaymw.Ndhcup', null=True, related_name='+')
     pass
 
 
 class Untgafvod(models.Model):
     pxzortn = models.ForeignKey('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
+    upmuq = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
 
@@ -33,6 +35,7 @@ class Gtekbplhr(models.Model):
 
 class Rdfrrg(models.Model):
     yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
+    jytqslm = models.CharField(default='', max_length=55)
     pass
 
 

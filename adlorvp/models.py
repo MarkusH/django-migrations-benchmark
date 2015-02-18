@@ -12,7 +12,7 @@ class Frzvg(models.Model):
 
 
 class Kzrfnfxko(models.Model):
-    rfezjxndz = models.ForeignKey('kfapsax.Ktjsrtd', null=True, related_name='+')
+    rcqudvnf = models.IntegerField(default=0)
     pass
 
 

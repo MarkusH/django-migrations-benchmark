@@ -12,5 +12,5 @@ class Unnork(models.Model):
 
 
 class Iwzqe(models.Model):
-    lbrkrs = models.OneToOneField('ftcfrcnas.Snszfzibo', null=True, related_name='+')
+    ofhxrdky = models.IntegerField(default=0)
     pass

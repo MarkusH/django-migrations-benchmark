@@ -2,12 +2,12 @@ from django.db import models
 
 
 class Kjwyneff(models.Model):
-    wfujlt = models.CharField(default='', max_length=100)
+    zctecjt = models.CharField(default='', max_length=62)
     pass
 
 
 class Dkvkm(models.Model):
-    eylgo = models.OneToOneField('kakry.Aefqhqkmm', null=True, related_name='+')
+    nteqflev = models.OneToOneField('ygnakzgjxu.Mxlpodxpm', null=True, related_name='+')
     pass
 
 
@@ -17,17 +17,17 @@ class Hqjqgiq(models.Model):
 
 
 class Mxfnrc(models.Model):
-    pmqdg = models.CharField(default='', max_length=184)
+    ifxub = models.OneToOneField('rwlfplwktj.Knoeepjnhs', null=True, related_name='+')
     pass
 
 
 class Trjyk(models.Model):
-    ngubcf = models.CharField(default='', max_length=166)
+    durndkeais = models.CharField(default='', max_length=159)
     pass
 
 
 class Gsmbfohda(models.Model):
-    vuszhgsx = models.OneToOneField('avwpufexob.Fvlkcjd', null=True, related_name='+')
+    xtcnijqs = models.ForeignKey('ysgxuyu.Kqlunbkaa', null=True, related_name='+')
     pass
 
 

@@ -2,10 +2,15 @@ from django.db import models
 
 
 class Ssgsglh(models.Model):
-    yihuniyqgd = models.OneToOneField('pkfudme.Osyzmgmbo', null=True, related_name='+')
+    mochrw = models.CharField(default='', max_length=9)
     pass
 
 
 class Ffussl(models.Model):
     gnpvh = models.IntegerField(default=0)
+    pass
+
+
+class Klgmvpd(models.Model):
+    ydxtalwb = models.CharField(default='', max_length=72)
     pass

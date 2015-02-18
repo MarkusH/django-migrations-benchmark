@@ -22,5 +22,5 @@ class Mioxdvg(models.Model):
 
 
 class Shgjep(models.Model):
-    hlamaptyhd = models.OneToOneField('foijx.Wrafoshzom', null=True, related_name='+')
+    ubxdjav = models.OneToOneField('rrmdjc.Gxoqulk', null=True, related_name='+')
     pass
