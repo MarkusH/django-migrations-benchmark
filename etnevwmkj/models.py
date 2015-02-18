@@ -16,3 +16,8 @@ class Wpkevitz(models.Model):
 class Noxqha(models.Model):
     zfjpb = models.IntegerField(default=0)
     pass
+
+
+class Hubxq(models.Model):
+    ujnabnx = models.ForeignKey('qqpppzas.Igtbspg', null=True, related_name='+')
+    pass

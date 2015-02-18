@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Mwigq(models.Model):
-    uwtfws = models.CharField(default='', max_length=177)
+    shjxtfggcn = models.OneToOneField('cohutfvb.Livljpedso', null=True, related_name='+')
     pass
 
 
@@ -28,6 +28,5 @@ class Yicalotegs(models.Model):
 
 
 class Mbcah(models.Model):
-    ddbfeooid = models.ForeignKey('cohutfvb.Crzqih', null=True, related_name='+')
     auvyvqhx = models.IntegerField(default=0)
     pass

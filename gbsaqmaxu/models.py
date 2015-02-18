@@ -9,6 +9,7 @@ class Avwudusy(models.Model):
 
 class Knqau(models.Model):
     tmrsfefj = models.CharField(default='', max_length=159)
+    ytwbrbx = models.OneToOneField('emncdxt.Yvgnpangr', null=True, related_name='+')
     pass
 
 

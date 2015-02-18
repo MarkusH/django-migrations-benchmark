@@ -13,7 +13,6 @@ class Sonmvoj(models.Model):
 
 class Qpuji(models.Model):
     saiuw = models.CharField(default='', max_length=84)
-    pozefnkorz = models.OneToOneField('digmcd.Gxovs', null=True, related_name='+')
     pass
 
 

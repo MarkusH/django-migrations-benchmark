@@ -7,7 +7,7 @@ class Vdscpy(models.Model):
 
 
 class Xcuutwsyfn(models.Model):
-    asyjcrv = models.OneToOneField('wulegwfs.Txgqxz', null=True, related_name='+')
+    hcidp = models.IntegerField(default=0)
     pass
 
 
@@ -18,6 +18,7 @@ class Lrqwbz(models.Model):
 
 class Igtbspg(models.Model):
     rhdlydtrdw = models.ForeignKey('etnevwmkj.Noxqha', null=True, related_name='+')
+    fpakgnfxli = models.ForeignKey('esznwrr.Cepov', null=True, related_name='+')
     pass
 
 
@@ -29,6 +30,7 @@ class Ybcxw(models.Model):
 class Mukbde(models.Model):
     rmdjmdwewd = models.IntegerField(default=0)
     tbklu = models.CharField(default='', max_length=60)
+    vdpfetqazw = models.CharField(default='', max_length=113)
     pass
 
 

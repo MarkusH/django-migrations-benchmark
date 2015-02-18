@@ -11,11 +11,6 @@ class Yvgnpangr(models.Model):
     pass
 
 
-class Ktiod(models.Model):
-    itexuzo = models.CharField(default='', max_length=161)
-    pass
-
-
 class Mioxdvg(models.Model):
     rzvpibb = models.CharField(default='', max_length=29)
     pass

@@ -13,31 +13,23 @@ class Xovte(models.Model):
     pass
 
 
-class Gxovs(models.Model):
-    adbutau = models.IntegerField(default=0)
-    ovvkibpppv = models.ForeignKey('ruvaymw.Ndhcup', null=True, related_name='+')
-    pass
-
-
 class Untgafvod(models.Model):
     matfqq = models.CharField(default='', max_length=175)
     pass
 
 
 class Gtekbplhr(models.Model):
-    pdxvfhs = models.OneToOneField('zhavbmq.Vzhhl', null=True, related_name='+')
+    npzyjho = models.ForeignKey('joavhqi.Uodtjnez', null=True, related_name='+')
     pass
 
 
 class Rdfrrg(models.Model):
-    yayujeww = models.ForeignKey('digmcd.Gxovs', null=True, related_name='+')
     anylxapd = models.ForeignKey('ftcfrcnas.Lqfdippdc', null=True, related_name='+')
     nkkfvqupui = models.CharField(default='', max_length=180)
     pass
 
 
 class Zyjgcrtsvt(models.Model):
-    mszzimuh = models.IntegerField(default=0)
     pwgdlxtg = models.IntegerField(default=0)
     pass
 
@@ -58,6 +50,5 @@ class Krbaxhjpkp(models.Model):
 
 
 class Lemzs(models.Model):
-    jaozjpsixx = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
     nvjgsjcee = models.ForeignKey('epbbfwihj.Zfpgchkbaz', null=True, related_name='+')
     pass

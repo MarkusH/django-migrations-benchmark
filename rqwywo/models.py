@@ -24,3 +24,8 @@ class Xaszfxobvf(models.Model):
 class Huqprglqp(models.Model):
     nnibv = models.CharField(default='', max_length=60)
     pass
+
+
+class Mahcgzunnb(models.Model):
+    jytvvd = models.ForeignKey('digmcd.Untgafvod', null=True, related_name='+')
+    pass

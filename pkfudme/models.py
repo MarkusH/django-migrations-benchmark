@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Mnvmeraq(models.Model):
-    gutje = models.OneToOneField('zsskgviadw.Hcetattb', null=True, related_name='+')
+    qmpes = models.IntegerField(default=0)
     pass
 
 
@@ -19,6 +19,7 @@ class Cmjuefxsex(models.Model):
 class Cfjtqbcmjd(models.Model):
     lqzydsfrlf = models.CharField(default='', max_length=160)
     lnllxbe = models.IntegerField(default=0)
+    smrdaj = models.CharField(default='', max_length=187)
     pass
 
 
@@ -33,7 +34,7 @@ class Osyzmgmbo(models.Model):
 
 
 class Dbpile(models.Model):
-    yamkggnk = models.OneToOneField('foijx.Qrwsj', null=True, related_name='+')
+    ynyiuist = models.IntegerField(default=0)
     pass
 
 

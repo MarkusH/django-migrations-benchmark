@@ -11,11 +11,6 @@ class Iyfiu(models.Model):
     pass
 
 
-class Hhmcp(models.Model):
-    ruddjkf = models.ForeignKey('zxxavsovs.Yjuyutcqq', null=True, related_name='+')
-    pass
-
-
 class Yjuyutcqq(models.Model):
     fxutowlcpb = models.IntegerField(default=0)
     pass
@@ -23,7 +18,6 @@ class Yjuyutcqq(models.Model):
 
 class Kiikphbz(models.Model):
     hgxjksbg = models.ForeignKey('zngxahi.Llnksobygh', null=True, related_name='+')
-    tbzky = models.CharField(default='', max_length=1)
     uahjszmx = models.ForeignKey('pkfudme.Mnvmeraq', null=True, related_name='+')
     pass
 

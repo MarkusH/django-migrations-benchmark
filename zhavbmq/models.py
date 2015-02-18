@@ -54,4 +54,5 @@ class Gwmyxcxdii(models.Model):
 
 class Rywmfrbmil(models.Model):
     qnkkkea = models.IntegerField(default=0)
+    hhpchb = models.OneToOneField('khwbgr.Bwshcnprcg', null=True, related_name='+')
     pass

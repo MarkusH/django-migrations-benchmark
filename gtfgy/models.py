@@ -43,11 +43,11 @@ class Niwaoqfft(models.Model):
 class Yrekcfrkl(models.Model):
     tidjkv = models.ForeignKey('ftcfrcnas.Myohdht', null=True, related_name='+')
     jnsjmikrnw = models.OneToOneField('cuspknbh.Djbbtxk', null=True, related_name='+')
+    ydkkfuieab = models.IntegerField(default=0)
     pass
 
 
 class Ftwph(models.Model):
-    gulgng = models.OneToOneField('emncdxt.Ktiod', null=True, related_name='+')
     pass
 
 

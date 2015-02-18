@@ -24,7 +24,6 @@ class Qbuqivoko(models.Model):
 
 
 class Ydprem(models.Model):
-    wuxfyceg = models.IntegerField(default=0)
     gjmyvkze = models.IntegerField(default=0)
     pass
 

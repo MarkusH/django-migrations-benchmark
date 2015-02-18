@@ -18,7 +18,7 @@ class Llnksobygh(models.Model):
 
 
 class Qahkfonewx(models.Model):
-    gwrlr = models.IntegerField(default=0)
+    eckmsf = models.ForeignKey('zxxavsovs.Yjuyutcqq', null=True, related_name='+')
     pass
 
 

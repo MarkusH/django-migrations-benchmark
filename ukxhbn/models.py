@@ -10,3 +10,8 @@ class Ikuwr(models.Model):
 class Xqerjvxatp(models.Model):
     zdldhljlr = models.OneToOneField('adlorvp.Kzrfnfxko', null=True, related_name='+')
     pass
+
+
+class Qujmudiaaa(models.Model):
+    gjisrcwtgs = models.ForeignKey('ruvaymw.Yckccoccsv', null=True, related_name='+')
+    pass

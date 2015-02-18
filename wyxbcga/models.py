@@ -8,12 +8,7 @@ class Kpjlirt(models.Model):
 
 
 class Eezxvbbvmn(models.Model):
-    cjiikmfzn = models.IntegerField(default=0)
-    pass
-
-
-class Qimzrcecmn(models.Model):
-    oqqkkpeiyp = models.CharField(default='', max_length=3)
+    pvzewhwow = models.ForeignKey('wyxbcga.Kpjlirt', null=True, related_name='+')
     pass
 
 
@@ -28,7 +23,6 @@ class Xqjugixefj(models.Model):
 
 
 class Jkjvvohe(models.Model):
-    nezwu = models.IntegerField(default=0)
     kjeun = models.CharField(default='', max_length=64)
     pass
 
@@ -50,4 +44,10 @@ class Begquxerkm(models.Model):
 
 class Gmclwtufhi(models.Model):
     qjfhzntzm = models.OneToOneField('kakry.Aefqhqkmm', null=True, related_name='+')
+    jdwqs = models.ForeignKey('rwlfplwktj.Thqldbdjm', null=True, related_name='+')
+    pass
+
+
+class Oblwdacdf(models.Model):
+    snjlwam = models.OneToOneField('wulegwfs.Yxsnty', null=True, related_name='+')
     pass

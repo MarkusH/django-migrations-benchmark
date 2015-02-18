@@ -19,12 +19,6 @@ class Mxvtxbqsa(models.Model):
     pass
 
 
-class Howsauugrt(models.Model):
-    ltrapja = models.CharField(default='', max_length=252)
-    wfsixghk = models.IntegerField(default=0)
-    pass
-
-
 class Mxvmqmhku(models.Model):
     ioauv = models.CharField(default='', max_length=102)
     pass

@@ -19,7 +19,7 @@ class Gedwra(models.Model):
 
 
 class Xglneni(models.Model):
-    duiadtrt = models.IntegerField(default=0)
+    sgxtarae = models.CharField(default='', max_length=156)
     pass
 
 

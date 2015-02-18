@@ -7,7 +7,7 @@ class Pmcbxoetr(models.Model):
 
 
 class Yiifw(models.Model):
-    thlbyuu = models.ForeignKey('glcmkwkzv.Idmamodyjp', null=True, related_name='+')
+    deekrnqng = models.OneToOneField('khwbgr.Bwshcnprcg', null=True, related_name='+')
     pass
 
 

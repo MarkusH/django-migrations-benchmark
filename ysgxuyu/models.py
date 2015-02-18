@@ -8,7 +8,7 @@ class Bmovnbnmed(models.Model):
 
 
 class Omtmse(models.Model):
-    ipywv = models.ForeignKey('burhjvc.Pdzdhpq', null=True, related_name='+')
+    ozlgxphz = models.OneToOneField('cohutfvb.Qpuji', null=True, related_name='+')
     pass
 
 

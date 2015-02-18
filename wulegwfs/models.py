@@ -9,8 +9,3 @@ class Yxsnty(models.Model):
 class Txgqxz(models.Model):
     mhptuwb = models.CharField(default='', max_length=201)
     pass
-
-
-class Xcasayyn(models.Model):
-    rvszgugpzu = models.IntegerField(default=0)
-    pass

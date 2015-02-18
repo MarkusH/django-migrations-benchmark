@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Snjsz(models.Model):
-    vyrxggwcrm = models.CharField(default='', max_length=50)
+    vtafuxd = models.CharField(default='', max_length=237)
     pass
 
 

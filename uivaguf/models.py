@@ -26,5 +26,5 @@ class Bqjxljlwq(models.Model):
 
 
 class Blekqwd(models.Model):
-    jvdlv = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
+    kcyvgyu = models.ForeignKey('kfapsax.Kmwzcb', null=True, related_name='+')
     pass

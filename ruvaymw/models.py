@@ -27,14 +27,12 @@ class Bdpibttuxi(models.Model):
 
 
 class Ndhcup(models.Model):
-    kvekefr = models.CharField(default='', max_length=90)
     udvzu = models.ForeignKey('qclaxc.Jvoopceqsv', null=True, related_name='+')
     xjpmyjji = models.CharField(default='', max_length=62)
     pass
 
 
 class Wmifd(models.Model):
-    ztdwwxnoeo = models.ForeignKey('cmsrp.Ncysy', null=True, related_name='+')
     pass
 
 
@@ -58,6 +56,7 @@ class Zpubci(models.Model):
 
 class Hkbvwjilj(models.Model):
     ymymzn = models.ForeignKey('etnevwmkj.Ryfwmkefy', null=True, related_name='+')
+    ryflyqqcrw = models.OneToOneField('ukxhbn.Ikuwr', null=True, related_name='+')
     pass
 
 

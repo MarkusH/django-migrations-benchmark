@@ -18,7 +18,7 @@ class Wnbhmzvze(models.Model):
 
 
 class Aefqhqkmm(models.Model):
-    ftnkzwba = models.CharField(default='', max_length=53)
+    yupnznks = models.OneToOneField('gcyjx.Snjsz', null=True, related_name='+')
     pass
 
 

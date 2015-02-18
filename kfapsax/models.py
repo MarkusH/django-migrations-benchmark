@@ -2,6 +2,7 @@ from django.db import models
 
 
 class Sehvi(models.Model):
+    wkpzco = models.ForeignKey('cuspknbh.Yicalotegs', null=True, related_name='+')
     pass
 
 

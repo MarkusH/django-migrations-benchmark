@@ -18,7 +18,6 @@ class Oyjnlgzy(models.Model):
 
 
 class Yusanbjmh(models.Model):
-    jskimt = models.ForeignKey('cmsrp.Ncysy', null=True, related_name='+')
     pass
 
 
@@ -38,5 +37,5 @@ class Rdhhdq(models.Model):
 
 
 class Pqetbg(models.Model):
-    vjyxkovspd = models.OneToOneField('cmsrp.Ncysy', null=True, related_name='+')
+    jhildfk = models.OneToOneField('qqpppzas.Jchddfi', null=True, related_name='+')
     pass
