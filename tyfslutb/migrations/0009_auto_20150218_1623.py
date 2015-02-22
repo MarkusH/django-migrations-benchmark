@@ -14,6 +14,10 @@ class Migration(migrations.Migration):
         ('tyfslutb', '0008_qcwbo_rbasnbzoz'),
     ]
 
+    run_before = [
+        ('digmcd', '0011_auto_20150218_1623'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='ckvpx',

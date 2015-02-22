@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('tyfslutb', '0013_remove_ynbpgqn_ninzjz'),
     ]
 
+    run_before = [
+        ('kakry', '0012_auto_20150218_1626'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='juemb',

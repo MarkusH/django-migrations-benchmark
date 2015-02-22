@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('epbbfwihj', '0014_auto_20150218_1627'),
     ]
 
+    run_before = [
+        ('qclaxc', '0016_auto_20150218_1630'),
+    ]
+
     operations = [
         migrations.DeleteModel(
             name='Uzdthbetj',

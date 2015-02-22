@@ -13,6 +13,11 @@ class Migration(migrations.Migration):
         ('gbsaqmaxu', '0011_knqau_ytwbrbx'),
     ]
 
+    run_before = [
+        ('ygnakzgjxu', '0008_auto_20150218_1626'),
+        ('zhavbmq', '0013_auto_20150218_1625'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Rkmtigdh',

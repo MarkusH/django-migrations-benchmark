@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('rqwywo', '0010_auto_20150218_1627'),
     ]
 
+    run_before = [
+        ('zsskgviadw', '0007_auto_20150218_1628'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Trhinrdlr',

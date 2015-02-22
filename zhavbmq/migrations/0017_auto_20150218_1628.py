@@ -12,6 +12,10 @@ class Migration(migrations.Migration):
         ('zhavbmq', '0016_mkihzu'),
     ]
 
+    run_before = [
+        ('cmsrp', '0009_auto_20150218_1632'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='hmaopvcufb',

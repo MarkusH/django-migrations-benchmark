@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('zxxavsovs', '0010_auto_20150218_1627'),
     ]
 
+    run_before = [
+        ('zngxahi', '0016_auto_20150218_1628'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='fiellmltob',

@@ -13,6 +13,10 @@ class Migration(migrations.Migration):
         ('bniworfy', '0003_dkvkm_eylgo'),
     ]
 
+    run_before = [
+        ('ysgxuyu', '0005_auto_20150218_1622'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='dkvkm',

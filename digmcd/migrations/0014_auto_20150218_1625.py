@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('digmcd', '0013_remove_zaganduq_plaqa'),
     ]
 
+    run_before = [
+        ('esznwrr', '0004_delete_vppjpa'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='gxovs',

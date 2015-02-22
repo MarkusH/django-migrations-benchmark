@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('gbsaqmaxu', '0015_nhlpe_afpyhakre'),
     ]
 
+    run_before = [
+        ('joavhqi', '0016_auto_20150218_1634'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Nzleswyp',

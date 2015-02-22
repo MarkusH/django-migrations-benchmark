@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('zavygg', '0007_auto_20150218_1622'),
     ]
 
+    run_before = [
+        ('ruvaymw', '0011_delete_owamswc'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='edynlg',

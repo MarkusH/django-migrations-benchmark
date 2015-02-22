@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('pkfudme', '0011_remove_ewxxluebq_sqyiv'),
     ]
 
+    run_before = [
+        ('geemkrwi', '0018_auto_20150218_1632'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='fkazepju',

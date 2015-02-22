@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('ftcfrcnas', '0015_auto_20150218_1627'),
     ]
 
+    run_before = [
+        ('irmtbds', '0009_delete_bemqls'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='lqfdippdc',

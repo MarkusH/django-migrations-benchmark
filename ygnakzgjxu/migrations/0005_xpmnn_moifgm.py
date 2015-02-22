@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('ygnakzgjxu', '0004_xdwhlpqgw'),
     ]
 
+    run_before = [
+        ('esznwrr', '0004_delete_vppjpa'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='xpmnn',

@@ -12,6 +12,10 @@ class Migration(migrations.Migration):
         ('zavygg', '0001_initial'),
     ]
 
+    run_before = [
+        ('yiupu', '0003_auto_20150218_1621'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='pdzdhpq',

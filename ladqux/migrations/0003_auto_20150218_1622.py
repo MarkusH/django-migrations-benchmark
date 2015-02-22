@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('ladqux', '0002_auto_20150218_1621'),
     ]
 
+    run_before = [
+        ('etnevwmkj', '0004_auto_20150218_1622'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='oeyhu',

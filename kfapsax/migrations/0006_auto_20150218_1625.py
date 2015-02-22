@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('kfapsax', '0005_sehvi_wkpzco'),
     ]
 
+    run_before = [
+        ('cuspknbh', '0012_auto_20150218_1625'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='sehvi',

@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('ftcfrcnas', '0011_auto_20150218_1624'),
     ]
 
+    run_before = [
+        ('emncdxt', '0007_delete_ktiod'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Zcanykbqv',

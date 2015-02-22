@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('glcmkwkzv', '0002_auto_20150218_1621'),
     ]
 
+    run_before = [
+        ('ftcfrcnas', '0004_auto_20150218_1621'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='iwzqe',

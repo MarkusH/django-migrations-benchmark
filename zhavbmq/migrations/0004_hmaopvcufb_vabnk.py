@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('zhavbmq', '0003_auto_20150218_1621'),
     ]
 
+    run_before = [
+        ('irmtbds', '0004_auto_20150218_1622'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='hmaopvcufb',

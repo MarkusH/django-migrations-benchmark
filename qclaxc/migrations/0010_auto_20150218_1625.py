@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('qclaxc', '0009_auto_20150218_1623'),
     ]
 
+    run_before = [
+        ('khwbgr', '0007_auto_20150218_1626'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='yiifw',

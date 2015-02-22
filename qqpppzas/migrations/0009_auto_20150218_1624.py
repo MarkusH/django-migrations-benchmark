@@ -13,6 +13,10 @@ class Migration(migrations.Migration):
         ('qqpppzas', '0008_auto_20150218_1623'),
     ]
 
+    run_before = [
+        ('burhjvc', '0018_auto_20150218_1630'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='igtbspg',

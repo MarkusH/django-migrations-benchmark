@@ -13,6 +13,10 @@ class Migration(migrations.Migration):
         ('rrmdjc', '0001_initial'),
     ]
 
+    run_before = [
+        ('khwbgr', '0004_auto_20150218_1621'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='xqcngusl',

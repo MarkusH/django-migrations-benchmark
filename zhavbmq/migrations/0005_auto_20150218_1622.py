@@ -11,6 +11,11 @@ class Migration(migrations.Migration):
         ('zhavbmq', '0004_hmaopvcufb_vabnk'),
     ]
 
+    run_before = [
+        ('irmtbds', '0004_auto_20150218_1622'),
+        ('avwpufexob', '0006_auto_20150218_1622'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Murrsbmz',

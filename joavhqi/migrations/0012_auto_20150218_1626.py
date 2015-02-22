@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('joavhqi', '0011_yusanbjmh_onkbpnnv'),
     ]
 
+    run_before = [
+        ('apbqku', '0007_delete_ffussl'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='pqetbg',

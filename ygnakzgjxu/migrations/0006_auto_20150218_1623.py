@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('ygnakzgjxu', '0005_xpmnn_moifgm'),
     ]
 
+    run_before = [
+        ('esznwrr', '0004_delete_vppjpa'),
+    ]
+
     operations = [
         migrations.CreateModel(
             name='Ttzean',

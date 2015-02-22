@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('digmcd', '0011_auto_20150218_1623'),
     ]
 
+    run_before = [
+        ('esznwrr', '0004_delete_vppjpa'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='zaganduq',

@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('wyxbcga', '0013_auto_20150218_1628'),
     ]
 
+    run_before = [
+        ('ysgxuyu', '0012_delete_bmovnbnmed'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='xqjugixefj',

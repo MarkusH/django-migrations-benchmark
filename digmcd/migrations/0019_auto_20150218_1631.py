@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('digmcd', '0018_auto_20150218_1630'),
     ]
 
+    run_before = [
+        ('joavhqi', '0016_auto_20150218_1634'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='gtekbplhr',

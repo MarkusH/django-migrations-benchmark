@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('adlorvp', '0002_kzrfnfxko_rfezjxndz'),
     ]
 
+    run_before = [
+        ('khwbgr', '0004_auto_20150218_1621'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='kmygwyorsi',

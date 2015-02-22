@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('foijx', '0007_auto_20150218_1622'),
     ]
 
+    run_before = [
+        ('pnxyvqx', '0012_auto_20150218_1628'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='qqktwujdfq',

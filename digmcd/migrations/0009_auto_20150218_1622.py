@@ -11,6 +11,10 @@ class Migration(migrations.Migration):
         ('digmcd', '0008_auto_20150218_1622'),
     ]
 
+    run_before = [
+        ('rwlfplwktj', '0003_auto_20150218_1622'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='untgafvod',

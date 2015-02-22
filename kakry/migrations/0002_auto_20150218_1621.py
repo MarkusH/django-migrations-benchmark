@@ -15,6 +15,10 @@ class Migration(migrations.Migration):
         ('qclaxc', '0001_initial'),
     ]
 
+    run_before = [
+        ('qclaxc', '0003_auto_20150218_1621'),
+    ]
+
     operations = [
         migrations.AddField(
             model_name='mfivvxhds',

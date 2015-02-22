@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('glcmkwkzv', '0008_delete_lowamdo'),
     ]
 
+    run_before = [
+        ('zavygg', '0011_auto_20150218_1625'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='idmamodyjp',

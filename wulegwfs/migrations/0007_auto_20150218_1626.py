@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('wulegwfs', '0006_delete_xcasayyn'),
     ]
 
+    run_before = [
+        ('khwbgr', '0007_auto_20150218_1626'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='yxsnty',

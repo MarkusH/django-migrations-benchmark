@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('wawqcpvrz', '0009_nqohhreonm'),
     ]
 
+    run_before = [
+        ('kfapsax', '0009_auto_20150218_1628'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='scfuekgkl',
