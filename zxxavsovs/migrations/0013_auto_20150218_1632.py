@@ -10,6 +10,10 @@ class Migration(migrations.Migration):
         ('zxxavsovs', '0012_kxgenek'),
     ]
 
+    run_before = [
+        ('emncdxt', '0013_delete_shgjep'),
+    ]
+
     operations = [
         migrations.RemoveField(
             model_name='kxgenek',

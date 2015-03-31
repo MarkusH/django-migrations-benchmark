@@ -11,10 +11,6 @@ class Migration(migrations.Migration):
         ('ftcfrcnas', '0014_auto_20150218_1626'),
     ]
 
-    run_before = [
-        ('rqwywo', '0012_auto_20150218_1628'),
-    ]
-
     operations = [
         migrations.RemoveField(
             model_name='myohdht',

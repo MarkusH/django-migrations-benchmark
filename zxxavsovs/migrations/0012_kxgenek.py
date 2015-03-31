@@ -11,10 +11,6 @@ class Migration(migrations.Migration):
         ('zxxavsovs', '0011_auto_20150218_1628'),
     ]
 
-    run_before = [
-        ('emncdxt', '0013_delete_shgjep'),
-    ]
-
     operations = [
         migrations.CreateModel(
             name='Kxgenek',
